@@ -30,35 +30,46 @@
 		</section>
 
 
+		<div class="featured-section">
+			<div class="wrp">
+				<section class="article-list article-list--podcast">
+					<h1 class="article-list__title"><a href="/podcasts/">Últimos episodios</a></h1>
+					{{ range where .Paginator.Pages "Section" "podcasts"}}
+					<article class="article-list__item">
+						<div class="article-list__item-meta">
+							<div class="article-list__item-season">Temporada {{ .Params.temporada }} Episodio {{ .Params.episodio }}</div>
+							<div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
+						</div>
+
+						<h1 class="article-list__item-title">
+							<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+						</h1>
+						<p class="article-list__item-desc">
+							{{ .Description  }}
+							<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Ir al podcast <i class="icon icon-right-open"></i></a>
+						</p>
+					</article>
+					{{ end }}
+				</section>
+			</div>
+		</div>
+
+
 		<div class="wrp">
-
 			<section class="article-list">
-				<h1 class="article-list__title">Últimos episodios</h1>
-				{{ range where .Paginator.Pages "Section" "podcasts"}}
-				<article>
-					<span class="author">Publicado por {{ .Params.author }} el {{ .Date.Format "2-01-2006" }}</span>
-					<h1>
+				<h1 class="article-list__title"><a href="/blog/">Blog</a></h1>
+				{{ range first 5 (where .Paginator.Pages "Section" "blog")}}
+				<article class="article-list__item">
+					<div class="article-list__item-meta">
+						<div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
+						<div class="article-list__item-author">por {{ .Params.author }}</div>
+					</div>
+					<h1 class="article-list__item-title">
 						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
 					</h1>
-					<p>
-						{{ .Description  }}
-						<a href="{{ .Permalink }}" title="{{ .Title }}">Ir al podcast &rarr;</a>
-					</p>
-				</article>
-				{{ end }}
-			</section>
-
-			<section class="article-list">
-				<h1 class="article-list__title">Blog</h1>
-				{{ range where .Paginator.Pages "Section" "blog"}}
-				<article>
-					<span class="author">Publicado por {{ .Params.author }} el {{ .Date.Format "2-01-2006" }}</span>
-					<h1>
-						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-					</h1>
-					<p>
+					<p class="article-list__item-desc">
 						{{ .Summary  }}
-						<a href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo &rarr;</a>
+						<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo <i class="icon icon-right-open"></i></a>
 					</p>
 				</article>
 				{{ end }}

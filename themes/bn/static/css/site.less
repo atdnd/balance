@@ -43,6 +43,16 @@ a:hover {
 	margin: 0 auto;
 }
 
+.single-page {
+	.page__img {
+		height: 160px;
+		background-color: #434;
+	}
+	.page-wrp {
+		margin-top: 100px;
+	}
+}
+
 .page-wrp {
 	padding: 3rem 3rem 0;
 	position: relative;
@@ -116,7 +126,7 @@ a:hover {
 
 .post__cnt img {
 	width: auto;
-	max-width: 80%;
+	max-width: 100%;
 	display: block;
 	vertical-align: middle;
 	margin: 1.125rem auto;
@@ -154,6 +164,7 @@ a:hover {
 	z-index: 1;
 	overflow: hidden;
 	height: 75px;
+	background: rgba(0,0,0,.25);
 }
 
 .main-hdr .wrp {
@@ -177,11 +188,16 @@ nav {
 nav a {
 	display: inline-block;
 	margin-left: 1rem;
-	font-size: .85rem;
+	letter-spacing: -1px;
+	font-size: .875rem;
 	text-transform: uppercase;
 	color: @bn-white;
 	line-height: 35px;
 	font-weight: bold;
+}
+
+nav a:hover {
+	color: @bn-yellow;
 }
 
 .main-ftr {
@@ -412,3 +428,73 @@ nav a {
 	vertical-align: middle;
 }
 
+.featured-section {
+	background-color: #f5f1f5;
+	box-shadow: 0 3px 5px rgba(0,0,0,.1);
+}
+
+.article-list {
+	padding: 2rem 0;
+}
+
+.article-list + .article-list {
+	border-top: 5px solid @bn-purple;
+	margin-top: 2rem;
+}
+
+.article-list__title {
+	color: @bn-purple;
+	font-size: 2.125rem;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 3rem;
+	margin-bottom: 1.5rem;
+	letter-spacing: -1px;
+	padding: 1.5rem 0 1rem;
+}
+
+.article-list__item {
+	display: block;
+}
+
+.article-list__item + .article-list__item {
+	margin-top: 1.5rem;
+	padding-top: 1.5rem;
+	border-top: 1px solid @bn-white;
+}
+
+.article-list__item-meta {
+	font-size: .85rem;
+	line-height: 1rem;
+	position: relative;
+}
+
+.article-list__item-date,
+.article-list__item-season {
+	text-transform: uppercase;
+	padding: .5rem;
+	background: @bn-white;
+	color: @bn-purple;
+	font-weight: bold;
+	display: inline-block;
+}
+
+.article-list__item-season {
+	background: @bn-yellow;
+	color: @bn-purple;
+}
+
+.article-list__item-title {
+	font-size: 1.875rem;
+}
+
+.article-list__item-author {
+	display: inline-block;
+}
+
+.article-list__item-more {
+	display: block;
+	line-height: 2.25rem;
+	vertical-align: middle;
+	font-weight: bold;
+}

@@ -1,28 +1,32 @@
 {{ partial "header.html" . }}
 
-<div class="pg-wrp">
+<div class="single-page">
+	<div class="page__img">
 
-	<section role="main" class="blog-list">
-		<div class="wrp">
-			<div class="blk filtered-group">
+	</div>
+
+	<div class="wrp page-wrp">
+
+			<section class="article-list" role="main">
+				<h1 class="article-list__title">{{ .Title }}</h1>
 				{{ range .Paginator.Pages }}
-				<article>
-					<span class="author">Published by {{ .Params.author }} on {{ .Date.Format "2 Jan 2006" }}</span>
-					<h1>
+				<article class="article-list__item">
+					<div class="article-list__item-meta">
+						<div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
+						<div class="article-list__item-author">por {{ .Params.author }}</div>
+					</div>
+					<h1 class="article-list__item-title">
 						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
 					</h1>
-					<p>
+					<p class="article-list__item-desc">
 						{{ .Summary  }}
-						<a href="{{ .Permalink }}" title="{{ .Title }}">Read More <i class="icon-right-big"></i></a>
+						<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo <i class="icon icon-right-open"></i></a>
 					</p>
 				</article>
 				{{ end }}
-			</div>
-		</div>
-		<aside>
+			</section>
 
-		</aside>
-	</section>
+		</div>
 
 </div>
 
