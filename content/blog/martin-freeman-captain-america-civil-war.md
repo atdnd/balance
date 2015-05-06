@@ -2,7 +2,7 @@
 date: 2015-05-05T18:16:13-03:00
 draft: false
 title: "Martin Freeman se incorpora al reparto de Captain America: Civil War"
-image: "2015/05/Martin-freeman-cover.jpg"
+image: "2015/05/Martin-Freeman-cover.jpg"
 author: "Micaela De Armas"
 description: "Martin Freeman se une a Chris Evans, Robert Downey Jr., Chadwick Boseman y Daniel Bruhl en Captain America: Civil War. Los hermanos Russo buscan repetir el éxito de Captain America: The Winter Soldier."
 ---
