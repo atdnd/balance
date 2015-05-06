@@ -1,0 +1,15 @@
+---
+baseurl: "http://balancenegativo.com/"
+languageCode: "es-uy"
+title: "Balance Negativo"
+theme: "bn"
+metadataformat: "yaml"
+builddrafts: false
+permalinks:
+  podcasts: /podcasts/:year/:month/:day/:filename/
+  blog: /blog/:year/:month/:day/:filename/
+taxonomies:
+  category: "categories"
+paginate: 10
+paginatePath: "page"
+---

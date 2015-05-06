@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+<div class="pg-wrp">
+
+	<section role="main" class="blog-list">
+		<div class="wrp">
+			<div class="blk filtered-group">
+				{{ range .Paginator.Pages }}
+				<article>
+					<span class="author">Published by {{ .Params.author }} on {{ .Date.Format "2 Jan 2006" }}</span>
+					<h1>
+						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+					</h1>
+					<p>
+						{{ .Summary  }}
+						<a href="{{ .Permalink }}" title="{{ .Title }}">Read More <i class="icon-right-big"></i></a>
+					</p>
+				</article>
+				{{ end }}
+			</div>
+		</div>
+		<aside>
+
+		</aside>
+	</section>
+
+</div>
+
+{{ partial "footer.html" . }}

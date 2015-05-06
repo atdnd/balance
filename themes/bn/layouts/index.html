@@ -1,0 +1,71 @@
+{{ partial "header.html" . }}
+	<div role="main">
+		<section class="hero">
+			{{ range first 1 (where .Site.Recent "Section" "podcasts") }}
+			<div class="hero__wrp">
+				<div class="hero__wrp-cnt">
+					<span class="hero__meta">Temporada {{ .Params.temporada }}: Episodio {{ .Params.episodio }}</span>
+					<h1 class="hero__tit">&ldquo;{{ .Title }}&rdquo;</h1>
+					<h2 class="hero__sub-tit">{{ .Params.subtitle }}</h2>
+					<p class="hero__desc">
+						{{ .Description }}
+					</p>
+					<div class="hero__podcast">
+						<audio controls>
+							<source src="/audio/{{ .Params.audio }}.mp3" type="audio/mpeg">
+							Tu navegador no soporta la etiqueta audio de html5 o nos falto subir un formato soportado, sori.
+						</audio>
+					</div>
+					<div class="hero__actions">
+						<div class="hero__actions-wrp">
+							<div class="hero__actions-btn-wrp">
+								<a class="btn " href="{{ .Params.soundcloudurl }}"><i class="icon icon-soundcloud"></i> Escuchar en SoundCloud</a>
+								<a class="btn btn--negativo btn--descarga" href="/audio/{{ .Params.audio }}.mp3" target="_blank" title="Descargar Episodio 01" download><i class="icon icon-download"></i> Descargar Episodio</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+		</section>
+
+
+		<div class="wrp">
+
+			<section class="article-list">
+				<h1 class="article-list__title">Últimos episodios</h1>
+				{{ range where .Paginator.Pages "Section" "podcasts"}}
+				<article>
+					<span class="author">Publicado por {{ .Params.author }} el {{ .Date.Format "2-01-2006" }}</span>
+					<h1>
+						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+					</h1>
+					<p>
+						{{ .Description  }}
+						<a href="{{ .Permalink }}" title="{{ .Title }}">Ir al podcast &rarr;</a>
+					</p>
+				</article>
+				{{ end }}
+			</section>
+
+			<section class="article-list">
+				<h1 class="article-list__title">Blog</h1>
+				{{ range where .Paginator.Pages "Section" "blog"}}
+				<article>
+					<span class="author">Publicado por {{ .Params.author }} el {{ .Date.Format "2-01-2006" }}</span>
+					<h1>
+						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+					</h1>
+					<p>
+						{{ .Summary  }}
+						<a href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo &rarr;</a>
+					</p>
+				</article>
+				{{ end }}
+			</section>
+
+
+		</div>
+	</div>
+{{ partial "footer.html" . }}
+
