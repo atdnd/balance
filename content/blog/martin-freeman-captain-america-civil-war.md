@@ -20,3 +20,5 @@ Martin Freeman se une a Chris Evans, Robert Downey Jr., Chadwick Boseman y Danie
 El actor británico se destacó como Doctor Watson en la serie de la BBC Sherlock, rol que le otorgó dos premios: un Emmy y un BAFTA. Freeman también fue nominado a los Globos de Oro por su rol como Lester Nygaad en Fargo, serie que recomendamos en nuestro primer podcast.
 
 Marvel todavía no reveló qué personaje será interpretado por Freeman en Civil War y en la web ya comenzaron las especulaciones. Desde Balance Negativo nos gustaría saber tu opinión: ¿Qué personaje interpretará Martin Freeman en Civil War? ¿Qué personaje de los comics te gustaría ver en esta nueva entrega de Captain America?
+
+!["Martin Freeman como Watson en Sherlock de la BBC"](/img/2015/05/sherlock-martin-freeman.jpg "Martin Freeman como Watson en Sherlock de la BBC")
