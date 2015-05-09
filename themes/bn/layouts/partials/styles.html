@@ -1,3 +1,9 @@
-<link rel='stylesheet' href='/css/screen.css' type='text/css' media='screen, projection, handheld' />
+{{ if eq .Site.Params.env  "dev" }}
 
-<!--script src="/js/less.min.js" type="text/javascript"></script-->
+<link rel='stylesheet' href='/css/styles.less' type='text/less' media='screen, projection, handheld' />
+<script src="/js/less.min.js" type="text/javascript"></script>
+
+{{ else }}
+<link rel='stylesheet' href='/css/screen.css?v=2' type='text/css' media='screen, projection, handheld' />
+{{ end }}
+

@@ -5,6 +5,8 @@ title: Más imágenes de Suicide Squad
 image: "2015/05/suicide-squad-cast.jpg"
 author: "Micaela De Armas"
 description: "Mientras que Marvel sigue embolsando plata con Avengers: Age of Ultron, trepando los 650 millones de dólares, nuestros amigos de DC siguen generando expectativas para el gran lanzamiento de Batman vs Superman: Dawn of Justice el 25 de marzo del 2016. Ese mismo año, el 5 de agosto, Suicide Squad llegará a las pantallas. Dirigida por David Ayer (conocido por Fury y Training Day) está en pleno rodaje en Toronto."
+categories:
+  - Noticias
 ---
 
 Mientras que Marvel sigue embolsando plata con Avengers: Age of Ultron, trepando los 650 millones de dólares, nuestros amigos de DC siguen generando expectativas para el gran lanzamiento de Batman vs Superman: Dawn of Justice el 25 de marzo del 2016. Ese mismo año, el 5 de agosto, Suicide Squad llegará a las pantallas. Dirigida por David Ayer (conocido por Fury y Training Day) está en pleno rodaje en Toronto.

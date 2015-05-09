@@ -5,6 +5,8 @@ title: "Captain America: Civil War retoma Avengers: Age of Ultron. Sinópsis ofi
 image: "2015/05/civil-war-cover.jpg"
 author: "Micaela De Armas"
 description: "Captain America: Civil War retoma desde el final de Avengers: Age of Ultron, mientras Steve Rogers lidera al nuevo equipo de Vengadores que continúan esforzándose para salvaguardar la humanidad."
+categories:
+  - Noticias
 ---
 
 Comienza la producción de Civil War en los estudios Pinewood de Atlanta, Georgia y Marvel publicó la sinópsis oficial junto con la lista confirmada de actores que participarán en la película. ¿Están preparados?

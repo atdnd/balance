@@ -14,6 +14,11 @@
 					<div class="article-list__item-meta">
 						<div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
 						<div class="article-list__item-author">por {{ .Params.author }}</div>
+						<div class="article-list__item-categories">
+						{{ range .Params.categories }}
+							en: <a href="/categories/{{ . | urlize }}/" class="article-list__item-category">{{ . }}</a>
+						{{ end }}
+						</div>
 					</div>
 					<h1 class="article-list__item-title">
 						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>

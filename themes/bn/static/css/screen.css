@@ -180,6 +180,7 @@ nav a:hover {
 }
 .hero {
   width: 100%;
+  min-height: 500px;
   height: 100vh;
   display: table;
   background: #290c38;
@@ -247,6 +248,7 @@ nav a:hover {
 .hero__actions {
   padding: 15px 0;
   background: rgba(40, 0, 50, 0.5);
+  min-height: 76px;
   height: 15vh;
   position: absolute;
   bottom: 0;
@@ -423,9 +425,34 @@ nav a:hover {
 .article-list__item-author {
   display: inline-block;
 }
+.article-list__item-categories {
+  display: inline-block;
+}
+.article-list__item-category {
+  text-decoration: underline;
+}
 .article-list__item-more {
   display: block;
   line-height: 2.25rem;
   vertical-align: middle;
   font-weight: bold;
+}
+@media screen and (max-width: 640px) {
+  html {
+    font-size: 13px;
+  }
+  .hero__actions {
+    height: auto;
+  }
+  .btn {
+    line-height: 1.25rem;
+    width: 100%;
+    max-width: 75%;
+    display: block;
+    margin: 0 auto;
+  }
+  .btn--descarga {
+    min-width: 0;
+    margin-top: 1rem;
+  }
 }
