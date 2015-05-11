@@ -131,10 +131,32 @@ a:hover {
   z-index: 1;
   overflow: hidden;
   height: 75px;
-  background: rgba(0, 0, 0, 0.25);
+  background-color: #323;
+}
+.main-hdr:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAJElEQVQIW2NkYGCQZEAANUYkATUGBoZbMAEwB6QQJGAP44AEAFt4A49eLneNAAAAAElFTkSuQmCC");
+  z-index: 1;
+}
+.main-hdr:after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #290c38;
 }
 .main-hdr .wrp {
   position: relative;
+  z-index: 2;
 }
 .main-hdr__tit {
   position: absolute;
@@ -454,5 +476,19 @@ nav a:hover {
   .btn--descarga {
     min-width: 0;
     margin-top: 1rem;
+  }
+}
+@media screen and (max-width: 500px) {
+  .main-hdr__tit a {
+    height: 48px;
+    width: 48px;
+    display: block;
+    line-height: 48px;
+    background: url(/android-chrome-48x48.png) no-repeat;
+    position: relative;
+    top: 6px;
+  }
+  .main-hdr__tit a img {
+    display: none;
   }
 }
