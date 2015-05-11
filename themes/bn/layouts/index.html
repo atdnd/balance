@@ -74,10 +74,13 @@
 					</h1>
 					<p class="article-list__item-desc">
 						{{ .Summary  }}
-						<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo <i class="icon icon-right-open"></i></a>
+						<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo<i class="icon icon-right-open"></i></a>
 					</p>
 				</article>
 				{{ end }}
+				<footer class="article-list__ftr">
+					<a href="/blog/" class="article-list__view-all">Ver publicaciones anteriores<i class="icon icon-right-open"></i></a>
+				</footer>
 			</section>
 
 

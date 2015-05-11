@@ -65,6 +65,7 @@ a {
 	text-decoration: none;
 	color: @bn-purple;
 	transition: color .15s ease-out;
+	outline: none;
 }
 
 a:hover {
@@ -568,9 +569,34 @@ nav a:hover {
 
 .article-list__item-more {
 	display: block;
-	line-height: 2.25rem;
+	line-height: 2.5rem;
 	vertical-align: middle;
 	font-weight: bold;
+
+	.icon {
+		position: relative;
+		top: 1px;
+		margin-left: .25rem;
+	}
+}
+
+.article-list__ftr {
+	border-top: 1px solid #eeebee;
+	padding: 1.5rem 0;
+	margin-top: 1.25rem;
+	text-align: right;
+}
+
+.article-list__view-all {
+	font-size: 1.125rem;
+	font-weight: bold;
+	line-height: 1rem;
+
+	.icon {
+		position: relative;
+		top: 1px;
+		margin-left: .25rem;
+	}
 }
 
 
