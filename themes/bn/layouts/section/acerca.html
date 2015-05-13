@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+<div class="page__img" >
+
+</div>
+<div class="wrp page-wrp">
+    <section class="post entry single" role="main">
+        <header class="post__header">
+            <h1 class="post__title title">{{ .Title }}</h1>
+        </header>
+        <div>
+            {{ .Content }}
+        </div>
+        <footer class="post__ftr">
+
+        </footer>
+    </section>
+</div>
+
+{{ partial "footer.html" . }}

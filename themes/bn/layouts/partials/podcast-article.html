@@ -1,0 +1,18 @@
+<article class="article-list__item entry">
+    <div class="article-list__item-meta posted">
+        <div class="article-list__item-season">Temporada {{ .Params.temporada }} Episodio {{ .Params.episodio }}</div>
+        <time class="article-list__item-date date" pubdate itemprop="dateCreated" datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2-01-2006" }}</time>
+        <div class="article-list__item-categories">
+            {{ range .Params.categories }}
+            en: <a href="/categories/{{ . | urlize }}/" class="article-list__item-category">{{ . }}</a>
+            {{ end }}
+        </div>
+    </div>
+    <h1 class="article-list__item-title title">
+        <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a>
+    </h1>
+    <p class="article-list__item-desc">
+        {{ .Description  }}
+        <a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Ir al podcast <i class="icon icon-right-open"></i></a>
+    </p>
+</article>
