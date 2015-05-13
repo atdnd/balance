@@ -5,7 +5,7 @@ categories:
 date: 2015-05-12T22:25:46-03:00
 description: "Harley Quinn y Deadshot, se revelan imágenes del set de Suicide Squad que levantan sospechas acerca del argumento de la película."
 draft: false
-image: 2015/05/harley-deadshot-cover.jpg
+image: 2015/05/harley-deadshot-ds-cover.jpg
 title: "Harley Quinn y Deadshot, fotos desde el set de Suicide Squad"
 ---
 
