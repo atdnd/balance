@@ -168,6 +168,25 @@ a:hover {
 	margin: 1.25rem auto;
 }
 
+.post__cnt figure {
+	width: 100%;
+	margin: 2rem 0;
+}
+
+.post__cnt figure img {
+	max-width: auto;
+	width: 100%;
+	border: 4px solid #eaeaea;
+	margin-bottom: 0;
+}
+
+.post__cnt figure figcaption {
+	font-size: 1rem;
+	padding: 1rem 0;
+	color: #443344;
+	border-bottom: 1px solid #c9c8cd;
+}
+
 .post__cnt .iframe-cnt {
 	margin: 0 auto;
 	display: table;
@@ -703,6 +722,69 @@ nav a:hover {
 	border-radius: 75px;
 }
 
+.spoilers-advice {
+	display: table;
+	position: relative;
+	width: 100%;
+	background: @bn-yellow;
+	color: @bn-purple;
+	min-height: 50vh;
+	padding: 5vh 3rem;
+	margin: 2rem 0;
+	text-align: center;
+}
+
+.spoilers-advice__wrp {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.spoilers-advice__title:before {
+	content: "!";
+	display: block;
+	position: relative;
+	margin: 0 auto 20px;
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 55px;
+	color: @bn-yellow;
+	background: @bn-purple;
+	border-radius: 100%;
+}
+
+.spoilers-advice__title {
+	font-size: 2.65rem;
+	line-height: 3rem;
+	display: block;
+	margin-bottom: 1.25rem;
+}
+
+.spoilers-advice + .spoilers-section {
+	margin-top: -2rem;
+}
+
+.spoilers-section {
+	min-height: 30vh;
+	display: table;
+	width: 100%;
+	background: @bn-purple;
+	color: @bn-white;
+	padding: 5vh 3rem;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.spoilers-section__wrp {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.spoilers-section__title {
+	font-size: 2rem;
+	display: block;
+	margin-bottom: 1rem;
+}
 
 @media screen and (max-width: 720px) {
 	.main-ftr {
@@ -808,7 +890,7 @@ nav a:hover {
 			line-height: 48px;
 			background: url(/android-chrome-48x48.png) no-repeat;
 			position: relative;
-			top: 6px;
+			top: 0;
 		}
 
 		a img{

@@ -101,7 +101,7 @@
 			<div class="wrp">
 				<section class="article-list article-list--podcast">
 					<h1 class="article-list__title"><a href="/podcasts/">Últimos episodios</a></h1>
-					{{ range where .Paginator.Pages "Section" "podcasts"}}
+					{{ range first 3 (where .Data.Pages "Section" "podcasts")}}
 						{{ partial "podcast-article.html" . }}
 					{{ end }}
 				</section>
