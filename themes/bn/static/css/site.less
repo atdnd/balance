@@ -75,7 +75,7 @@ a:hover {
 .wrp,
 .main-cnt {
 	max-width: 820px;
-	padding: 0 3rem;
+	padding: 0 36px;
 	margin: 0 auto;
 }
 
@@ -90,10 +90,10 @@ a:hover {
 }
 
 .page-wrp {
-	padding: 3rem 3rem 0;
+	padding: 3rem 36px 0;
 	position: relative;
 	margin-top: 45vh;
-	z-index: 1;
+	z-index: 0;
 	background-color: @page-background;
 }
 
@@ -198,7 +198,7 @@ a:hover {
 }
 
 .main-hdr {
-	position: absolute;
+	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -206,6 +206,10 @@ a:hover {
 	overflow: hidden;
 	height: 75px;
 	background-color: #323;
+}
+
+.main-hdr .wrp {
+	height: 75px;
 }
 
 .main-hdr:before {
@@ -240,13 +244,13 @@ a:hover {
 	position: absolute;
 	margin: 0;
 	top: 7px;
-	left: 30px;
+	left: 36px;
 	vertical-align: middle;
 }
 
 nav {
 	position: absolute;
-	right: 30px;
+	right: 36px;
 	top: 20px;
 }
 
@@ -267,8 +271,7 @@ nav a:hover {
 
 .main-ftr {
 	padding: 24px 0;
-	font-size: .75rem;
-	line-height: 1.125rem;
+	font-size: .85rem;
 	border-top: 1px solid #ddd0de;
 	margin-top: 3rem;
 }
@@ -278,12 +281,75 @@ nav a:hover {
 	display: table;
 }
 
-.main-ftr > .wrp > * {
-	display: table-cell;
+.main-ftr .social-links {
+
 }
 
-.main-ftr .social-links {
-	text-align: right;
+.main-ftr__main {
+	display: table;
+	width: 100%;
+	padding-bottom: 20px;
+}
+
+.main-ftr__desc {
+	margin-top: 1rem;
+}
+
+.main-ftr__col {
+	display: table-cell;
+	width: 33.33333%;
+	padding: 0 2rem;
+	position: relative;
+	vertical-align: top;
+}
+
+.main-ftr__col:first-child {
+	padding-top: 40px;
+	padding-left: 0;
+}
+
+.main-ftr__col:last-child {
+	padding-right: 0;
+}
+
+.main-ftr__col strong {
+	text-transform: uppercase;
+	line-height: 40px;
+}
+
+.main-ftr__logo {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.main-ftr__list {
+	display: block;
+	margin-left: 0;
+	padding-left: 0;
+	font-size: .9rem;
+}
+
+.main-ftr__list li {
+	display: block;
+	list-style: none;
+	padding: 0;
+	line-height: 1.25rem;
+
+	.icon {
+		font-size: 1.5rem;
+		vertical-align: middle;
+		margin-right: .25rem;
+	}
+}
+
+.main-ftr__list li + li {
+	margin-top: .5rem;
+}
+
+[role=contentinfo] {
+	border-top: 1px solid @bn-white;
+	padding: 20px 0;
 }
 
 .hero {
@@ -599,7 +665,82 @@ nav a:hover {
 	}
 }
 
+.team-mate {
+	padding-left: 180px;
+	position: relative;
+	margin: 2.5rem 0;
+	padding: 10px 10px 10px 180px;
+	overflow: hidden;
+}
 
+.team-mate__name {
+	margin: 0 0 1.125rem;
+	padding: 0;
+	text-transform: uppercase;
+}
+
+.team-mate__desc {
+	font-size: 1rem;
+}
+
+.team-mate__tw {
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+.team-mate__tw .icon {
+	font-size: 1.5rem;
+	vertical-align: middle;
+}
+
+.team-mate .team-mate__pic {
+	position: absolute;
+	width: 150px;
+	top: 15px;
+	left: 0;
+	margin: 0;
+	z-index: 0;
+	border-radius: 75px;
+}
+
+
+@media screen and (max-width: 720px) {
+	.main-ftr {
+		font-size: 1.125rem;
+	}
+
+	.main-ftr__main {
+		display: block;
+	}
+
+	.main-ftr__col {
+		text-align: center;
+		display: block;
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.main-ftr__col + .main-ftr__col {
+		margin-top: 1.5rem;
+		padding-top: 1rem;
+		border-top: 1px solid @bn-white;
+	}
+
+	.main-ftr__logo {
+		right: 0;
+	}
+
+	.main-ftr__list {
+		font-size: 1.125rem;
+		vertical-align: middle;
+	}
+
+	.main-ftr__list li a {
+		padding: .5rem 0;
+		display: block;
+	}
+}
 
 @media screen and (max-width: 640px) {
 	html {
@@ -622,6 +763,38 @@ nav a:hover {
 		min-width: 0;
 		margin-top: 1rem;
 	}
+
+	.main-hdr {
+
+	}
+
+	.main-hdr__tit {
+
+		max-width: 45%;
+		top: 50%;
+		transform: translateY(-50%);
+
+		img {
+			max-width: 100%;
+		}
+	}
+
+	.team-mate {
+		padding: 10px;
+		text-align: center;
+	}
+
+	.team-mate__name {
+		font-size: 1.1rem;
+	}
+
+	.team-mate .team-mate__pic {
+		position: relative;
+		top: 0;
+		display: inline-block;
+		margin: 1rem 0;
+	}
+
 }
 
 @media screen and (max-width: 500px) {

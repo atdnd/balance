@@ -1,5 +1,72 @@
-{{ partial "header.html" . }}
-	<div role="main">
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="es"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>{{ .Site.Title }}</title>
+
+	<meta name="description" content="El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias. ">
+	<meta name="viewport" content="width=device-width">
+
+	{{ if .Keywords }}
+	<meta name="keywords" content="podcast, cine, peliculas, comics, series, nerdeadas, boludeces, marvel, dc, balance, negativo">
+	{{ end }}
+
+	<!-- fb -->
+	<meta property="og:title" content="Balance Negativo">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:image" content="http://balancenegativo.com/img/BN-ico-fulltext.png">
+	<meta property="og:description" content="El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias.">
+
+	<!-- tw -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Balance Negativo">
+	<meta name="twitter:description" content="El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias.">
+	<meta name="twitter:image" content="http://balancenegativo.com/img/BN-ico-fulltext.png">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffc40d">
+	<meta name="theme-color" content="#ffffff">
+
+	<link href='http://fonts.googleapis.com/css?family=Muli:300,400' rel='stylesheet' type='text/css'>
+	{{ partial "styles.html" . }}
+
+	<link rel="profile" href="http://microformats.org/profile/hcard">
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WL2D2Q"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL2D2Q');</script>
+<!-- End Google Tag Manager -->
+<header class="main-hdr">
+	<div class="wrp">
+		<h1 class="main-hdr__tit"><a href="/" title="Volver al Inicio - {{ .Title }}"><img src="/img/logo.png" alt="{{ .Title }}"></a></h1>
+		{{ partial "navigation.html" . }}
+	</div>
+</header>
+
+
+<div role="main">
 		<section class="hero">
 			{{ range first 1 (where .Site.Recent "Section" "podcasts") }}
 			<div class="hero__wrp">
@@ -35,20 +102,7 @@
 				<section class="article-list article-list--podcast">
 					<h1 class="article-list__title"><a href="/podcasts/">Últimos episodios</a></h1>
 					{{ range where .Paginator.Pages "Section" "podcasts"}}
-					<article class="article-list__item">
-						<div class="article-list__item-meta">
-							<div class="article-list__item-season">Temporada {{ .Params.temporada }} Episodio {{ .Params.episodio }}</div>
-							<div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
-						</div>
-
-						<h1 class="article-list__item-title">
-							<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-						</h1>
-						<p class="article-list__item-desc">
-							{{ .Description  }}
-							<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Ir al podcast <i class="icon icon-right-open"></i></a>
-						</p>
-					</article>
+						{{ partial "podcast-article.html" . }}
 					{{ end }}
 				</section>
 			</div>
@@ -59,31 +113,12 @@
 			<section class="article-list">
 				<h1 class="article-list__title"><a href="/blog/">Blog</a></h1>
 				{{ range first 5 (where .Paginator.Pages "Section" "blog")}}
-				<article class="article-list__item">
-					<div class="article-list__item-meta">
-						<div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
-						<div class="article-list__item-author">por {{ .Params.author }}</div>
-						<div class="article-list__item-categories">
-						{{ range .Params.categories }}
-							en: <a href="/categories/{{ . | urlize }}/" class="article-list__item-category">{{ . }}</a>
-						{{ end }}
-						</div>
-					</div>
-					<h1 class="article-list__item-title">
-						<a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-					</h1>
-					<p class="article-list__item-desc">
-						{{ .Summary  }}
-						<a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo<i class="icon icon-right-open"></i></a>
-					</p>
-				</article>
+					{{ partial "article.html" . }}
 				{{ end }}
 				<footer class="article-list__ftr">
 					<a href="/blog/" class="article-list__view-all">Ver publicaciones anteriores<i class="icon icon-right-open"></i></a>
 				</footer>
 			</section>
-
-
 		</div>
 	</div>
 {{ partial "footer.html" . }}

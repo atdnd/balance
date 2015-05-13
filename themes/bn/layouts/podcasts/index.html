@@ -10,19 +10,7 @@
         <section class="article-list" role="main">
             <h1 class="article-list__title">{{ .Title }}</h1>
             {{ range .Paginator.Pages }}
-            <article class="article-list__item">
-                <div class="article-list__item-meta">
-                    <div class="article-list__item-season">Temporada {{ .Params.temporada }} Episodio {{ .Params.episodio }}</div>
-                    <div class="article-list__item-date">{{ .Date.Format "2-01-2006" }}</div>
-                </div>
-                <h1 class="article-list__item-title">
-                    <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-                </h1>
-                <p class="article-list__item-desc">
-                    {{ .Summary  }}
-                    <a class="article-list__item-more" href="{{ .Permalink }}" title="{{ .Title }}">Seguir Leyendo <i class="icon icon-right-open"></i></a>
-                </p>
-            </article>
+                {{ partial "podcast-article.html" . }}
             {{ end }}
         </section>
 

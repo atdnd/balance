@@ -3,14 +3,14 @@
 
 </div>
 <div class="wrp page-wrp">
-    <section role="main" class="post">
+    <section class="post entry single" role="article" itemscope itemtype="http://schema.org/BlogPosting">
         <header class="post__header">
-            <h1 class="post__title">{{ .Title }}</h1>
-            <div class="post__meta">
+            <h1 class="post__title title">{{ .Title }}</h1>
+            <div class="post__meta posted">
                 Publicado el:&nbsp;
-                <time class="post__date" datetime="{{ .Date }}">{{ .Date.Format "2-01-2006" }}</time>
+                <time class="post__date date" pubdate itemprop="dateCreated" datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2-01-2006" }}</time>
                 &nbsp;por&nbsp;
-                <span class="post__author">{{ .Params.author }}</span>
+                <span class="post__author vcard"><span class="fn" lang="es">{{ .Params.author }}</span></span>
             </div>
             {{ partial "sharing-buttons.html" . }}
         </header>

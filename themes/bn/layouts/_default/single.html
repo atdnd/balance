@@ -1,8 +1,21 @@
 {{ partial "header.html" . }}
+<div class="single-page">
+	<div class="page__img" >
 
-		<div role="main">
-			{{ .Content }}
-		</div>
+	</div>
+	<div class="wrp page-wrp">
+		<section class="post entry single" role="main">
+			<header class="post__header">
+				<h1 class="post__title title">{{ .Title }}</h1>
+			</header>
+			<div class="post__cnt">
+				{{ .Content }}
+			</div>
+			<footer class="post__ftr">
+
+			</footer>
+		</section>
+	</div>
+</div>
 
 {{ partial "footer.html" . }}
-
