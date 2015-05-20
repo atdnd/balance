@@ -1,0 +1,12 @@
+default:
+  - less:dev
+  - cacheBust
+  - shell:develop
+
+prod:
+  - less:prod
+  - cacheBust
+  - shell:build
+
+deploy:
+  - shell:deploy

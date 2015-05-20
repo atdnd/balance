@@ -1,0 +1,19 @@
+{
+  "name": "balance-negativo",
+  "version": "0.1.0",
+  "description": "el blog de balance negativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andertech",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-cache-bust": "^0.4.13",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-shell": "^1.1.2",
+    "grunt-ssh": "^0.12.3",
+    "load-grunt-config": "^0.17.1"
+  }
+}
