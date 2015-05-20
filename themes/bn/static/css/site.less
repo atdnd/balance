@@ -64,7 +64,7 @@ body *:first-child {
 a {
 	text-decoration: none;
 	color: @bn-purple;
-	transition: color .15s ease-out;
+	transition: color .15s ease-out, text-decoration-color .15s ease-out;
 	outline: none;
 }
 
@@ -81,6 +81,7 @@ a:hover {
 
 .single-page {
 	.page__img {
+		top: 0;
 		height: 160px;
 		background-color: #434;
 	}
@@ -92,9 +93,18 @@ a:hover {
 .page-wrp {
 	padding: 3rem 36px 0;
 	position: relative;
-	margin-top: 45vh;
+	margin-top: 50vh;
 	z-index: 0;
 	background-color: @page-background;
+}
+
+.fa-wrp {
+	width: 100%;
+	padding-top: 150px;
+}
+
+.fa-wrp {
+
 }
 
 .page-wrp:before {
@@ -112,9 +122,9 @@ a:hover {
 .page__img {
 	position: absolute;
 	left: 0;
-	top: 0;
+	top: 75px;
 	right: 0;
-	height: 78vh;
+	height: 70vh;
 	background-size: cover;
 	background-position: center center;
 	border-bottom: 5px solid @bn-purple;
@@ -160,6 +170,10 @@ a:hover {
 	margin-bottom: 3.5rem;
 }
 
+.post__cnt a {
+	text-decoration: underline;
+}
+
 .post__cnt img {
 	width: auto;
 	max-width: 100%;
@@ -185,6 +199,11 @@ a:hover {
 	padding: 1rem 0;
 	color: #443344;
 	border-bottom: 1px solid #c9c8cd;
+}
+
+.post__cnt figure .iframe-cnt {
+	margin: 0 auto 1rem;
+	width: 90%;
 }
 
 .post__cnt .iframe-cnt {
@@ -376,13 +395,14 @@ nav a:hover {
 	min-height: 500px;
 	height: 100vh;
 	display: table;
-	background: @bn-purple;
+	background-color: @bn-purple;
 	color: @bn-white;
 	position: relative;
 	z-index: 0;
 	vertical-align: middle;
 	text-shadow: 0 0 5px rgba(0,0,0,.7);
-	background: url("/img/bn_herotest.jpg") no-repeat center center;
+	background-repeat: no-repeat;
+	background-position: center center;
 	background-size: cover;
 }
 
@@ -430,6 +450,10 @@ nav a:hover {
 	font-size: 2.25rem;
 	margin: 0 0 .5rem 0;
 	text-transform: uppercase;
+}
+
+.hero__tit a {
+	color: @bn-white;
 }
 
 .hero__sub-tit {
@@ -685,15 +709,14 @@ nav a:hover {
 }
 
 .team-mate {
-	padding-left: 180px;
 	position: relative;
 	margin: 2.5rem 0;
-	padding: 10px 10px 10px 180px;
-	overflow: hidden;
+	padding:  240px 0 40px 0;
 }
 
 .team-mate__name {
 	margin: 0 0 1.125rem;
+	font-size: 2.25rem;
 	padding: 0;
 	text-transform: uppercase;
 }
@@ -712,14 +735,60 @@ nav a:hover {
 	vertical-align: middle;
 }
 
+.team-mate .wrp {
+	padding-top: 40px;
+}
+
 .team-mate .team-mate__pic {
 	position: absolute;
-	width: 150px;
-	top: 15px;
+	width: 100%;
+	height: 200px;
+	top: 20px;
 	left: 0;
+	right: 0;
 	margin: 0;
 	z-index: 0;
-	border-radius: 75px;
+	background: @bn-purple;
+	-ms-transform: skewY(7deg); /* IE 9 */
+	-webkit-transform: skewY(7deg); /* Safari */
+	transform: skewY(7deg);
+	overflow: hidden;
+}
+
+.team-mate .team-mate__pic img {
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	transform: translateY(25%);
+	max-width: 40%;
+	-ms-transform: skewY(-7deg); /* IE 9 */
+	-webkit-transform: skewY(-7deg); /* Safari */
+	transform: skewY(-7deg);
+}
+
+.team-mate:nth-child(even) {
+	text-align: right;
+}
+
+.team-mate:nth-child(even) .wrp {
+	padding-top: 40px;
+}
+
+.team-mate:nth-child(even) .team-mate__pic {
+	background: @bn-yellow;
+	-ms-transform: skewY(-7deg); /* IE 9 */
+	-webkit-transform: skewY(-7deg); /* Safari */
+	transform: skewY(-7deg);
+}
+
+.team-mate:nth-child(even) .team-mate__pic img {
+	-ms-transform: skewY(7deg); /* IE 9 */
+	-webkit-transform: skewY(7deg); /* Safari */
+	transform: skewY(7deg);
 }
 
 .spoilers-advice {
@@ -784,6 +853,23 @@ nav a:hover {
 	font-size: 2rem;
 	display: block;
 	margin-bottom: 1rem;
+}
+
+.pagination {
+	display: table;
+	width: 100%;
+	margin: 3rem auto;
+	font-size: 1.25rem;
+	padding: 1rem 4rem;
+	border-top: 1px solid #eaeaea;
+}
+
+.pagination li {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+	list-style: none;
 }
 
 @media screen and (max-width: 720px) {

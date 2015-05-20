@@ -67,13 +67,17 @@
 
 
 <div role="main">
-		<section class="hero">
-			{{ range first 1 (where .Site.Recent "Section" "podcasts") }}
+	{{ range first 1 (where .Site.Recent "Section" "podcasts") }}
+		<section class="hero" style="background-image: url(/img/{{ .Params.image }})">
 			<div class="hero__wrp">
 				<div class="hero__wrp-cnt">
 					<span class="hero__meta">Temporada {{ .Params.temporada }}: Episodio {{ .Params.episodio }}</span>
-					<h1 class="hero__tit">&ldquo;{{ .Title }}&rdquo;</h1>
+					<h1 class="hero__tit">
+						<a href="{{ .Permalink }}" rel="permalink" title="{{ .Title }} - Ir a la página del episodio">&ldquo;{{ .Title }}&rdquo;</a>
+					</h1>
+					{{ if .Params.subtitle }}
 					<h2 class="hero__sub-tit">{{ .Params.subtitle }}</h2>
+					{{ end }}
 					<p class="hero__desc">
 						{{ .Description }}
 					</p>
@@ -93,8 +97,8 @@
 					</div>
 				</div>
 			</div>
-			{{ end }}
 		</section>
+	{{ end }}
 
 
 		<div class="featured-section">
