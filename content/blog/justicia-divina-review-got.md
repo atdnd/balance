@@ -44,7 +44,7 @@ En *Dorne*, **Jamie Lannister** se da cuenta que su misión de rescatar a **Myrc
 
 Todas las especulaciones sobre el posible envenenamiento de **Bronn** que circulaban en la web, luego del plano detalle de la daga de las *Serpientes de Arena* cortándole la piel, generaron una subtrama interesante, que lamentablemente se resuelve demasiado rápido vía *striptease*. Ni los desnudos pueden levantar esta línea argumental que ya es bastante floja en el libro.
 
-Luego de un largo viaje **Tyrion** y **Ser Jorah** finalmente llegan a *Meereen*, aunque no de la forma que deseaban. Son esclavos obligados a pelear hasta la muerte, una tradición que **Daenerys** tuvo que a restaurar a la fuerza. Vemos cómo Ser Jorah pelea contra todos sus rivales y busca redimirse con el otro regalo al que hace alusión el título: Tyrion. Al principio comentábamos que algo característico de *Game of Thrones* es dejar lo mejor para el final, y ¡qué final hubiese sido cerrar con *Mi nombre es Tyrion Lannister*!
+Luego de un largo viaje **Tyrion** y **Ser Jorah** finalmente llegan a *Meereen*, aunque no de la forma que deseaban. Son esclavos obligados a pelear hasta la muerte, una tradición que **Daenerys** tuvo que restaurar a la fuerza. Vemos cómo Ser Jorah pelea contra todos sus rivales y busca redimirse con el otro regalo al que hace alusión el título: Tyrion. Al principio comentábamos que algo característico de *Game of Thrones* es dejar lo mejor para el final, y ¡qué final hubiese sido cerrar con *Mi nombre es Tyrion Lannister*!
 
 <figure>
 <img src="/img/2015/05/tyrion_body.gif" alt="Mi nombre es Tyrion Lannister"/>
