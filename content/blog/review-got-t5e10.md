@@ -9,7 +9,14 @@ image: "2015/06/mer_cover.jpg"
 title: Misericordia. Review de Game of Thrones Temporada 5, Episodio 10
 ---
 
-Nos despedimos de la quinta temporada de *Game of Thrones* y de varios personajes, quizás, no se sabe… no se sabe nada en *Game of Thrones*. Los fans recurren a las redes sociales en busca de consuelo para superar su trauma televisivo y buscan en los blogs teorías de las más alocadas para llenar un vacío hasta abril del 2016.
+Nos despedimos de la quinta temporada de *Game of Thrones* y de varios personajes, quizás, no se sabe… no se sabe nada en *Game of Thrones*. Los fans recurren a las redes sociales en busca de consuelo para superar su trauma televisivo y buscan en los blogs teorías de las más alocadas para llenar un vacío hasta abril del 2016. <!--more-->
+
+<div class="spoilers-advice">
+<div class="spoilers-advice__wrp">
+<strong class="spoilers-advice__title">Atención Spoilers</strong>
+<span class="spoilers-advice__desc">De aquí al final el artículo está plagado de Spoilers, considera no seguir leyendo por tu propio bien.</span>
+</div>
+</div>
 
 El cuerpo tendido de **Jon Snow**, su sangre esparciéndose en la nieve...y... créditos. Así finalizan **Benioff** y **Weiss** el último episodio llamado *Mother’s mercy* (La misericordia de la madre). Misericordia es lo que los fans piden a gritos mientras que el show sigue golpeándole las emociones una y otra vez. Un episodio que nos habla mucho sobre la venganza y traición, moneda corriente en Game of Thrones.
 
