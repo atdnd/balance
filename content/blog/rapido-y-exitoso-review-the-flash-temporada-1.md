@@ -3,7 +3,7 @@ author: Gabriel Llagostera
 categories:
 - Reviews
 date: 2015-06-16T22:00:53-03:00
-description: "Nuestra reseña de la primer temporada de The Flash"
+description: "Nuestra reseña de la primera temporada de The Flash - por Gabriel Llagostera"
 draft: false
 image: 2015/06/flash-cover.jpg
 title: "Rápido y exitoso: Review de The Flash Temporada 1"
@@ -26,5 +26,6 @@ En conclusión, una excelente serie de superhéroes que no se avergüenza de ser
 **Lo mejor:** la trama de Reverse Flash. Y Cisco.
 
 **Lo peor:** algunos villanos que no aportaron nada.
+
 
 
