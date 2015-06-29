@@ -1,4 +1,5 @@
 @page-background: #fefbfe;
+@bn-font: 'Muli', Helvetica, Arial, sans-serif;
 @bn-white: #eeebee;
 @bn-purple: #290c38;
 @bn-yellow: #eea300;
@@ -44,7 +45,7 @@ html {
 
 body {
 	font-size: 1rem;
-	font-family: 'Muli', sans-serif;
+	font-family: @bn-font;
 	color: @bn-color;
 	-webkit-animation: fadein .5s; /* Safari, Chrome and Opera > 12.1 */
 	-moz-animation: fadein .5s; /* Firefox < 16 */
@@ -71,6 +72,223 @@ a {
 a:hover {
 	color: @bn-color;
 }
+
+a:focus {
+	outline: none;
+}
+
+
+form,
+input,
+textarea,
+select,
+option,
+button {
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	color: inherit;
+}
+
+form {
+	margin: 0 auto;
+}
+
+fieldset {
+	display: table;
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+select,
+input[type=text],
+input[type=password],
+input[type=search],
+input[type=number],
+input[type=email],
+textarea {
+	border: 1px solid #aa99ab;
+	border-radius: 4px;
+	padding: .5rem;
+	resize: none;
+	min-width: 50%;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	outline: none;
+	transition: border-color .3s ease-in;
+}
+
+select:focus,
+input:focus,
+textarea:focus {
+	border-color: #290c38 !important;
+}
+
+::-webkit-input-placeholder {
+	color: #aa99ab;
+}
+
+:-moz-placeholder {
+	color: #aa99ab;
+}
+
+::-moz-placeholder {
+	color: #aa99ab;
+}
+
+:-ms-input-placeholder {
+	color: #aa99ab;
+}
+
+/* FORMS */
+.form {
+	display: table;
+	max-width: 520px;
+	width: 100%;
+	table-layout: fixed;
+	margin: 1rem auto 5rem;
+}
+
+.form input[type=text],
+.form input[type=email],
+.form input[type=number],
+.form input[type=password],
+.form select,
+.form textarea {
+	width: 100%;
+	line-height: 2.25rem;
+	display: block;
+}
+
+.form textarea {
+	resize: vertical;
+	line-height: 1.25rem;
+	padding: 1rem .5rem;
+	min-height: 8rem;
+	max-height: 14rem;
+}
+
+.form select {
+	height: 3.5rem;
+	background: #fff;
+}
+
+.form select option {
+	background: #fff;
+}
+
+.form__row {
+	display: table;
+	width: 100%;
+}
+
+.form__row .form__lbl {
+	display: table-cell;
+	width: 45%;
+	border-top: 0;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+.form__row .form__lbl + .form__lbl {
+	padding-left: 5%;
+	width: 50%;
+}
+
+.form__toggle-wrp {
+	display: table;
+	width: 100%;
+	text-align: center;
+}
+
+.form__toggle-lbl {
+	display: table-cell;
+	line-height: 2.25rem;
+	font-size: .75rem;
+	color: #777882;
+}
+
+.form__check-wrp {
+	height: 3rem;
+	text-align: left;
+	line-height: 3rem;
+	padding-top: 1rem;
+}
+
+.form__check-lbl {
+	font-size: .875rem;
+	color: #aa99ab;
+}
+
+.form__lbl {
+	display: table;
+	position: relative;
+	width: 100%;
+	margin-top: .5rem;
+}
+
+.form__lbl-name {
+	font-size: 1rem;
+	color: #88668a;
+	display: inline-block;
+	font-weight: 500;
+	background: rgb(254,251,254); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(254,251,254,1) 0%, rgba(254,251,254,1) 49%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(254,251,254,1)), color-stop(49%,rgba(254,251,254,1)), color-stop(50%,rgba(255,255,255,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(254,251,254,1) 0%,rgba(254,251,254,1) 49%,rgba(255,255,255,1) 50%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(254,251,254,1) 0%,rgba(254,251,254,1) 49%,rgba(255,255,255,1) 50%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(254,251,254,1) 0%,rgba(254,251,254,1) 49%,rgba(255,255,255,1) 50%,rgba(255,255,255,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(254,251,254,1) 0%,rgba(254,251,254,1) 49%,rgba(255,255,255,1) 50%,rgba(255,255,255,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefbfe', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	position: relative;
+	line-height: 1rem;
+	left: .5rem;
+	top: .5rem;
+	vertical-align: bottom;
+}
+
+.form__lbl-req {
+	font-size: 1rem;
+	color: #aa99ab;
+}
+
+.form__lbl--btns {
+	vertical-align: bottom;
+}
+
+.form__actions {
+	padding-top: 1.5rem;
+	margin-top: 1.25rem;
+	border-top: 1px solid #c9c8cd;
+	text-align: center;
+}
+
+.form__req-info {
+	display: block;
+	color: #aa99ab;
+	line-height: 2rem;
+	font-size: .875rem;
+	text-align: left;
+	font-style: italic;
+}
+
+.form__req-info b {
+	font-size: 1rem;
+	color: #aa99ab;
+	font-weight: 500;
+}
+
+.g-recaptcha {
+	padding: 1.5rem 0 0;
+	text-align: center;
+	display: block;
+}
+
+.g-recaptcha > div {
+	display: inline-block;
+}
+
 
 .wrp,
 .main-cnt {
@@ -232,6 +450,10 @@ a:hover {
 	padding: 1rem 0;
 	border-radius: 4px;
 	background: url(@img-pattern);
+}
+
+.post__actions .btn {
+	text-decoration: none;
 }
 
 
@@ -443,7 +665,8 @@ nav a:hover {
 
 .hero__meta {
 	display: block;
-	font-size: .85rem;
+	font-size: 1rem;
+	font-weight: bold;
 	text-transform: uppercase;
 	color: @bn-yellow;
 	line-height: 1rem;
@@ -451,9 +674,10 @@ nav a:hover {
 }
 
 .hero__tit {
-	font-size: 2.25rem;
+	font-size: 2.5rem;
 	margin: 0 0 .5rem 0;
 	text-transform: uppercase;
+	letter-spacing: -1px;
 }
 
 .hero__tit a {
@@ -462,13 +686,15 @@ nav a:hover {
 
 .hero__sub-tit {
 	font-size: 1rem;
-	line-height: 1.25rem;
+	line-height: 1.5rem;
 	margin: 0 0 1.5rem;
 	text-transform: uppercase;
 }
 
 .hero__desc {
 	margin-bottom: 1.5rem;
+	font-size: 1.25rem;
+	text-shadow: 0 1px 5px rgba(0,0,0,1);
 }
 
 .hero__podcast,
@@ -482,7 +708,6 @@ nav a:hover {
 
 .hero__actions {
 	padding: 15px 0;
-	background: rgba(40,0,50,.5);
 	min-height: 76px;
 	height: 15vh;
 	position: absolute;
@@ -539,7 +764,7 @@ nav a:hover {
 }
 
 .btn {
-	padding: .75rem .85rem;
+	padding: .875rem 1rem;
 	line-height: 1.25rem;
 	font-weight: bold;
 	border: 1px solid @bn-color;
@@ -552,7 +777,7 @@ nav a:hover {
 	background: -ms-linear-gradient(top,  rgba(85,48,86,1) 0%,rgba(41,12,56,1) 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  rgba(85,48,86,1) 0%,rgba(41,12,56,1) 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#553056', endColorstr='#290c38',GradientType=0 ); /* IE6-9 */
-	font-size: .85rem;
+	font-size: .975rem;
 	display: inline-block;
 	cursor: pointer;
 	text-shadow: none;
@@ -563,6 +788,19 @@ nav a:hover {
 .btn:hover {
 	text-shadow: 0 0 4px rgba(0,0,0,.3);
 	color: #fff;
+}
+
+.btn--big {
+	padding: .75rem 1.5rem;
+	line-height: 1.5rem;
+	font-size: 1rem;
+}
+
+.btn--form {
+	padding: .875rem 3rem;
+	line-height: 1.5rem;
+	font-size: 1.25rem;
+	min-width: 304px;
 }
 
 .btn--negativo {
@@ -989,6 +1227,8 @@ nav a:hover {
 	}
 
 }
+
+
 
 
 

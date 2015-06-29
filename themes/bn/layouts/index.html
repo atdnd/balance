@@ -43,6 +43,7 @@
 	<meta name="theme-color" content="#ffffff">
 
 	<link href='http://fonts.googleapis.com/css?family=Muli:300,400' rel='stylesheet' type='text/css'>
+
 	{{ partial "styles.html" . }}
 
 	<link rel="profile" href="http://microformats.org/profile/hcard">
@@ -90,8 +91,8 @@
 					<div class="hero__actions">
 						<div class="hero__actions-wrp">
 							<div class="hero__actions-btn-wrp">
-								<a class="btn " href="{{ .Params.soundcloudurl }}"><i class="icon icon-soundcloud"></i> Escuchar en SoundCloud</a>
-								<a class="btn btn--negativo btn--descarga" href="/audio/{{ .Params.audio }}.mp3" target="_blank" title="Descargar Episodio 01" download><i class="icon icon-download"></i> Descargar Episodio</a>
+								<a class="btn btn--big" href="{{ .Params.mixcloudurl }}"><i class="icon icon-mixcloud"></i> Escuchar en Mixcloud</a>
+								<a class="btn btn--big btn--negativo btn--descarga" href="/audio/{{ .Params.audio }}.mp3" target="_blank" title="Descargar Episodio 01" download><i class="icon icon-download"></i> Descargar Episodio</a>
 							</div>
 						</div>
 					</div>
@@ -99,7 +100,6 @@
 			</div>
 		</section>
 	{{ end }}
-
 
 		<div class="featured-section">
 			<div class="wrp">
@@ -111,7 +111,6 @@
 				</section>
 			</div>
 		</div>
-
 
 		<div class="wrp">
 			<section class="article-list">
