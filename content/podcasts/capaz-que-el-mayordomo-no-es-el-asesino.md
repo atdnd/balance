@@ -5,7 +5,7 @@ description: "Vamos a destripar todo discutiendo la paranoia sobre los spoilers,
 draft: false
 episodio: 5
 image: 2015/06/spoilers-vader.jpg
-mixcloudurl: "https://mixcloud.com/balancenegativo/balance-negativo-t01-e05"
+mixcloudurl: "https://www.mixcloud.com/balancenegativo/capaz-que-el-mayordomo-no-es-el-asesino-balance-negativo-t01-e05/"
 temporada: 1
 title: Capaz que el mayordomo no es el asesino
 ---
