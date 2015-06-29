@@ -5,7 +5,7 @@ description: "En el segundo episodio nos zambullimos en el debate sobre el reali
 draft: false
 episodio: 2
 image: 2015/05/esto-no-es-real.jpg
-soundcloudurl: https://soundcloud.com/balancenegativo/balance-negativo-t01-e02
+mixcloudurl: "https://www.mixcloud.com/balancenegativo/pero-esto-no-es-real-balance-negativo-t01-e02/"
 temporada: 1
 title: "¡Pero esto no es real!"
 ---

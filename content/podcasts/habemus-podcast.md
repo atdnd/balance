@@ -8,7 +8,7 @@ episodio: 1
 description: "Primer episodio en el que recomendamos series, comics, y la película Avengers: Age of Ultron, porque la originalidad no es nuestra característica más importante."
 image: "bn_herotest.jpg"
 audio: "balance-negativo-t01-e01"
-soundcloudurl: "https://soundcloud.com/balancenegativo/balance-negativo-t01-e01"
+mixcloudurl: "https://www.mixcloud.com/balancenegativo/habemus-podcast-balance-negativo-t01-e01/"
 ---
 
 

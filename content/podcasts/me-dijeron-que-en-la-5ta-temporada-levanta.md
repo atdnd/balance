@@ -5,7 +5,7 @@ description: 'En nuestro primer podcast maratónico nos encargamos de amar y des
 draft: false
 episodio: 3
 image: 2015/05/adaptaciones.jpg
-soundcloudurl: https://soundcloud.com/balancenegativo/balance-negativo-t01-e03-me-dijeron-que-en-la-5ta-temporada-levanta
+mixcloudurl: https://www.mixcloud.com/balancenegativo/me-dijeron-que-en-la-5ta-temporada-levanta-balance-negativo-t01-e03/
 temporada: 1
 title: Me dijeron que en la 5ta temporada levanta
 ---
