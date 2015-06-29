@@ -1,6 +1,6 @@
 ---
 Title: Contacto
-Description: Envíanos tu mensaje de recomendación o
+
 ---
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
