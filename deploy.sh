@@ -4,4 +4,4 @@
 chmod -R 775 ./public/img/*
 
 #copy with rsync
-rsync -av ./public/* armitage:/var/www/balance
+rsync -azv  --progress ./public/* balancerobot@andrestechera.com:/var/www/balance
