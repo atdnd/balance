@@ -14,7 +14,7 @@ Muchas cosas pasaron en la Comic Con de San Diego y en Balance Negativo te conta
 
 ## 1. Batman v Superman: Dawn of Justice
 
-Uno de los trailers más esperados sin dudas era el de *Batman v Superman: Dawn 5of Justice*. El director Zack Snyder junto con los actores Ben Affleck, Henry Cavill y Gal Gabot le ofrecieron a los fans un trailer exclusivo donde finalmente pudimos ver cómo se enfrentaban cara a cara los dos superhéroes. También vimos a Gadot como Wonder Woman, Amy Adams interpretando a Lois Lane y a Lex Luthor encarnado por Jesse Eisenberg.  
+Uno de los trailers más esperados sin dudas era el de *Batman v Superman: Dawn of Justice*. El director Zack Snyder junto con los actores Ben Affleck, Henry Cavill y Gal Gabot le ofrecieron a los fans un trailer exclusivo donde finalmente pudimos ver cómo se enfrentaban cara a cara los dos superhéroes. También vimos a Gadot como Wonder Woman, Amy Adams interpretando a Lois Lane y a Lex Luthor encarnado por Jesse Eisenberg.
 
 <figure>
 
