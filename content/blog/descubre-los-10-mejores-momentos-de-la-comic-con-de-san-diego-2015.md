@@ -46,8 +46,6 @@ Luego de la polémica revelación de la foto de Jared Leto como el Joker, los fa
 
 </figure>
 
-https://www.youtube.com/watch?v=PLLQK9la6Go
-
 ![Suicide Squad Comic Con](/img/2015/07/suicidesquad_body.jpg)
 
 ## 4. Deadpool
