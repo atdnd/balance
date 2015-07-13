@@ -40,6 +40,14 @@ Los fans de *Star Wars* pudieron ver un detrás de cámaras del rodaje de The Fo
 
 Luego de la polémica revelación de la foto de Jared Leto como el Joker, los fans no se cansan de hablar sobre Suicide Squad. David Ayer, el director, introdujo en el panel al elenco que además de Leto tiene a Margot Robbie como Harley Quinn, Will Smith como Deadshot y Cara Delevigne como Enchantress, entre otros. El trailer le tapó la boca a los fans mostrando a Leto interpretando al trastornado villano y dejándonos con ganas de ver más. Habrá que esperar hasta el año que viene para el estreno de Suicide Squad.
 
+<figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLLQK9la6Go" frameborder="0" allowfullscreen></iframe>
+
+</figure>
+
+https://www.youtube.com/watch?v=PLLQK9la6Go
+
 ![Suicide Squad Comic Con](/img/2015/07/suicidesquad_body.jpg)
 
 ## 4. Deadpool
