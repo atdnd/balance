@@ -73,7 +73,7 @@ Y hablando de nuestro detective favorito, Sherlock también tuvo su panel donde 
 </figure>
 
 
-## 6. The Walking Dead and Fear The Walking Dead
+## 6. The Walking Dead y Fear The Walking Dead
 
 El spin-off de The Walking Dead tuvo su estreno en la Comic-Con. En Fear the Walking Dead veremos una especie de precuela de la serie donde se narrará cómo comenzó el apocalipsis zombie en Los Angeles. El productor ejecutivo, Dave Erickson, comentó que comenzará como un drama familiar para que luego se desate la tragedia.
 
