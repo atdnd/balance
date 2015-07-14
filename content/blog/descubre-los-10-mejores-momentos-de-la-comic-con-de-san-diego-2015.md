@@ -79,7 +79,7 @@ El spin-off de The Walking Dead tuvo su estreno en la Comic-Con. En Fear the Wal
 
 <figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WDxew5SguVw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzXglr5bc3w" frameborder="0" allowfullscreen></iframe>
 
 </figure>
 
@@ -88,7 +88,7 @@ También proyectaron un trailer de la esperada 6ta temporada ante 6.500 fans.
 
 <figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Va1UPrFXHKA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZtSl-3YWjQ" frameborder="0" allowfullscreen></iframe>
 
 </figure>
 
