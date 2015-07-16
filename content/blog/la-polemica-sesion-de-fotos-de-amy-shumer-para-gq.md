@@ -3,7 +3,7 @@ author: Micaela De Armas
 categories:
 - Noticias
 date: 2015-07-16T13:29:50-03:00
-description: Descripcion
+description: Amy Schumer a la cama con C-3PO y R2-D2 en este divertido Photoshoot para GQ.
 draft: false
 image: 2015/07/amygq3-cover.png
 title: La polemica sesion de fotos de Amy Shumer para GQ
