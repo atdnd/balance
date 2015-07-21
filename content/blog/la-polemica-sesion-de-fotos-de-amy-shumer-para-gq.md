@@ -6,7 +6,7 @@ date: 2015-07-16T13:29:50-03:00
 description: Amy Schumer a la cama con C-3PO y R2-D2 en este divertido Photoshoot para GQ.
 draft: false
 image: 2015/07/amygq3-cover.png
-title: La polemica sesion de fotos de Amy Shumer para GQ
+title: La polémica sesión de fotos de Amy Schumer para GQ
 ---
 
 La revista GQ declaró a Schumer como “la mujer más divertida en la galaxia” en una entrevista para promocionar su nueva película *Trainwreck*, que se estrena en las pantallas de EEUU éste viernes. La película, escrita y protagonizada por Schumer, narra la historia de una mujer que desconfía enormemente de los hombres, y que por influencia de su padre se opone desde niña a la monogamia. Pero se le presenta un simpático doctor llamado Aaron (Bill Hader) que la invita a salir por segunda vez.
