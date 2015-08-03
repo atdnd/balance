@@ -10,7 +10,7 @@ title: ¿Qué personaje de Daredevil aparecerá en Jessica Jones?
 ---
 
 La semana pasada repasamos [lo nuevo de Marvel para Netflix](http://balancenegativo.com/blog/2015/07/28/lo-nuevo-de-marvel-en-netflix/) y próximamente tendremos la segunda temporada de Daredevil y una nueva serie basada en el personaje de Jessica Jones, protagonizada por Krysten Ritter (Breaking Bad).
-
+<!--more-->
 ![Jessica Logo](/img/2015/08/jessica-cover.jpeg)
 
 La serie nos introducirá personajes claves como Luke Cage y Kilgrave al *Universo Cinematográfico de Marvel* pero también veremos algunas caras conocidas. Melissa Rosenberg, la *showrunner* de *Jessica Jones* reveló que **Claire Temple**, la mujer que cura a Daredevil en la primera temporada, va a aparecer en la serie, junto con otros personajes secundarios. 

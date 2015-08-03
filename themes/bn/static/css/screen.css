@@ -52,7 +52,7 @@ html {
 }
 body {
   font-size: 1rem;
-  font-family: 'Muli', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   color: #553056;
   -webkit-animation: fadein .5s;
   /* Safari, Chrome and Opera > 12.1 */
