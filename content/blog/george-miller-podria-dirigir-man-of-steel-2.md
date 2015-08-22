@@ -1,5 +1,5 @@
 ---
-author: Autor
+author: Micaela De Armas
 categories:
 - Noticias
 date: 2015-08-22T00:56:17-03:00
