@@ -1,0 +1,35 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <language>es</language>
+    <managingEditor>Micaela De Armas</managingEditor>
+    <webMaster>Andres Techera</webMaster>
+    <copyright>Balance Negativo 2015</copyright>
+
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Esteban Cabral, Gabriel Llagostera, Micaela De Armas, Andrés Techera</itunes:author>
+    <itunes:summary>El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias. Hacemos reseñas y recomendamos lo que más nos gusta.</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Andres Techera</itunes:name>
+        <itunes:email>balancenegativo@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://balancenegativo.com/img/itunes.jpg" />
+    <itunes:category text="TV &amp; Film"/>
+
+    {{ range .Data.Pages }}
+    <item>
+        <title>{{ .Title }}</title>
+        <itunes:author>Balance Negativo</itunes:author>
+        <itunes:subtitle>{{ .Params.subtitle }}</itunes:subtitle>
+        <itunes:summary>{{ .Description }}</itunes:summary>
+        <itunes:image href="http://balancenegativo.com/img/{{ .Params.image }}" />
+        <enclosure url="http:///balancenegativo.com/audio/{{ .Params.audio }}.mp3" length="" type="audio/mpeg"/>
+        <guid>{{ .Permalink }}</guid>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+        <itunes:duration></itunes:duration>
+    </item>
+    {{ end }}
+
+</channel>
+</rss>
