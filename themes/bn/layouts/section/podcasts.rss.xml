@@ -1,11 +1,13 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" lang="es-LA" version="2.0">
 <channel>
     <title>{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}</title>
     <link>{{ .Permalink }}</link>
     <language>es</language>
-    <managingEditor>balancenegativo@gmail.com</managingEditor>
-    <webMaster>balancenegativo@gmail.com</webMaster>
+    <managingEditor>balancenegativo@gmail.com (Micaela De Armas)</managingEditor>
+    <webMaster>balancenegativo@gmail.com (Andres Techera)</webMaster>
     <copyright>Balance Negativo 2015</copyright>
+    <description>El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias. Hacemos reseñas y recomendamos lo que más nos gusta.</description>
+    <atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
 
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>Esteban Cabral, Gabriel Llagostera, Micaela De Armas, Andrés Techera</itunes:author>
@@ -27,6 +29,7 @@
         <enclosure url="http://balancenegativo.com/audio/{{ .Params.audio }}.mp3" length="1" type="audio/mpeg"/>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
         <itunes:duration>{{ .Params.duracion }}</itunes:duration>
+        <guid>{{ .Permalink }}</guid>
     </item>
     {{ end }}
 
