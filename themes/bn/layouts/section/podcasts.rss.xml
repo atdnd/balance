@@ -1,6 +1,6 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" lang="es-LA" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="es" version="2.0">
 <channel>
-    <title>{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}</title>
+    <title>{{ .Site.Title }}</title>
     <link>{{ .Permalink }}</link>
     <language>es</language>
     <managingEditor>balancenegativo@gmail.com (Micaela De Armas)</managingEditor>
@@ -16,8 +16,9 @@
         <itunes:name>Andres Techera</itunes:name>
         <itunes:email>balancenegativo@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://balancenegativo.com/img/itunes.jpg" />
+    <itunes:image href="http://andrestechera.com/balance-itunes.png" />
     <itunes:category text="TV &amp; Film"/>
+    <itunes:explicit>yes</itunes:explicit>
 
     {{ range .Data.Pages }}
     <item>
