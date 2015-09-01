@@ -8,5 +8,6 @@ image: 2015/08/una-vez-mas.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/una-vez-más-con-sentimiento-balance-negativo-t01-e08/
 temporada: 1
 title: Una vez más, con sentimiento
+duracion: "3:15:03"
 ---
 

@@ -8,5 +8,6 @@ image: 2015/06/spoilers-vader.jpg
 mixcloudurl: "https://www.mixcloud.com/balancenegativo/capaz-que-el-mayordomo-no-es-el-asesino-balance-negativo-t01-e05/"
 temporada: 1
 title: Capaz que el mayordomo no es el asesino
+duracion: "1:04:29"
 ---
 

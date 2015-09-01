@@ -8,5 +8,6 @@ image: 2015/08/venganza.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/la-venganza-de-los-nerds-t01-e09/
 temporada: 1
 title: La venganza de los nerds
+duracion: "1:04:29"
 ---
 

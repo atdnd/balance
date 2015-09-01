@@ -8,5 +8,6 @@ image: 2015/07/el-sexo-fuerte.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/el-sexo-fuerte-balance-negativo-t01-e07/
 temporada: 1
 title: El sexo fuerte
+duracion: "1:30:06"
 ---
 

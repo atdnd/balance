@@ -8,5 +8,6 @@ image: 2015/07/batman_cover.jpg
 mixcloudurl: "https://www.mixcloud.com/balancenegativo/nananananana-podcast-balance-negativo-t01-e06/"
 temporada: 1
 title: Nananananana, ¡podcast!
+duracion: "2:46:04"
 ---
 

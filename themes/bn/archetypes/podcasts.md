@@ -8,5 +8,6 @@ description: "Descripcion"
 image: "bn_herotest.jpg"
 audio: "balance-negativo-t01-e07"
 mixcloudurl: "https://www.mixcloud.com/balancenegativo/t01-e06/"
+duracion: "1:00:00"
 ---
 

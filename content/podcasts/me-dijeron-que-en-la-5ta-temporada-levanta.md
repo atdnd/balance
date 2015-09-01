@@ -8,5 +8,6 @@ image: 2015/05/adaptaciones.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/me-dijeron-que-en-la-5ta-temporada-levanta-balance-negativo-t01-e03/
 temporada: 1
 title: Me dijeron que en la 5ta temporada levanta
+duracion: "2:16:21"
 ---
 

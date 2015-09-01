@@ -3,8 +3,8 @@
     <title>{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}</title>
     <link>{{ .Permalink }}</link>
     <language>es</language>
-    <managingEditor>Micaela De Armas</managingEditor>
-    <webMaster>Andres Techera</webMaster>
+    <managingEditor>balancenegativo@gmail.com</managingEditor>
+    <webMaster>balancenegativo@gmail.com</webMaster>
     <copyright>Balance Negativo 2015</copyright>
 
     <itunes:subtitle></itunes:subtitle>
@@ -24,10 +24,9 @@
         <itunes:subtitle>{{ .Params.subtitle }}</itunes:subtitle>
         <itunes:summary>{{ .Description }}</itunes:summary>
         <itunes:image href="http://balancenegativo.com/img/{{ .Params.image }}" />
-        <enclosure url="http:///balancenegativo.com/audio/{{ .Params.audio }}.mp3" length="" type="audio/mpeg"/>
-        <guid>{{ .Permalink }}</guid>
+        <enclosure url="http://balancenegativo.com/audio/{{ .Params.audio }}.mp3" length="1" type="audio/mpeg"/>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
-        <itunes:duration></itunes:duration>
+        <itunes:duration>{{ .Params.duracion }}</itunes:duration>
     </item>
     {{ end }}
 
