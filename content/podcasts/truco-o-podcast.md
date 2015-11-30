@@ -5,7 +5,7 @@ description: "Con la poca originalidad que nos caracteriza, le dedicamos un epis
 draft: false
 duracion: "2:18:21"
 episodio: 14
-image: /2015/10/halloween.png
+image: 2015/10/halloween.png
 mixcloudurl: https://www.mixcloud.com/balancenegativo/truco-o-podcast-balance-negativo-t01-e14/
 temporada: 1
 title: "¡Truco o Podcast!"
