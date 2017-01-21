@@ -2,7 +2,7 @@
 baseurl: "http://balancenegativo.com/"
 languageCode: "es-uy"
 title: "Balance Negativo"
-theme: "bn"
+theme: "bn2016"
 metadataformat: "yaml"
 builddrafts: false
 permalinks:
