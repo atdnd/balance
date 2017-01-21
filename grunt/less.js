@@ -2,7 +2,7 @@ module.exports = {
 
     dev: {
         files: {
-            "themes/bn/static/css/screen.css": "themes/bn/static/css/styles.less"
+            "themes/bn2016/static/css/screen.css": "themes/bn2016/static/css/styles.less"
         }
     },
     prod: {
@@ -10,7 +10,7 @@ module.exports = {
             compress: true
         },
         files: {
-            "themes/bn/static/css/screen.css": "themes/bn/static/css/styles.less"
+            "themes/bn2016/static/css/screen.css": "themes/bn2016/static/css/styles.less"
         }
     }
 

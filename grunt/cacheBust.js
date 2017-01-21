@@ -2,11 +2,11 @@ module.exports = {
 
     options: {
         rename: false,
-        baseDir: 'themes/bn/static/'
+        baseDir: 'themes/bn2016/static/'
     },
     assets: {
         files: {
-            src: ['themes/bn/layouts/partials/styles.html']
+            src: ['themes/bn2016/layouts/partials/styles.html']
         }
     }
 
