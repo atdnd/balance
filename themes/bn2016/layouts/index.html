@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="es"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>{{ .Site.Title }}</title>
+
+	<meta name="description" content="El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias. ">
+	<meta name="viewport" content="width=device-width">
+
+	{{ if .Keywords }}
+	<meta name="keywords" content="podcast, cine, peliculas, comics, series, nerdeadas, boludeces, marvel, dc, balance, negativo">
+	{{ end }}
+
+	<!-- fb -->
+	<meta property="og:title" content="Balance Negativo">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:image" content="http://balancenegativo.com/img/BN-ico-fulltext.png">
+	<meta property="og:description" content="El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias.">
+
+	<!-- tw -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Balance Negativo">
+	<meta name="twitter:description" content="El Podcast que nadie pidió. Cine, series, comics, nerdeadas y boludeces varias.">
+	<meta name="twitter:image" content="http://balancenegativo.com/img/BN-ico-fulltext.png">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffc40d">
+	<meta name="theme-color" content="#ffffff">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+
+	{{ partial "styles.html" . }}
+
+	<link rel="profile" href="http://microformats.org/profile/hcard">
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WL2D2Q"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WL2D2Q');</script>
+<!-- End Google Tag Manager -->
+<header class="main-hdr">
+	<div class="wrp">
+		<h1 class="main-hdr__tit"><a href="/" title="Volver al Inicio - {{ .Title }}"><img src="/img/logo.png" alt="{{ .Title }}"></a></h1>
+		{{ partial "navigation.html" . }}
+	</div>
+</header>
+
+
+<div role="main">
+	{{ range first 1 (where .Site.Pages "Section" "podcasts") }}
+		<section class="hero" style="background-image: url(/img/{{ .Params.image }})">
+			<div class="hero__wrp">
+				<div class="hero__wrp-cnt">
+					<span class="hero__meta">Temporada {{ .Params.temporada }}: Episodio {{ .Params.episodio }}</span>
+					<h1 class="hero__tit">
+						<a href="{{ .Permalink }}" rel="permalink" title="{{ .Title }} - Ir a la página del episodio">&ldquo;{{ .Title }}&rdquo;</a>
+					</h1>
+					{{ if .Params.subtitle }}
+					<h2 class="hero__sub-tit">{{ .Params.subtitle }}</h2>
+					{{ end }}
+					<p class="hero__desc">
+						{{ .Description }}
+					</p>
+					<div class="hero__podcast">
+						<audio controls>
+							<source src="/audio/{{ .Params.audio }}.mp3" type="audio/mpeg">
+							Tu navegador no soporta la etiqueta audio de html5 o nos falto subir un formato soportado, sori.
+						</audio>
+					</div>
+					<div class="hero__actions">
+						<div class="hero__actions-wrp">
+							<div class="hero__actions-btn-wrp">
+								<a class="btn btn--big btn--negativo " href="{{ .Params.mixcloudurl }}"><i class="icon icon-mixcloud"></i> Escuchar en Mixcloud</a>
+								<a class="btn btn--big btn--descarga" href="/audio/{{ .Params.audio }}.mp3" target="_blank" title="Descargar Episodio 01" download><i class="icon icon-download"></i> Descargar Episodio</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	{{ end }}
+
+		<div class="featured-section">
+			<div class="wrp">
+				<section class="article-list article-list--podcast">
+					<h1 class="article-list__title"><a href="/podcasts/">Últimos episodios</a></h1>
+					{{ range first 3 (where .Data.Pages "Section" "podcasts")}}
+						{{ partial "podcast-article.html" . }}
+					{{ end }}
+				</section>
+			</div>
+		</div>
+
+		<div class="wrp">
+			<section class="article-list">
+				<h1 class="article-list__title"><a href="/blog/">Blog</a></h1>
+				{{ range first 3 (where .Data.Pages "Section" "blog")}}
+					{{ partial "article.html" . }}
+				{{ end }}
+				<footer class="article-list__ftr">
+					<a href="/blog/" class="article-list__view-all">Ver publicaciones anteriores<i class="icon icon-right-open"></i></a>
+				</footer>
+			</section>
+		</div>
+	</div>
+{{ partial "footer.html" . }}
+

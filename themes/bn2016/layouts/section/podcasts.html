@@ -7,7 +7,7 @@
 
     <div class="wrp page-wrp">
 
-        <section class="article-list" role="main">
+        <section class="article-list article-list--podcast" role="main">
             <h1 class="article-list__title">{{ .Title }}</h1>
             {{ range .Paginator.Pages }}
             <article class="article-list__item">
@@ -26,7 +26,7 @@
             {{ end }}
         </section>
 
-        <div class="pagination-cnt">
+        <div class="pagination-cnt pagination--podcast">
             {{ template "_internal/pagination.html" . }}
         </div>
 

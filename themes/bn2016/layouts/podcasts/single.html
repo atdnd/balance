@@ -1,0 +1,38 @@
+{{ partial "header-blog.html" . }}
+<div class="page__img" style="background-image: url(/img/{{ .Params.image }})">
+
+</div>
+<div class="wrp page-wrp">
+    <section role="main" class="post">
+        <header class="post__header">
+            <h1 class="post__title">{{ .Title }}</h1>
+            <div class="post__meta">
+                <span class="post__temp">Temporada {{ .Params.temporada }}</span>
+                &nbsp;&mdash;&nbsp;
+                <span class="post__epi">Episodio {{ .Params.episodio }}</span>
+                Publicado el:&nbsp;
+                <time class="post__date">{{ .Date.Format "2-01-2006" }}</time>
+            </div>
+            {{ partial "sharing-buttons.html" . }}
+        </header>
+        <div class="post__cnt">
+            <p class="post__desc">{{ .Description }}</p>
+            <div class="post__audio">
+                <audio controls>
+                    <source src="/audio/{{ .Params.audio }}.mp3" type="audio/mpeg">
+                    <source src="/audio/{{ .Params.audio }}.ogg" type="audio/ogg">
+                    Tu navegador no soporta la etiqueta audio de html5 o nos falto subir un formato soportado, sori.
+                </audio>
+            </div>
+            <div class="post__actions">
+                <a class="btn btn--big " href="{{ .Params.mixcloudurl }}"><i class="icon icon-mixcloud"></i> Escuchar en Mixcloud</a>
+                <a class="btn btn--big btn--negativo btn--descarga" href="/audio/{{ .Params.audio }}.mp3" target="_blank" title="Descargar Episodio 01" download><i class="icon icon-download"></i> Descargar Episodio</a>
+            </div>
+        </div>
+        <footer class="post__ftr">
+            {{ partial "disqus.html" . }}
+        </footer>
+    </section>
+</div>
+
+{{ partial "footer.html" . }}

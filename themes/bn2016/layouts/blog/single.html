@@ -1,0 +1,26 @@
+{{ partial "header-blog.html" . }}
+<div class="page__img" style="background-image: url(/img/{{ .Params.image }})">
+
+</div>
+<div class="wrp page-wrp">
+    <section class="post entry single" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+        <header class="post__header">
+            <h1 class="post__title title">{{ .Title }}</h1>
+            <div class="post__meta posted">
+                Publicado el:&nbsp;
+                <time class="post__date date" pubdate itemprop="dateCreated" datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2-01-2006" }}</time>
+                &nbsp;por&nbsp;
+                <span class="post__author vcard"><span class="fn" lang="es">{{ .Params.author }}</span></span>
+            </div>
+            {{ partial "sharing-buttons.html" . }}
+        </header>
+        <div class="post__cnt">
+            {{ .Content }}
+        </div>
+        <footer class="post__ftr">
+            {{ partial "disqus.html" . }}
+        </footer>
+    </section>
+</div>
+
+{{ partial "footer.html" . }}
