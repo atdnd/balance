@@ -9,5 +9,12 @@ mixcloudurl: "https://www.mixcloud.com/balancenegativo/capaz-que-el-mayordomo-no
 temporada: 1
 title: Capaz que el mayordomo no es el asesino
 duracion: "1:04:29"
+keywords: 
+- 'Spoilers'
+- 'No spoilers'
+- 'discusión' 
+- 'podcast'
+- 'películas'
+- 'libros'
 ---
 

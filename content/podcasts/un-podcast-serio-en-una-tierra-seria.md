@@ -10,5 +10,12 @@ mixcloudurl: https://www.mixcloud.com/balancenegativo/hablando-de-dios-episodio-
 subtitle: "Un podcast serio en una Tierra seria"
 temporada: 1
 title: "Hablando de Dios. Episodio I"
+keywords: 
+- 'Grant Morrison'
+- 'Arkham Asylum'
+- 'Batman'
+- 'Biografía'
+- 'Comics'
+- 'Guionista'
+- 'podcast'
 ---
-

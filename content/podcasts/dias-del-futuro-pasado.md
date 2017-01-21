@@ -9,5 +9,13 @@ image: 2015/09/dias-futuro-cover.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/días-del-futuro-pasado-balance-negativo-t01-e10/
 temporada: 1
 title: Días del futuro pasado
+keywords: 
+- 'Podcast del futuro'
+- 'podcast'
+- 'Predicciones de películas' 
+- 'Humor'
+- 'películas'
+- 'Uruguay'
 ---
+
 

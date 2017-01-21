@@ -9,4 +9,13 @@ image: /2015/12/yoda.jpg
 mixcloudurl: "https://www.mixcloud.com/balancenegativo/el-lado-luminoso-del-podcast-balance-negativo-t01-e17/"
 temporada: 1
 title: "El lado luminoso del podcast"
+keywords: 
+- 'Star Wars'
+- 'The light side of the force'
+- 'El lado luminoso de la fuerza' 
+- 'Episodio 4'
+- 'Episodio 5'
+- 'Episodio 6'
+- 'George Lucas'
+- 'películas'
 ---

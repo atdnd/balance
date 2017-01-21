@@ -9,5 +9,15 @@ mixcloudurl: https://www.mixcloud.com/balancenegativo/la-venganza-de-los-nerds-t
 temporada: 1
 title: La venganza de los nerds
 duracion: "1:04:29"
+keywords: 
+- 'Cultura nerd'
+- 'Frikis' 
+- 'Freaks' 
+- 'Cultura' 
+- 'Geeks' 
+- 'Nerds' 
+- 'Películas'
+- 'Comics'
+- 'podcast'
 ---
 

@@ -9,5 +9,13 @@ mixcloudurl: "https://www.mixcloud.com/balancenegativo/nananananana-podcast-bala
 temporada: 1
 title: Nananananana, ¡podcast!
 duracion: "2:46:04"
+keywords: 
+- 'Series'
+- 'Cómics' 
+- 'Batman' 
+- 'El hombre murciélago' 
+- 'Películas' 
+- 'podcast'
 ---
+
 

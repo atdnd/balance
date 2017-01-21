@@ -9,5 +9,16 @@ mixcloudurl: "https://www.mixcloud.com/balancenegativo/en-tierra-2-soy-un-genio-
 temporada: 1
 title: En Tierra 2 soy un genio
 duracion: "1:33:03"
+keywords: 
+- 'Continuidad en los comics'
+- 'Comics' 
+- 'Superhéroes' 
+- 'Continuidad' 
+- 'Marvel'
+- 'DC Comics'  
+- 'Películas'
+- 'reboots'
+- 'podcast'
 ---
+
 

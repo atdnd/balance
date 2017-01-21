@@ -10,4 +10,17 @@ mixcloudurl: "https://www.mixcloud.com/balancenegativo/hablando-de-dios-episodio
 temporada: 1
 title: "Hablando de Dios. Episodio II"
 subtitle: "Uncanny Podcast"
+keywords: 
+- 'X Men'
+- 'Hombres X'
+- 'Grant Morrison'
+- 'Joss Whedon'
+- 'Comics'
+- 'New X-Men'
+- 'Nuevos Hombres X'
+- 'Marvel'
+- 'Moon Knight'
+- 'Warren Ellis'
+- 'podcast'
 ---
+

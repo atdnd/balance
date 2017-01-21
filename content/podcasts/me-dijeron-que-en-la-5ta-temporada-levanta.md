@@ -9,5 +9,11 @@ mixcloudurl: https://www.mixcloud.com/balancenegativo/me-dijeron-que-en-la-5ta-t
 temporada: 1
 title: Me dijeron que en la 5ta temporada levanta
 duracion: "2:16:21"
+keywords: 
+- 'Series'
+- 'Cómics' 
+- 'Películas basadas en comics' 
+- 'Series basadas en comics' 
+- 'Películas' 
+- 'podcast'
 ---
-

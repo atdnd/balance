@@ -10,7 +10,6 @@ title: Fantastic Fail
 ---
 
 
-
 A pesar de ser considerada una de las peores películas de superhéroes de la historia y de perder millones de dólares y el respeto de los fans, aparentemente Fox mantiene su plan de lanzar una secuela de Fantastic Four en el 2017.
 
 Chris Aronson, presidente de distribución para Fox, declaró que el estudio no va a renunciar a estos personajes. Por más que toda la evidencia exclame a gritos que lo más lógico sería dar un paso al costado, Fox no parece querer detener la máquina. Simon Kinberg, escritor y productor, sostiene que ya tiene su mente puesta en la secuela. En una entrevista para MTV en el Festival Internacional de Cine de Toronto, declaró que todavía no tuvo tiempo para reflexionar sobre el fracaso que fue Fantastic Four.

@@ -9,5 +9,16 @@ mixcloudurl: https://www.mixcloud.com/balancenegativo/una-vez-más-con-sentimien
 temporada: 1
 title: Una vez más, con sentimiento
 duracion: "3:15:03"
+keywords: 
+- 'Buffy: the vampire slayer'
+- 'Buffy: la cazavampiros'
+- 'Buffy'
+- 'Joss Whedon'
+- 'Comics'
+- 'Series'
+- 'Películas'
+- 'Cine'
+- 'Sarah Michelle Gellar'
+- 'podcast'
 ---
 

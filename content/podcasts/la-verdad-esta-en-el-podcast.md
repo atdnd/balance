@@ -9,4 +9,15 @@ image: /2015/11/x-files.jpg
 mixcloudurl: "https://www.mixcloud.com/balancenegativo/la-verdad-esta-en-el-podcast-balance-negativo-t01-e16/"
 temporada: 1
 title: "La verdad está en el podcast"
+keywords: 
+- 'X Files'
+- 'Los Archivos X' 
+- 'Los Expedientes Secretos X' 
+- 'Fox Mulder' 
+- 'Dana Scully' 
+- 'Series' 
+- 'Moon Knight' 
+- 'Hulk'
+- 'Comics'
+- 'podcast'
 ---

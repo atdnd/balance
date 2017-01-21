@@ -8,5 +8,12 @@ image: /2015/10/millenium.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/los-hombres-que-no-amaban-los-podcasts-balance-negativo-t01-e12/
 temporada: 1
 title: los hombres que no amaban los podcasts
+keywords: 
+- 'Millennium'
+- 'Stieg Larsson' 
+- 'Literatura' 
+- 'Libros' 
+- 'Películas' 
+- 'Los hombres que no amaban a las mujeres'
+- 'podcast'
 ---
-

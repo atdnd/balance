@@ -1,0 +1,22 @@
+---
+audio: balance-negativo-t02-e07
+date: 2016-05-27T11:04:35-03:00
+description: "En esta primera parte del recorrido a la obra de Alan Moore, hablamos de Watchmen en su aniversario número 30; analizamos personajes, trama, estructura, y nos detenemos en algunos momentos claves. También hablamos de la película de 2009 dirigida por Zack Snyder, y como siempre, cerramos con las recomendaciones y saludos a los oyentes."
+draft: false
+duracion: "3:24:10"
+temporada: 2
+episodio: 7
+image: 2016/05/watchmen.jpg
+mixcloudurl: https://www.mixcloud.com/balancenegativo/hablando-del-diablo-episodio-i-quién-podcastea-a-los-podcasters-balance-negativo-t02-e07/
+subtitle: "¿Quién podcastea a los podcasters?"
+title: "Hablando del Diablo. Episodio I"
+keywords: 
+- 'Watchmen'
+- 'Los Vigilantes'
+- 'Comics'
+- 'Alan Moore'
+- 'Zack Snyder'
+- 'Películas'
+- 'podcast'
+---
+

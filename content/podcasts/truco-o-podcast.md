@@ -9,5 +9,16 @@ image: 2015/10/halloween.png
 mixcloudurl: https://www.mixcloud.com/balancenegativo/truco-o-podcast-balance-negativo-t01-e14/
 temporada: 1
 title: "¡Truco o Podcast!"
+keywords: 
+- 'Halloween'
+- 'Películas'
+- 'Cultura'
+- 'Tradiciones'
+- 'Historia'
+- 'Terror'
+- 'Suspenso'
+- 'Horror'
+- 'podcast'
 ---
+
 

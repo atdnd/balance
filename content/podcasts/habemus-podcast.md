@@ -10,6 +10,15 @@ image: "bn_herotest.jpg"
 audio: "balance-negativo-t01-e01"
 mixcloudurl: "https://www.mixcloud.com/balancenegativo/habemus-podcast-balance-negativo-t01-e01/"
 duracion: "1:01:50"
+keywords: 
+- 'Balance Negativo'
+- 'Nerds' 
+- 'Superhéroes' 
+- 'Cultura' 
+- 'Películas'
+- 'Libros'
+- 'podcast'
 ---
+
 
 

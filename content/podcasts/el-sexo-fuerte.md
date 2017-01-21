@@ -9,5 +9,13 @@ mixcloudurl: https://www.mixcloud.com/balancenegativo/el-sexo-fuerte-balance-neg
 temporada: 1
 title: El sexo fuerte
 duracion: "1:30:06"
+keywords: 
+- 'Feminismo'
+- 'Rol de la mujer en los comics' 
+- 'Comics' 
+- 'Superhéroes' 
+- 'Comics' 
+- 'Películas'
+- 'libros'
+- 'podcast'
 ---
-

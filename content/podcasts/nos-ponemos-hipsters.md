@@ -9,5 +9,15 @@ image: /2015/09/nos-ponemos-hipsters.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/nos-ponemos-hipsters-balance-negativo-t01-e11/
 temporada: 1
 title: Nos ponemos hipsters
+keywords: 
+- 'Ciencia ficción'
+- 'Safety not guaranteed'
+- 'Primer'
+- 'Ex Machina'
+- 'Coherence'
+- 'Películas' 
+- 'podcast'
 ---
+
+
 

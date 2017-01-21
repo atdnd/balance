@@ -9,5 +9,12 @@ mixcloudurl: "https://www.mixcloud.com/balancenegativo/pero-esto-no-es-real-bala
 temporada: 1
 title: "¡Pero esto no es real!"
 duracion: "39:50"
+keywords: 
+- 'Realismo en películas de superhéroes'
+- 'Realismo' 
+- 'Superhéroes' 
+- 'Christopher Nolan' 
+- 'Batman' 
+- 'Películas'
+- 'podcast'
 ---
-
