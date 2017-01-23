@@ -1,16 +1,15 @@
 ---
+title: David Lynch confirma reboot de Twin Peaks
+date: '2015-05-16T08:00:00-03:00'
 author: Autor
-title: "David Lynch confirma reboot de Twin Peaks"
-description: "Anuncio de David Lynch en su cuenta de twitter confirmando el reboot de Twin Peaks"
-Keywords: "David Lynch, Twitter, Twin Peaks, Kyle MacLachlan, ABC, reboot"
-image: "2015/05/twin_peaks_cover.jpg"
-date: 2015-05-16T08:00:00-03:00
-draft: false
+description: Anuncio de David Lynch en su cuenta de twitter confirmando el reboot
+  de Twin Peaks
+Keywords: David Lynch, Twitter, Twin Peaks, Kyle MacLachlan, ABC, reboot
+image: 2015/05/twin_peaks_cover.jpg
 Categories:
-  - Noticias
+- Noticias
 
 ---
-
 Quizás haya sido solo un truco publicitario para generar expectativa, pero cuando **Lynch** anunció que no iba a estar en el proyecto por “problemas monetarios”, los fans se pusieron en campaña para que se solucionara cualquier inconveniente y hacer posible el regreso de esta serie de los 90s.
 <!--more-->
 

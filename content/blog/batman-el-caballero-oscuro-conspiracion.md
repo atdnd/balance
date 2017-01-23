@@ -1,14 +1,14 @@
 ---
+title: 'Batman El Caballero Oscuro: Conspiración'
+date: '2015-06-22T12:30:18-03:00'
 author: Gabriel Llagostera
 categories:
 - Reviews
-date: 2015-06-22T12:30:18-03:00
-description: "Misterio, intriga y un caso por resolver. Una reseña de este arco de 3 números de Batman de la serie Legends of the Dark Knight."
-draft: false
+description: Misterio, intriga y un caso por resolver. Una reseña de este arco de
+  3 números de Batman de la serie Legends of the Dark Knight.
 image: 2015/06/batman_conspiracy_cover.jpg
-title: "Batman El Caballero Oscuro: Conspiración"
----
 
+---
 La editorial española ECC edita en tomos sin numeración ni periodicidad regular arcos de la mítica serie Legends of the Dark Knight, que desde fines de los 80 se ha encargado de traer historias independientes con equipos artísticos diferentes que abarcan los primeros años de Batman como protector de Gotham. Una serie muy recomendable y que ha publicado historias interesantísimas del personaje.
 
 Hoy traigo un arco de 3 números publicados originalmente en 1996 escrita por Doug Moench y dibujada por J.H. Williams III. Esa era la época en que Moench escribía la serie regular Batman que comenté en otra review, por lo que el tono de la historia es esencialmente la misma que en ese run: misterio, intriga y un caso por resolver. En este caso encontramos una secta satánica que ataca en Gotham (idea poco original, pues ya se había hecho varias veces en los comics del personaje) y que provoca asesinatos rituales con características especiales. En ese contexto, la investigación que realiza Batman lo lleva a otras ciudades y a las distintas ramificaciones que esta secta tiene.

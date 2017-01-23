@@ -1,14 +1,14 @@
 ---
-date: 2015-05-25T18:16:14-03:00
-title: "Justicia Divina - Review de Game of Thrones Temporada 5, Episodio 7"
+title: Justicia Divina - Review de Game of Thrones Temporada 5, Episodio 7
+date: '2015-05-25T18:16:14-03:00'
 author: Micaela De Armas
-description: "Review de Game of Thrones: The Gift, episodio 7 de la temporada 5"
-Keywords: "Game of Thrones, The Gift, review, Cersei"
-image: "2015/05/thegift_cover.jpg"
+description: 'Review de Game of Thrones: The Gift, episodio 7 de la temporada 5'
+Keywords: Game of Thrones, The Gift, review, Cersei
+image: 2015/05/thegift_cover.jpg
 Categories:
- - "Reviews"
----
+- Reviews
 
+---
 *Game of Thrones* sigue creciendo y madurando a nivel de dirección y guión. Siguen dando cátedra televisiva y demostrando que son los mejores cuando se trata de hacer malabares con muchas tramas y esculpirlas estrujadas en poco más de 40 minutos.
 *The Gift* abarca una gran gama de tonos y emociones de forma coherente, resolviendo algunos de los momentos más esperados en ciertas líneas argumentales y desarrollando otros, siempre dejando lo mejor para el final como es característico.
 

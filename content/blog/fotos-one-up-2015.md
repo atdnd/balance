@@ -1,14 +1,14 @@
 ---
+title: Fotos de la ONEUP 2015
+date: '2015-05-18T14:48:17-03:00'
 author: Andrés Techera
 categories:
 - Noticias
-date: 2015-05-18T14:48:17-03:00
-description: Balance Negativo estuvo presente en la ONEUP 2015, la convención gamer que se realiza anualmente en la Intendencia Municipal de Montevideo
-draft: false
+description: Balance Negativo estuvo presente en la ONEUP 2015, la convención gamer
+  que se realiza anualmente en la Intendencia Municipal de Montevideo
 image: 2015/05/oneup-cover.jpg
-title: Fotos de la ONEUP 2015
----
 
+---
 Balance Negativo estuvo presente en la **ONEUP** 2015, la convención gamer que se realiza anualmente en la Intendencia Municipal de Montevideo y reúne a fans de PC y consolas en un fin de semana de juegos y freakeadas diversas.<!--more-->
 La **ONEUP** es un evento único en su especie en Montevideo, donde el hecho de ser de entrada libre juega a favor de compartir y fomentar la cultura de los videojuegos.
 

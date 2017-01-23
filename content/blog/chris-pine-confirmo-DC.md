@@ -1,14 +1,14 @@
 ---
+title: Chris Pine confirmó qué personaje de DC interpretará.
+date: '2015-07-31T11:40:07-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-07-31T11:40:07-03:00
-description: Chris Pine confirma que estará interpetando a Steve Trevor en Wonder Woman.
-draft: false
+description: Chris Pine confirma que estará interpetando a Steve Trevor en Wonder
+  Woman.
 image: 2015/07/chrispine-cover.jpg
-title: Chris Pine confirmó qué personaje de DC interpretará.
----
 
+---
 Los rumores de que Chris Pine se uniría al universo cinematográfico de DC están sonando fuerte y finalmente se confirmó qué rol va a encarnar el actor de *Star Trek*. En la web circularon reportes de que Pine estaba considerando un rol en *Green Lantern Corps* pero decidió tomar otro rumbo.
 <!--more-->
 

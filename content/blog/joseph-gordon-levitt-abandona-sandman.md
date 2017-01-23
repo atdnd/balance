@@ -1,14 +1,14 @@
 ---
+title: Joseph Gordon-Levitt abandona la adaptación cinematográfica de Sandman
+date: '2016-03-07T21:35:15-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2016-03-07T21:35:15-03:00
-description: "Joseph Gordon-Levitt dió un paso hacia el costado, abandonando la producción de la tan esperada adaptación del clásico de Neil Gaiman: Sandman."
-draft: false
+description: 'Joseph Gordon-Levitt dió un paso hacia el costado, abandonando la producción
+  de la tan esperada adaptación del clásico de Neil Gaiman: Sandman.'
 image: 2016/03/sandman.jpg
-title: "Joseph Gordon-Levitt abandona la adaptación cinematográfica de Sandman"
----
 
+---
 La semana pasada nos enteramos de que Joseph Gordon-Levitt dió un paso hacia el costado, abandonando la producción de la tan esperada adaptación del clásico de Neil Gaiman: Sandman. El anuncio pegó fuerte en los fans de la serie de comics, ya que Joseph Gordon-Levitt estaba dispuesto no sólo a protagonizar la película sino también a dirigirla y producirla.
 
 La noticia se hizo conocer después de que se confirmó a Eric Heisserer como guionista, lo que ocasionó fuertes sospechas de que el actor no estaba de acuerdo con la incorporación del escritor.

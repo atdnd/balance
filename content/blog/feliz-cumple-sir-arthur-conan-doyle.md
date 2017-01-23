@@ -1,14 +1,15 @@
 ---
+title: Feliz Cumple Sir Arthur Conan Doyle!
+date: '2015-05-22T15:00:00-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-05-22T15:00:00-03:00
-description: Un día como hoy pero de 1859 nacía Sir Arthur Conan Doyle, escritor escocés que publicó cientos de novelas. Un pequeño homenaje y una recomendación de Balance Negativo
-draft: false
+description: Un día como hoy pero de 1859 nacía Sir Arthur Conan Doyle, escritor escocés
+  que publicó cientos de novelas. Un pequeño homenaje y una recomendación de Balance
+  Negativo
 image: 2015/05/sir_arthur_conan_doyle_cover.jpg
-title: "Feliz Cumple Sir Arthur Conan Doyle!"
----
 
+---
 Un día como hoy pero de 1859 nacía **Sir Arthur Conan Doyle**, escritor escocés que publicó cientos de novelas y exploró varios géneros como la fantasía, la ciencia ficción y la poesía. Pero su creación literaria más conocida es el personaje de Sherlock Holmes que tuvo su debut en A Study in Scarlet y del cual escribió sesenta novelas de misterio. Las más populares se publicaron a principios del siglo XX: The Sign of Four, The Adventures of Sherlock Holmes, The Memoirs of Sherlock Holmes y The Hounds of the Baskervilles.
 En 1893 Doyle intentó matar el personaje de Sherlock Holmes para poder enfocarse en escribir sobre espiritualismo, movimiento al que se unió en 1887. Los lectores no querían separarse de su personaje favorito y Doyle reintrodujo a Sherlock Holmes como un fantasma en The Hounds of the Baskervilles y le devolvió la vida en The Adventure of the Empty House.
 

@@ -1,14 +1,14 @@
 ---
+title: "¿Qué personaje de Daredevil aparecerá en Jessica Jones?"
+date: '2015-08-03T14:55:59-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-08-03T14:55:59-03:00
-description: Claire Temple (Rosario Dawson) aparecera en Jessica Jones junto con otros personajes secundarios de Daredevil.
-draft: false
+description: Claire Temple (Rosario Dawson) aparecera en Jessica Jones junto con otros
+  personajes secundarios de Daredevil.
 image: 2015/08/jessica-logo.jpg
-title: ¿Qué personaje de Daredevil aparecerá en Jessica Jones?
----
 
+---
 La semana pasada repasamos [lo nuevo de Marvel para Netflix](http://balancenegativo.com/blog/2015/07/28/lo-nuevo-de-marvel-en-netflix/) y próximamente tendremos la segunda temporada de Daredevil y una nueva serie basada en el personaje de Jessica Jones, protagonizada por Krysten Ritter (Breaking Bad).
 <!--more-->
 ![Jessica Logo](/img/2015/08/jessica-cover.jpeg)

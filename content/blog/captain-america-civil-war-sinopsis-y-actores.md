@@ -1,14 +1,16 @@
 ---
-date: 2015-05-07T14:31:03-03:00
-draft: false
-title: "Captain America: Civil War retoma Avengers: Age of Ultron. Sinópsis oficial y lista de actores confirmados"
-image: "2015/05/civil-war-cover.jpg"
-author: "Micaela De Armas"
-description: "Captain America: Civil War retoma desde el final de Avengers: Age of Ultron, mientras Steve Rogers lidera al nuevo equipo de Vengadores que continúan esforzándose para salvaguardar la humanidad."
+title: 'Captain America: Civil War retoma Avengers: Age of Ultron. Sinópsis oficial
+  y lista de actores confirmados'
+date: '2015-05-07T14:31:03-03:00'
+image: 2015/05/civil-war-cover.jpg
+author: Micaela De Armas
+description: 'Captain America: Civil War retoma desde el final de Avengers: Age of
+  Ultron, mientras Steve Rogers lidera al nuevo equipo de Vengadores que continúan
+  esforzándose para salvaguardar la humanidad.'
 categories:
-  - Noticias
----
+- Noticias
 
+---
 Comienza la producción de Civil War en los estudios Pinewood de Atlanta, Georgia y Marvel publicó la sinópsis oficial junto con la lista confirmada de actores que participarán en la película. ¿Están preparados?
 
 > "Captain America: Civil War retoma desde el final de Avengers: Age of Ultron, mientras Steve Rogers lidera al nuevo equipo de Vengadores que continúan esforzándose para salvaguardar la humanidad. Luego de que otro incidente internacional que involucra a los Vengadores tuviera daños colaterales, la presión política se incrementa para instalar un sistema de rendición de cuentras y un cuerpo de gobierno que determine cuando se necesitan los servicios del equipo. Esto divide a los Vengadores mientras tratan de proteger el mundo ante la amenaza de un nuevo villano.”

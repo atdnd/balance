@@ -1,8 +1,8 @@
 ---
+title: Contacto
 Title: Contacto
 
 ---
-
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <form class="form" action="//formspree.io/balancenegativo@gmail.com" method="POST">
     <fieldset>

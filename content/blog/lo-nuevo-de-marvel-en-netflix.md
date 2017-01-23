@@ -1,14 +1,14 @@
 ---
+title: Lo nuevo de Marvel en Netflix
+date: '2015-07-28T21:43:41-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-07-28T21:43:41-03:00
-description: "Series que va a estrenar Marvel en Netflix en el 2015/1016: The Defenders, Daredevil, Jessica Jones, Iron Fist y Luke Cage. Rumores sobre Thunderbolts."
-draft: false
+description: 'Series que va a estrenar Marvel en Netflix en el 2015/1016: The Defenders,
+  Daredevil, Jessica Jones, Iron Fist y Luke Cage. Rumores sobre Thunderbolts.'
 image: 2015/07/Netflix_Marvel.jpg
-title: Lo nuevo de Marvel en Netflix
----
 
+---
 Mientras esperamos a mayo para el estreno de *Captain America: Civil War*, **Marvel y Netflix** nos tiene enchufados con una megadosis de superhéroes (que esperemos no sea letal).
 <!--more-->
 

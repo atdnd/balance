@@ -1,24 +1,25 @@
 ---
+title: Una vez más, con sentimiento
+date: '2015-08-12T22:30:52-03:00'
 audio: balance-negativo-t01-e08
-date: 2015-08-12T22:30:52-03:00
-description: Veneramos la figura creativa de Joss Whedon a través de toda su obra, donde marcamos sus luces y sombras. Un podcast maratónico para que quede en el mejor recuerdo. Y sí, con mucho sentimiento.
-draft: false
+description: Veneramos la figura creativa de Joss Whedon a través de toda su obra,
+  donde marcamos sus luces y sombras. Un podcast maratónico para que quede en el mejor
+  recuerdo. Y sí, con mucho sentimiento.
 episodio: 8
 image: 2015/08/una-vez-mas.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/una-vez-más-con-sentimiento-balance-negativo-t01-e08/
 temporada: 1
-title: Una vez más, con sentimiento
-duracion: "3:15:03"
-keywords: 
+duracion: '3:15:03'
+keywords:
 - 'Buffy: the vampire slayer'
 - 'Buffy: la cazavampiros'
-- 'Buffy'
-- 'Joss Whedon'
-- 'Comics'
-- 'Series'
-- 'Películas'
-- 'Cine'
-- 'Sarah Michelle Gellar'
-- 'podcast'
----
+- Buffy
+- Joss Whedon
+- Comics
+- Series
+- Películas
+- Cine
+- Sarah Michelle Gellar
+- podcast
 
+---

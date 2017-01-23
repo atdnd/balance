@@ -1,14 +1,13 @@
 ---
+title: Descubre los 10 mejores momentos de la Comic-Con de San Diego 2015
+date: '2015-07-13T16:03:40-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-07-13T16:03:40-03:00
 description: Los mejores momentos de la Comic-Con 2015
-draft: false
 image: 2015/07/comiccon_cover.jpg
-title: Descubre los 10 mejores momentos de la Comic-Con de San Diego 2015
----
 
+---
 Muchas cosas pasaron en la Comic Con de San Diego y en Balance Negativo te contamos las 10 mejores.
 <!--more-->
 

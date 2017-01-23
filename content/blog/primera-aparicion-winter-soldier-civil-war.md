@@ -1,14 +1,14 @@
 ---
+title: 'La primera aparición de Winter Soldier en Captain America: Civil War'
+date: '2015-05-09T17:31:12-03:00'
 author: Andrés Techera
 categories:
 - Noticias
-date: 2015-05-09T17:31:12-03:00
-description: "Sebastian Stan publicó en su cuenta de instagram su primera foto en el set de Captain America: Civil War"
-draft: false
+description: 'Sebastian Stan publicó en su cuenta de instagram su primera foto en
+  el set de Captain America: Civil War'
 image: 2015/05/winter-soldier-cover.jpg
-title: "La primera aparición de Winter Soldier en Captain America: Civil War"
----
 
+---
 Sebastian Stan, el actor que encarnó a James "Bucky" Barnes en la película *Captain America: The Winter Soldier* publicó en su cuenta de instagram su primera foto en el set de *Captain America: Civil War*.
 La película comenzó su rodaje a principios de esta semana según confirmó Disney, y su fecha de estreno sería en Abril del próximo año.
 

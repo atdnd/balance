@@ -1,14 +1,15 @@
 ---
+title: George Miller podría dirigir Man of Steel 2
+date: '2015-08-22T00:56:17-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-08-22T00:56:17-03:00
-description: "Jon Schnepp, apareció en el último episodio de PopCorn Talk y, sobre el final de la entrevista, habló sobre el rumor de que George Miller dirigiera la nueva película de Superman"
-draft: false
+description: Jon Schnepp, apareció en el último episodio de PopCorn Talk y, sobre
+  el final de la entrevista, habló sobre el rumor de que George Miller dirigiera la
+  nueva película de Superman
 image: 2015/08/miller.jpg
-title: George Miller podría dirigir Man of Steel 2
----
 
+---
 Sabemos que Warner Bros y DC tienen grandes planes para Superman. Batman v Superman: Dawn of Justice es tan solo el principio, Justice League tendrá sus dos partes y hasta hay rumores de que Ben Affleck podría protagonizar una nueva trilogía como Batman.
 <!--more-->
 Jon Schnepp, quién recién lanzó el documental The Death of Superman Lives: What Happened?, apareció en el último episodio de PopCorn Talk y, sobre el final de la entrevista, habló sobre el rumor de que George Miller dirigiera la nueva película de Superman. No dió más detalles al respecto, pero la teoría no deja de ser muy interesante.

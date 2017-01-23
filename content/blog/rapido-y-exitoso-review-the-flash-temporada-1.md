@@ -1,14 +1,13 @@
 ---
+title: 'Rápido y exitoso: Review de The Flash Temporada 1'
+date: '2015-06-16T22:00:53-03:00'
 author: Gabriel Llagostera
 categories:
 - Reviews
-date: 2015-06-16T22:00:53-03:00
-description: "Nuestra reseña de la primera temporada de The Flash - por Gabriel Llagostera"
-draft: false
+description: Nuestra reseña de la primera temporada de The Flash - por Gabriel Llagostera
 image: 2015/06/flash-cover.jpg
-title: "Rápido y exitoso: Review de The Flash Temporada 1"
----
 
+---
 El comienzo de esta serie es anterior al piloto: vemos el origen del personaje en un capítulo de la segunda temporada de Arrow, y desde allí me surgió siempre la misma duda, una interrogante que me hacía temer por el éxito de esa serie que iba naciendo: ¿los productores podrían hacer creíble que Flash corriera? El piloto me sacó de la duda; los efectos están muy buenos y resultan creíbles. La historia está al nivel también; ya desde el comienzo los guionistas dejaron claro que las sorpresas iban a estar presentes, y solo quedaba descubrir si había una trama a largo plazo bien planificada o iban a improvisar sobre la marcha.
 
 La temporada giró alrededor de Harrison Wells y su identidad, y en ese sentido supieron llevar muy bien las revelaciones y cuándo ir mostrando cada cosa. De a poco fuimos descubriendo un montón de cosas sin que se sintiera que estuvieran estirando o agregando cosas injustificadas. En ese sentido, los guionistas fueron muy inteligentes y tuvieron en cuenta al público comiquero para jugar con la expectativa de quién es, y resolverlo en un capítulo maravilloso, en una de las escenas genuinamente más impactantes de la serie (y de muchas series que vi).

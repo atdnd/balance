@@ -1,15 +1,13 @@
 ---
-author: "Micaela De Armas"
+title: Jugando con fuego - Review de Game of Thrones Temporada 5, Episodio 9
+date: '2015-06-08T19:01:47-03:00'
+author: Micaela De Armas
 categories:
 - Reviews
-date: 2015-06-08T19:01:47-03:00
-description: "Review de Game of Thrones, Temporada 5, Episodio 9: The Dance of Drangons"
-draft: false
+description: 'Review de Game of Thrones, Temporada 5, Episodio 9: The Dance of Drangons'
 image: 2015/06/got_cover.jpg
-title: "Jugando con fuego - Review de Game of Thrones Temporada 5, Episodio 9"
+
 ---
-
-
 *Canción de fuego y hielo* se llama la colección de libros de **George RR Martin**, y podemos decir que el episodio pasado estuvo muy helado y que este está prendido fuego.
 
 <!--more-->
