@@ -1,15 +1,15 @@
 ---
-date: 2015-05-08
-draft: false
-title: "Super (2010) de James Gunn"
-image: "2015/05/super-2010-cover.jpg"
-author: "Gabriel Llagostera"
-description: "Inauguramos nuestra sección de reviews con una Super reseña. Aprovechando el éxito de James Gunn en Marvel con Guardians of the Galaxy, repasamos una de sus películas independientes."
+title: Super (2010) de James Gunn
+date: '2015-05-08T00:00:00+00:00'
+image: 2015/05/super-2010-cover.jpg
+author: Gabriel Llagostera
+description: Inauguramos nuestra sección de reviews con una Super reseña. Aprovechando
+  el éxito de James Gunn en Marvel con Guardians of the Galaxy, repasamos una de sus
+  películas independientes.
 categories:
-  - Reviews
+- Reviews
 
 ---
-
 Aprovechando el éxito de James Gunn en Marvel con los *Guardians of the Galaxy*, repasamos una de sus películas independientes cuyo visionado resulta obligatorio para cualquier fan del género.
 
 Actualmente encontramos tantas películas de superhéroes que resulta difícil encontrar algún tipo de originalidad en ellas, algo que destaque por sobre las demás. Así es que de un buen tiempo a esta parte empezaron a hacerse películas que intentan deconstruir el género. Esta es una de ellas.

@@ -1,14 +1,14 @@
 ---
+title: Una Boda de Invierno - Review de Game of Thrones Temporada 5, Episodio 6
+date: '2015-05-19T00:36:25-03:00'
 author: Micaela De Armas
-date: 2015-05-19T00:36:25-03:00
-title: "Una Boda de Invierno - Review de Game of Thrones Temporada 5, Episodio 6"
-description: "Reseña de Game of Thrones. Temporada 5 Episodio 6. Unbowed, Unbent, Unbroken"
-Keywords: "Game of Thrones, Unbowed, Unbent, Unbroken, Sansa Stark"
-image: "2015/05/sansatheon_cover.jpg"
+description: Reseña de Game of Thrones. Temporada 5 Episodio 6. Unbowed, Unbent, Unbroken
+Keywords: Game of Thrones, Unbowed, Unbent, Unbroken, Sansa Stark
+image: 2015/05/sansatheon_cover.jpg
 categories:
 - Reviews
----
 
+---
 "Unbowed, Unbent, Unbroken" es el sexto episodio de la quinta temporada de Game of Thrones, se estrenó el 17 de Mayo del 2015, fue escrito por Bryan Cogman y dirigido por Jeremy Podeswa.
 <!--more-->
 <div class="spoilers-advice">

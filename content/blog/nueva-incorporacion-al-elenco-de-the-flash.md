@@ -1,14 +1,14 @@
 ---
+title: Nueva incorporacion al elenco de The Flash
+date: '2015-07-16T12:27:21-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-07-16T12:27:21-03:00
-description: La serie de **CW** se prepara para su segunda temporada y se confirmaron varios nuevos personajes.
-draft: false
+description: La serie de **CW** se prepara para su segunda temporada y se confirmaron
+  varios nuevos personajes.
 image: 2015/06/flash-cover.jpg
-title: Nueva incorporacion al elenco de The Flash
----
 
+---
 La serie de **CW** se prepara para su segunda temporada y se confirmaron varios nuevos personajes, incluyendo el Flash original, Jay Garrick, que aparentemente tendrá el rol de ser un mentor para Barry Allen.
 <!--more-->
 

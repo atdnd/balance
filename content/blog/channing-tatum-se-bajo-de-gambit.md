@@ -1,14 +1,13 @@
 ---
+title: "¿Channing Tatum se bajó de Gambit?"
+date: '2015-07-29T12:10:22-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-07-29T12:10:22-03:00
 description: Channing Tatum abandona la pelicula de Fox Gambit, un spin-off de X-Men.
-draft: false
 image: 2015/07/channing-tatum-gambit.png
-title: ¿Channing Tatum se bajó de Gambit?
----
 
+---
 Los productores Simon Kinberg y Lauren Shuler Donner aprobaron la realización de una película con Gambit como personaje principal y Channing Tatum se mostró muy entusiasta en encarnar al mutante de X-Men, pero aparentemente no se llegó a un acuerdo con el actor y el rol quedó vacante.
 <!--more-->
 

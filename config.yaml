@@ -1,17 +1,16 @@
 ---
-baseurl: "http://balancenegativo.com/"
-languageCode: "es-uy"
-title: "Balance Negativo"
-theme: "bn2016"
-metadataformat: "yaml"
+baseurl: http://balancenegativo.com/
+languageCode: es-uy
+title: Balance Negativo
+theme: bn2016
+metadataformat: yaml
 builddrafts: false
-permalinks:
-  podcasts: /podcasts/:year/:month/:day/:filename/
-  blog: /blog/:year/:month/:day/:filename/
-taxonomies:
-  category: "categories"
 paginate: 10
-paginatePath: "page"
+paginatePath: page
 params:
-  env: "dev"
----
+  env: dev
+permalinks:
+  podcasts: "/podcasts/:year/:month/:day/:filename/"
+  blog: "/blog/:year/:month/:day/:filename/"
+taxonomies:
+  category: categories

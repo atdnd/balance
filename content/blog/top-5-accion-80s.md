@@ -1,14 +1,14 @@
 ---
+title: Top 5 de acción de los 80s
+date: '2015-05-23T09:00:00-03:00'
 author: Andrés Techera
 categories:
 - Reviews
-date: 2015-05-23T09:00:00-03:00
-description: "Dejando la seriedad de lado, les dejo una breve reseña de 5 de los mejores momentos de acción de los años 80"
-draft: false
+description: Dejando la seriedad de lado, les dejo una breve reseña de 5 de los mejores
+  momentos de acción de los años 80
 image: 2015/05/accion-cover.jpg
-title: "Top 5 de acción de los 80s"
----
 
+---
 Esta última década nos tiene mal acostumbrados; en términos de cine la industria de los efectos especiales ha evolucionado a tal punto que a veces no podemos distinguir su presencia en las películas.
 Por eso mismo vengo a traerles estos 5 monumentos cinematográficos de los años 80 que lamentablemente pasaron desapercibidos para toda la generación postNirvana.
 

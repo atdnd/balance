@@ -1,14 +1,13 @@
 ---
+title: La Liga de la Justicia que nunca fue
+date: '2015-05-27T14:14:15-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-05-27T14:14:15-03:00
-description: "Justice League, documentary, George Miller, Ryan Unicomb"
-draft: false
+description: Justice League, documentary, George Miller, Ryan Unicomb
 image: 2015/05/justiceleague_cover.jpg
-title: La Liga de la Justicia que nunca fue
----
 
+---
 ¿Se acuerdan que casi tuvimos una película de *La Liga de la Justicia* dirigida por **George Miller**?
 
 Con el éxito de *Mad Max* de George Miller actualmente en cartel, en *Balance Negativo* recordamos este proyecto olvidado que podría haber cambiado las reglas del juego en lo que refiere a las películas de superhéroes como las conocemos en la actualidad.

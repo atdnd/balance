@@ -1,14 +1,16 @@
 ---
+title: 'Benicio del Toro interpretará al villano de Star Wars: Episode VIII'
+date: '2015-09-08T11:35:52-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-09-08T11:35:52-03:00
-description: "Se acerca el estreno de The Force Awakens y poco a poco se revela más información sobre lo que se vendrá. Rian Johnson será el escritor y director de Episode VIII y ahora Benicio del Toro confirmó que encarnará al villano. En una entrevista para rac1.org Del Toro declaró que el rodaje empezará en marzo."
-draft: false
+description: Se acerca el estreno de The Force Awakens y poco a poco se revela más
+  información sobre lo que se vendrá. Rian Johnson será el escritor y director de
+  Episode VIII y ahora Benicio del Toro confirmó que encarnará al villano. En una
+  entrevista para rac1.org Del Toro declaró que el rodaje empezará en marzo.
 image: 2015/09/benicio-del-toro-the-collector.jpg
-title: "Benicio del Toro interpretará al villano de Star Wars: Episode VIII"
----
 
+---
 Se acerca el estreno de The Force Awakens y poco a poco se revela más información sobre lo que se vendrá. Rian Johnson será el escritor y director de Episode VIII y ahora Benicio del Toro confirmó que encarnará al villano. En una entrevista para rac1.org Del Toro declaró que el rodaje empezará en marzo.<!--more-->
 
 Ya sea por descuido o parte de una declaración planeada por el estudio, Del Toro dijo que él sería “como el villano” de la película, algo que abrió un abanico de especulaciones para los fans. Los detalles de las películas de Disney/Lucasfilm siempre se mantuvieron secretos y este podría haber sido un desliz por parte de Del Toro. En seguida aclaró: “No puedo decirte mucho al respecto pero creo que puede ocurrir"

@@ -1,15 +1,20 @@
 ---
+title: 50 Sombras de Psoriagrís - Review del 5to episodio de la 5ta temporada de Game
+  of Thrones
+date: '2015-05-13T00:46:06-03:00'
 author: Micaela De Armas
-Keywords: "game of thrones, juego de tronos, psoriagris, quinta temporada, spoilers, hbo, jorah, tyrion, daenerys, jon snow, barristan selmi"
+Keywords: game of thrones, juego de tronos, psoriagris, quinta temporada, spoilers,
+  hbo, jorah, tyrion, daenerys, jon snow, barristan selmi
 categories:
 - Reviews
-date: 2015-05-13T00:46:06-03:00
-description: Estamos llegando a la mitad de la quinta temporada de Juego de Tronos y ya comenzamos a ver más clara la estrategia de los guionistas y el camino que van a tomar los personajes. Los escritores se estan quedando sin materia prima y tienen que empezar a ponerse creativos. Comenzamos con un resumen de lo que ocurrió en el quinto episodio y luego analizaremos las diferencias con el libro.
-draft: false
+description: Estamos llegando a la mitad de la quinta temporada de Juego de Tronos
+  y ya comenzamos a ver más clara la estrategia de los guionistas y el camino que
+  van a tomar los personajes. Los escritores se estan quedando sin materia prima y
+  tienen que empezar a ponerse creativos. Comenzamos con un resumen de lo que ocurrió
+  en el quinto episodio y luego analizaremos las diferencias con el libro.
 image: 2015/05/psoriagris-cover.jpg
-title: "50 Sombras de Psoriagrís - Review del 5to episodio de la 5ta temporada de Game of Thrones"
----
 
+---
 Estamos llegando a la mitad de la quinta temporada de *Juego de Tronos* y ya comenzamos a ver más clara la estrategia de los guionistas y el camino que van a tomar los personajes. Los escritores se estan quedando sin materia prima y tienen que empezar a ponerse creativos. Comenzamos con un resumen de lo que ocurrió en el quinto episodio y luego analizaremos las diferencias con el libro.
 <!--more-->
 

@@ -1,14 +1,15 @@
 ---
+title: El Daredevil de Frank Miller
+date: '2015-05-20T00:56:17-03:00'
 author: Gabriel Llagostera
-date: 2015-05-20T00:56:17-03:00
-title: "El Daredevil de Frank Miller"
-description: "Review del comic de Daredevil de Frank Miller: la etapa mejor considerada por público y crítica, una época seminal en el personaje"
-Keywords: "Daredevil, Frank Miller, comic, review, Elektra"
-image: "2015/05/daredevil_cover.jpg"
+description: 'Review del comic de Daredevil de Frank Miller: la etapa mejor considerada
+  por público y crítica, una época seminal en el personaje'
+Keywords: Daredevil, Frank Miller, comic, review, Elektra
+image: 2015/05/daredevil_cover.jpg
 Categories:
 - Reviews
----
 
+---
 Hace poco recomendaba la etapa de **Mark Waid** (lo más reciente que se está publicando del personaje) como una manera de acercarse a los comics del abogado ciego de *Hell's Kitchen*. En esta nota me gustaría hablar de la etapa mejor considerada por público y crítica como una manera de recomendar algo más cercano a la serie de tv en tono, y por ser, como decía en aquella nota, una época seminal en el personaje.
 
 ![Daredevil](/img/2015/05/daredevil_body.jpg)

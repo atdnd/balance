@@ -1,14 +1,15 @@
 ---
+title: El Daredevil de Mark Waid
+date: '2015-05-10T18:20:52-03:00'
 author: Gabriel Llagostera
 categories:
 - Reviews
-date: 2015-05-10T18:20:52-03:00
-description: "Daredevil venía de vivir constantes torturas desde hace más de 25 años, Waid tomó la decisión de que el abogado ciego de Hell`s Kitchen ya había sufrido lo suficiente y decidió que el personaje volviera a ser como en sus inicios."
-draft: false
+description: Daredevil venía de vivir constantes torturas desde hace más de 25 años,
+  Waid tomó la decisión de que el abogado ciego de Hell`s Kitchen ya había sufrido
+  lo suficiente y decidió que el personaje volviera a ser como en sus inicios.
 image: 2015/05/dd-waid-cover.jpg
-title: El Daredevil de Mark Waid
----
 
+---
 Aprovechando el éxito de la serie, me parece bueno recomendar algo del personaje en comics para poder acercarse. Más allá de etapas exitosas (y más cercanas al tono de la serie) como la seminal de Frank Miller, o las más recientes como la de Brian Bendis, quisiera detenerme en lo que se está publicando actualmente del personaje: **la etapa de Mark Waid**.
 
 ![El arte de Samnee y Rodriguez acompañando el trabajo de Waid](/img/2015/05/dd-waid-01.jpg)

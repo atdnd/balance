@@ -1,14 +1,14 @@
 ---
+title: Quiero todo lo que tienes - The Wicked + The Divine
+date: '2015-06-20T00:10:00-03:00'
 author: Andrés Techera
 categories:
 - Reviews
-date: 2015-06-20T00:10:00-03:00
-description: "Dioses reencarnados en adolescentes, la intriga de un asesinato y todas las referencias a la cultura pop que puedas leer en ún sólo comic."
-draft: false
+description: Dioses reencarnados en adolescentes, la intriga de un asesinato y todas
+  las referencias a la cultura pop que puedas leer en ún sólo comic.
 image: 2015/06/tw-td_cover.jpg
-title: "Quiero todo lo que tienes - The Wicked + The Divine"
----
 
+---
 ¿No sabés qué leer? ¿Estás buscando algo distinto y nuevo?
 De la mente creadora de **Phonogram** surge **The Wicked + The Divine**, un comic con un argumento difícil de resumir.
 <!--more-->

@@ -1,14 +1,13 @@
 ---
+title: Misericordia. Review de Game of Thrones Temporada 5, Episodio 10
+date: '2015-06-16T20:39:06-03:00'
 author: Micaela De Armas
 categories:
 - Reviews
-date: 2015-06-16T20:39:06-03:00
-description: "Review del final de temporada de Game of Thrones: Mother's Mercy."
-draft: false
-image: "2015/06/mer_cover.jpg"
-title: Misericordia. Review de Game of Thrones Temporada 5, Episodio 10
----
+description: 'Review del final de temporada de Game of Thrones: Mother''s Mercy.'
+image: 2015/06/mer_cover.jpg
 
+---
 Nos despedimos de la quinta temporada de *Game of Thrones* y de varios personajes, quizás, no se sabe… no se sabe nada en *Game of Thrones*. Los fans recurren a las redes sociales en busca de consuelo para superar su trauma televisivo y buscan en los blogs teorías de las más alocadas para llenar un vacío hasta abril del 2016. <!--more-->
 
 <div class="spoilers-advice">

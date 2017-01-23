@@ -1,14 +1,13 @@
 ---
+title: El tamaño no importa. Review de Ant-Man (2015)
+date: '2015-07-21T11:36:26-03:00'
 author: Micaela De Armas
 categories:
 - Reviews
-date: 2015-07-21T11:36:26-03:00
 description: Review de Ant-Man (2015)
-draft: false
 image: 2015/07/antman_cover.jpeg
-title: El tamaño no importa. Review de Ant-Man (2015)
----
 
+---
 *Ant-Man* es un cambio para Marvel. Esta vez decidieron encogerse, literalmente encogieron no solo a su personaje, sino a su película. Después de demostrar qué tan grande pueden hacer todo con *Avengers: Age of Ultron* nos traen un pequeño pero gran film. *Ant-Man* es más una película de asalto, una comedia ligera que busca transformarse en un híbrido entre acción, persecución y ciencia ficción. Si estás buscando un montón de personajes destruyendo una ciudad, estas en el lugar equivocado.
 
 Luego de la polémica que generó la partida de **Edgar Wright** del proyecto semanas antes de empezar la producción, todos temblamos por Ant-Man. Pero **Peyton Reed** logró emparcharla bien. Aunque lleva el sello y la formulita de Marvel, nos presenta nuevas caras y nuevos ritmos.

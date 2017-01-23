@@ -1,14 +1,13 @@
 ---
+title: Channing Tatum cierra acuerdo con Fox para Gambit.
+date: '2015-08-03T14:39:29-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-08-03T14:39:29-03:00
 description: Channing Tatum cierra acuerdo con FOX para Gambit.
-draft: false
 image: 2015/08/tatum-cover.jpg
-title: Channing Tatum cierra acuerdo con Fox para Gambit.
----
 
+---
 Para calmar los [rumores sobre el fracaso de las negociaciones de Fox con Channing Tatum](http://balancenegativo.com/blog/2015/07/29/channing-tatum-se-bajo-de-gambit/) se reportó que el actor ya cerró un acuerdo y que será **Gambit** en la nueva película a estrenarse el **7 de octubre del 2016**.
 
 ![Gambit](/img/2015/08/gambit-body.jpg)

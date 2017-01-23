@@ -1,14 +1,13 @@
 ---
+title: Batman en el set de Suicide Squad
+date: '2015-05-28T17:10:49-03:00'
 author: Andrés Techera
 categories:
 - Noticias
-date: 2015-05-28T17:10:49-03:00
 description: Fotos y videos de Batman en el set de filmación de Suicide Squad
-draft: false
 image: 2015/05/batmansuicidesquad_cover.jpg
-title: Batman en el set de Suicide Squad
----
 
+---
 Se han filtrado fotos y videos mostrando a Batman en el set de Suicide Squad. En estos no vemos a Ben Affleck sino a su doble de riesgo en plena persecución del Joker y Harley Quinn.
 <!--more-->
 <figure>

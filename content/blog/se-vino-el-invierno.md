@@ -1,14 +1,14 @@
 ---
+title: Se vino el invierno - Review de Game of Thrones Temporada 5, Episodio 8
+date: '2015-06-01T15:29:28-03:00'
 author: Micaela De Armas
 categories:
 - Reviews
-date: 2015-06-01T15:29:28-03:00
-description: "Review de Hardhome, octavo episodio de la quinta temporada de Game of Thrones"
-draft: false
+description: Review de Hardhome, octavo episodio de la quinta temporada de Game of
+  Thrones
 image: 2015/06/snowtor_cover.jpg
-title: "Se vino el invierno - Review de Game of Thrones Temporada 5, Episodio 8"
----
 
+---
 *Hardhome* tiene todo lo que un fan puede pedir. Un episodio que reúne confrontaciones, diálogos, sangre y una batalla épica.
 
 <!--more-->

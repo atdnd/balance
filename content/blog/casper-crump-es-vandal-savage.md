@@ -1,14 +1,14 @@
 ---
+title: Casper Crump es Vandal Savage en DC's Legends of Tomorrow
+date: '2015-08-05T16:45:16-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-08-05T16:45:16-03:00
-description: Casper Crump se une al elenco de DC's Legends of Tomorrow como Vandal Savage.
-draft: false
+description: Casper Crump se une al elenco de DC's Legends of Tomorrow como Vandal
+  Savage.
 image: 2015/08/savage-cover.jpg
-title: Casper Crump es Vandal Savage en DC's Legends of Tomorrow
----
 
+---
 Casper Crump es la nueva incorporación de *Legends of Tomorrow* junto con Falk Hentschel que interpretará a Hawkman. El productor de la serie, Greg Berlanti, dijo que el villano va a ser un gran personaje que todavía no ha hecho ninguna aparición y que necesitan que se distinga de los memorables villanos que ya tuvieron su debut en *Arrow* y *The Flash*.
 
 Vandal Savage es inmortal y en los últimos 6000 años estuvo conspirando con dictadores y déspotas de la historia, planeando la dominación mundial. Al igual que Falk Hentschel, Casper Crump debutará en *Arrow* y *The Flash* antes de tener un rol fijo en *Legends of Tomorrow*.

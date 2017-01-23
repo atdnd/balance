@@ -1,15 +1,16 @@
 ---
+title: No tan verdaderamente fantástico… el polémico trailer de Jem and the Holograms
+date: '2015-05-14T12:00:32-03:00'
 author: Micaela De Armas
-title: "No tan verdaderamente fantástico… el polémico trailer de Jem and the Holograms"
-description: "Polémica por el trailer de Jem and the Holograms, adaptación de la serie animada de los 80s."
-Keywords: "jem and the holograms, trailer, Hasbro, 80s, animacion, live-action, pelicula, 2015"
-date: 2015-05-14T12:00:32-03:00
-image: "2015/05/jem-holograms-cover.jpg"
-draft: false
+description: Polémica por el trailer de Jem and the Holograms, adaptación de la serie
+  animada de los 80s.
+Keywords: jem and the holograms, trailer, Hasbro, 80s, animacion, live-action, pelicula,
+  2015
+image: 2015/05/jem-holograms-cover.jpg
 categories:
-    - Noticias
----
+- Noticias
 
+---
 ¿Como tomás una serie animada que representa la cultura de los 80 y hacés una película en la era donde reina el Internet y las redes sociales?
 <!--more-->
 <figure>

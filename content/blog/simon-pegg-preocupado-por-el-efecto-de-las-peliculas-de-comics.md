@@ -1,16 +1,18 @@
 ---
+title: Simon Pegg preocupado por el efecto de las películas de Comics en la sociedad.
+date: '2015-05-20T01:09:43-03:00'
 author: Micaela De Armas
 categories:
 - Noticias
-date: 2015-05-20T01:09:43-03:00
-title: "Simon Pegg preocupado por el efecto de las películas de Comics en la sociedad."
-description: "En una entrevista Simon Pegg cuestionó si esta nueva ola de películas y series sobre comics y superhéroes perjudica a la sociedad. Escribió una carta en su página web oficial."
-Keywords: "Simon Pegg, ciencia ficcion, fantasia, Peggster, geeks"
-image: "2015/05/simonpegg_cover.jpg"
+description: En una entrevista Simon Pegg cuestionó si esta nueva ola de películas
+  y series sobre comics y superhéroes perjudica a la sociedad. Escribió una carta
+  en su página web oficial.
+Keywords: Simon Pegg, ciencia ficcion, fantasia, Peggster, geeks
+image: 2015/05/simonpegg_cover.jpg
 Categories:
 - Noticias
----
 
+---
 Para los que no lo conocen, **Simon Pegg** es un actor y escritor inglés, famoso por co-escribir y actuar en *Shaun of the Dead (2004)*, *Hot Fuzz (2007)*, *The World's End (2013)* y la *sitcom Spaced*. Autor de *Nerd do Well*, es un reconocido fan de los géneros de ciencia ficción y fantasía.
 
 En una entrevista cuestionó si esta nueva ola de películas y series sobre comics y superhéroes perjudica a la sociedad.

@@ -1,15 +1,17 @@
 ---
+title: 'Los malos como protagonistas - Batman: Assault on Arkham'
+date: '2015-05-14T23:05:32-03:00'
 author: Andrés Techera
 categories:
 - Reviews
-Keywords: "assault on arkham, asalto en arkham, deadshot, harley quinn, suicide squad, joker, pelicula"
-date: 2015-05-14T23:05:32-03:00
-description: "Para los incautos que aún no tienen idea de por donde viene la mano de Suicide Squad les dejo una especie de reseña / recomendación para que se pongan a tiro."
-draft: draft
+Keywords: assault on arkham, asalto en arkham, deadshot, harley quinn, suicide squad,
+  joker, pelicula
+description: Para los incautos que aún no tienen idea de por donde viene la mano de
+  Suicide Squad les dejo una especie de reseña / recomendación para que se pongan
+  a tiro.
 image: 2015/05/assault-arkham-cover.jpg
-title: "Los malos como protagonistas - Batman: Assault on Arkham"
----
 
+---
 Para los incautos que aún no tienen idea de por donde viene la mano de Suicide Squad les dejo una recomendación para que se pongan a tiro.
 
 *Batman: Assault on Arkham* es una película animada dirigida por Jay Oliva y Ethan Spaulding que salió el año pasado y está ambientada en la Ciudad Gótica de los últimos títulos de juegos de Batman (Se ubica temporalmente luego de los eventos de *Batman: Arkham Origins*).

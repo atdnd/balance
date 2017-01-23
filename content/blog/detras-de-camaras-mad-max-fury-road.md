@@ -1,16 +1,17 @@
 ---
-date: 2015-05-06T17:14:24-03:00
-draft: false
-title: "Detrás de cámaras de Mad Max: Fury Road"
-image: "2015/05/mad-max-cover.jpg"
-author: "Micaela De Armas"
-description: "Luego de los retrasos y el cambio de locación por el clima no propicio de Australia, Mad Max se rodó en Namibia, al sur de África. La nueva reinvención de la saga postapocalíptica de culto ochentera no incluye a Mel Gibson como protagonista sino al inglés Tom Hardy como Max Rockatansky y a Charlize Theron como Imperator Furiosa."
+title: 'Detrás de cámaras de Mad Max: Fury Road'
+date: '2015-05-06T17:14:24-03:00'
+image: 2015/05/mad-max-cover.jpg
+author: Micaela De Armas
+description: Luego de los retrasos y el cambio de locación por el clima no propicio
+  de Australia, Mad Max se rodó en Namibia, al sur de África. La nueva reinvención
+  de la saga postapocalíptica de culto ochentera no incluye a Mel Gibson como protagonista
+  sino al inglés Tom Hardy como Max Rockatansky y a Charlize Theron como Imperator
+  Furiosa.
 categories:
-  - Noticias
+- Noticias
+
 ---
-
-
-
 Luego de los retrasos y el cambio de locación por el clima no propicio de Australia, Mad Max se rodó en Namibia, al sur de África. La nueva reinvención de la saga postapocalíptica de culto ochentera no incluye a Mel Gibson como protagonista sino al inglés Tom Hardy como Max Rockatansky y a Charlize Theron como Imperator Furiosa.
 
 Una compilación de videos tomados durante el rodaje de Mad Max: Fury Road.

@@ -1,14 +1,14 @@
 ---
+title: Entrevista a Nicolás Peruzzo
+date: '2015-05-21T18:34:43-03:00'
 author: Andrés Techera
 categories:
 - Noticias
-date: 2015-05-21T18:34:43-03:00
-description: "Nos acercamos a Nicolás Peruzzo un dibujante uruguayo de comics y le hacemos unas preguntas de su última publicación Pancho el Pitbull"
-draft: false
+description: Nos acercamos a Nicolás Peruzzo un dibujante uruguayo de comics y le
+  hacemos unas preguntas de su última publicación Pancho el Pitbull
 image: 2015/05/pancho_el_pitbull_cover.jpg
-title: "Entrevista a Nicolás Peruzzo"
----
 
+---
 A un par de días de Montevideo Comics, nos contactamos con el historietista e ilustrador *Nicolás Peruzzo* quién va a estar presentando en dicha convención su obra **"Pancho el Pitbull"**.
 <!--more-->
 

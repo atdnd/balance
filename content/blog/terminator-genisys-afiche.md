@@ -1,15 +1,14 @@
 ---
+title: 'Terminator: Genisys tiene nuevo afiche oficial'
+date: '2015-05-18T01:24:13-03:00'
 author: Micaela De Armas
-date: 2015-05-18T01:24:13-03:00
-title: "Terminator: Genisys tiene nuevo afiche oficial"
-description: "Afiche de Terminator: Genisys"
-Keywords: "Terminator: Genisys, Sarah Connor, T-800, Arnold Schwarzenegger"
-image: "2015/05/terminator_cover.jpg"
-draft: false
+description: 'Afiche de Terminator: Genisys'
+Keywords: 'Terminator: Genisys, Sarah Connor, T-800, Arnold Schwarzenegger'
+image: 2015/05/terminator_cover.jpg
 Categories:
-  - Noticias
----
+- Noticias
 
+---
 Cuando **John Connor** (Jason Clarke), líder de la resistencia, manda al **Sgt. Kyle Reese** (Jai Courtney) de vuelta a 1984 para proteger a **Sarah Connor** (Emilia Clarke) y salvaguardar el futuro, un inesperado giro de eventos crea una fractura en el tiempo. Ahora, Sgt. Reese se encuentra en una nueva y desconocida versión del pasado, donde descubre aliados improbables, incluyendo al **“Guardián”** (Arnold Schwarzenegger), peligrosos nuevos enemigos y una inesperada nueva misión: Resetear el futuro...
 <!--more-->
 
