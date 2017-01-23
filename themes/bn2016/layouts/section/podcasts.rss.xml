@@ -27,7 +27,7 @@
         <itunes:subtitle>{{ .Params.subtitle }}</itunes:subtitle>
         <itunes:summary>{{ .Description }}</itunes:summary>
         <itunes:image href="http://balancenegativo.com/img/thumbs/{{ .Params.audio }}.jpg" />
-        <enclosure url="http://balancenegativo.com/audio/{{ .Params.audio }}.mp3" length="1" type="audio/mpeg"/>
+        <enclosure url="http://audio.balancenegativo.com/{{ .Params.audio }}.mp3" length="1" type="audio/mpeg"/>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
         <itunes:duration>{{ .Params.duracion }}</itunes:duration>
         <guid>{{ .Permalink }}</guid>
