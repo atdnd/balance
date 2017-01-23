@@ -1,0 +1,1 @@
+RewriteRule ^(audio/.*)$ http://audio.balancenegativo.com/$1 [R=301,L,NC]

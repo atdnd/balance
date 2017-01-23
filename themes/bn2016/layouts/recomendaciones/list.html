@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div class="single-page">
+    <div class="page__img">
+
+    </div>
+
+    <div class="wrp page-wrp">
+
+        <section class="article-list" role="main">
+            <h1 class="article-list__title">{{ .Title }}</h1>
+            {{ range .Paginator.Pages }}
+                {{ partial "recomendacion.html" . }}
+            {{ end }}
+        </section>
+        <div class="pagination-cnt">
+            {{ template "_internal/pagination.html" . }}
+        </div>
+    </div>
+
+</div>
+
+{{ partial "footer.html" . }}
