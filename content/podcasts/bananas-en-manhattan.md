@@ -8,7 +8,7 @@ description: Seguimos recorriendo la filmografía de Woody Allen, esta vez con B
   no se van a decepcionar.
 duracion: '1:19:49'
 episodio: 15
-image: bn_herotest.jpg
+image: "/img/2017/01/manhattan.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bananas-en-manhattan/
 temporada: 2
 keywords:
