@@ -20,6 +20,17 @@
     <itunes:category text="TV &amp; Film"/>
     <itunes:explicit>yes</itunes:explicit>
 
+    <item>
+        <title>Los Detectives Salvajes</title>
+        <itunes:author>Balance Negativo</itunes:author>
+        <itunes:summary>Primera edición de un nuevo espacio dentro de Balance Negativo. Gabriel
+  Negativo recomienda esta excelente novela del fallecido escritor chileno.</itunes:summary>
+        <enclosure url="http://audio.balancenegativo.com/bnrecomienda01.mp3" length="1" type="audio/mpeg"/>
+        <pubDate>2017-01-23T12:01:34-03:00</pubDate>
+        <itunes:duration>11:10</itunes:duration>
+        <guid>http://balancenegativo.com/recomendaciones/los-detectives-salvajes/</guid>
+    </item>
+
     {{ range .Data.Pages }}
     <item>
         <title>{{ .Title }}</title>
