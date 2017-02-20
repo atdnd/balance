@@ -16,6 +16,5 @@ keywords:
 - Bananas
 - Manhattan
 - películas
-draft: true
 
 ---
