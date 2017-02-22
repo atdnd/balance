@@ -11,6 +11,5 @@ image: "/img/2017/02/Jurassic_park-1.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/la-saga-jurassic-park/
 subtitle: SubTitle
 temporada: 3
-draft: true
 
 ---
