@@ -7,7 +7,7 @@ description: "¡Nueva temporada! Con el crítico de cine Martín 10 de noviembre
   y Steven Spielberg en el cine. "
 duracion: '3:22:58'
 episodio: 1
-image: "/img/2017/02/Jurassic_park.jpg"
+image: "/img/2017/02/jurassic park imagen BN.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
 subtitle: ''
 temporada: 3
