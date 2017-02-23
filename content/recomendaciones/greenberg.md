@@ -8,5 +8,6 @@ duracion: '0:07:02'
 image: "/img/2017/01/greenberg.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bnr-greenberg/
 subtitle: ''
+draft: true
 
 ---
