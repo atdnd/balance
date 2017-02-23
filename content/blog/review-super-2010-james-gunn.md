@@ -1,6 +1,6 @@
 ---
 title: Super (2010) de James Gunn
-date: '2015-05-08T00:00:00+00:00'
+date: '2015-05-08T00:00:00Z'
 image: 2015/05/super-2010-cover.jpg
 author: Gabriel Llagostera
 description: Inauguramos nuestra sección de reviews con una Super reseña. Aprovechando
