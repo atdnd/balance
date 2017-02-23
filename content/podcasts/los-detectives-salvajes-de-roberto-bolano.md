@@ -10,6 +10,5 @@ image: "/2017/02/9786073147699.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bnr-los-detectives-salvajes/
 subtitle: ''
 temporada: ''
-draft: true
 
 ---
