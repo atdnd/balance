@@ -10,6 +10,5 @@ image: "/2017/02/Greenberg-2010.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bnr-greenberg/
 subtitle: ''
 temporada: ''
-draft: true
 
 ---
