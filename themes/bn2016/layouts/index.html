@@ -114,18 +114,6 @@
 
 		<div class="wrp">
 			<section class="article-list">
-				<h1 class="article-list__title"><a href="/recomendaciones/">BN Recomienda</a></h1>
-				{{ range first 3 (where .Data.Pages "Section" "recomendaciones")}}
-					{{ partial "recomendacion.html" . }}
-				{{ end }}
-				<footer class="article-list__ftr">
-					<a href="/recomendaciones/" class="article-list__view-all">Ver todas las recomendaciones<i class="icon icon-right-open"></i></a>
-				</footer>
-			</section>
-		</div>
-
-		<div class="wrp">
-			<section class="article-list">
 				<h1 class="article-list__title"><a href="/blog/">Blog</a></h1>
 				{{ range first 3 (where .Data.Pages "Section" "blog")}}
 					{{ partial "article.html" . }}
