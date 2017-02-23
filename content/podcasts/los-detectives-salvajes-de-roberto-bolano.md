@@ -1,14 +1,15 @@
 ---
-title: Los Detectives Salvajes de Roberto Bolaño
+title: 'BN Recomienda 1: Los Detectives Salvajes'
 date: '2017-02-22T22:55:13+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-01
+description: Primera edición de un nuevo espacio dentro de Balance Negativo. Gabriel
+  Negativo recomienda esta excelente novela del fallecido escritor chileno.
+duracion: '0:11:10'
+episodio: ''
+image: "/2017/02/9786073147699.jpg"
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bnr-los-detectives-salvajes/
+subtitle: ''
+temporada: ''
 draft: true
 
 ---
