@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 2: Greenberg'
-date: '2017-02-22T23:33:07Z'
+date: '2017-01-31T20:33:00-03:00'
 audio: bnrecomienda-02
 description: Esteban Balance nos habla de esta película de 2010 protagonizada por
   Ben Stiller y Greta Gerwig.
