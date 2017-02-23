@@ -8,5 +8,6 @@ duracion: '11:10'
 author: Gabriel Llagostera
 image: 2017/01/los-detectives-salvajes.jpg
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bnr-los-detectives-salvajes/
+draft: true
 
 ---
