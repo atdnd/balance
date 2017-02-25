@@ -4,7 +4,8 @@ date: '2017-02-25T16:57:45+00:00'
 author: Gabriel Negativo
 categories: ''
 description: Hablamos del libro autobiográfico del popular músico Bruce Springsteen.
-image: "/2017/02/img_3888.jpg"
+image: "/2017/02/Bruce-Springsteen_Born-to-Run.jpg"
+draft: true
 
 ---
 Los libros de memorias tienen una característica que en general parece ineludible para su lectura: que nos importe el protagonista; que nos interese en lo previo para pasar horas sumergidos en sus vivencias e infortunios. En este caso, Born to Run (publicado en español por Literatura Random House) permite despejar ese problema inicial: no solo hablamos de un músico reconocido mundialmente como Bruce Springsteen, sino también que su vida resulta apasionante y profunda. Con mucho para contar.
