@@ -1,12 +1,12 @@
 ---
-title: 'Quien pierde paga: Segunda parte de la trilogía de Bill Hodges de Stephen
-  King'
+title: '"Quien pierde paga, Segunda parte de la trilogía de Bill Hodges de Stephen
+  King"'
 date: '2017-03-02T09:27:54+00:00'
 author: Micaela De Armas
 categories: ''
 description: |2-
 
-  Reseña de Quien pierde paga de Stephen King
+  "Reseña de Quien pierde paga de Stephen King"
 image: "/2017/03/Quien-pierde-paga”-800x490.jpg"
 
 ---
