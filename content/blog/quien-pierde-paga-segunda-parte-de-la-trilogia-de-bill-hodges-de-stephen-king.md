@@ -8,7 +8,6 @@ description: |2-
 
   Reseña de Quien pierde paga de Stephen King
 image: "/2017/03/Quien-pierde-paga”-800x490.jpg"
-draft: true
 
 ---
 Es difícil de explicar el sentimiento que tiene uno como lector cuando elabora cierta conexión con el trabajo de un autor luego de años de leer sus obras, que llega al extremo de necesitar esa dosis de historias dentro de un mismo universo, manteniendolo latente en la imaginación. Es el caso de la trilogía de Bill Hodges, un personaje que te conquista desde Mr. Mercedes y que no podés esperar a volver a verlo en acción.
