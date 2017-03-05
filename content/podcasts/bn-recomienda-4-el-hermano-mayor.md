@@ -1,14 +1,16 @@
 ---
 title: 'BN Recomienda 4: El Hermano Mayor'
 date: '2017-03-04T22:01:43+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
+audio: bnrecomienda-04
+description: En esta ocasión, Gabriel Negativo nos habla de esta novela uruguaya escrita
+  por Daniel Mella y considerada una de las mejores publicadas en nuestro país durante
+  2016.
+duracion: '00:08:46'
+episodio: ''
+image: "/2017/03/EL-HERMANO-MAYOR-tapa-Daniel-Mella.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+subtitle: ''
+temporada: ''
 draft: true
 
 ---
