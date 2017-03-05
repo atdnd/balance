@@ -7,7 +7,7 @@ description: En esta ocasión, Gabriel Negativo nos habla de esta novela uruguay
   2016.
 duracion: '00:08:46'
 episodio: ''
-image: "/2017/03/EL-HERMANO-MAYOR-tapa-Daniel-Mella.jpg"
+image: "/2017/03/CuNMEgXXEAAEc1V.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
 subtitle: ''
 temporada: ''
