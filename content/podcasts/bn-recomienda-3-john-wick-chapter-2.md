@@ -6,11 +6,11 @@ description: Esteban Balance se mete en el medio de un tiroteo para hablarnos de
   nueva entrega de la saga de acción con Keanu Reeves como protagonista. Una gran
   película que no hay que perderse.
 duracion: '0:10:02'
-episodio: ''
+episodio: 3
 image: "/2017/03/5b2733ad-0524-424d-93d5-f306827d9f7e.jpg"
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
+mixcloudurl: ''
 subtitle: ''
-temporada: ''
+temporada: Recomendaciones
 draft: true
 
 ---
