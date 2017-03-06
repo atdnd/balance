@@ -11,6 +11,5 @@ image: "/2017/03/5b2733ad-0524-424d-93d5-f306827d9f7e.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
 subtitle: ''
 temporada: ''
-draft: true
 
 ---
