@@ -9,7 +9,7 @@ description: 'En este segundo episodio de la temporada analizamos la serie brit√
 duracion: '2:15:43'
 episodio: 2
 image: "/2017/03/C3W8E8lXAAAoTjf.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/sherlock/
 subtitle: ''
 temporada: 3
 
