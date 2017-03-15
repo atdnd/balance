@@ -6,11 +6,11 @@ description: En esta ocasión, Gabriel Negativo nos habla de esta novela uruguay
   por Daniel Mella y considerada una de las mejores publicadas en nuestro país durante
   2016.
 duracion: '00:08:46'
-episodio: ''
+episodio: 4
 image: "/2017/03/CuNMEgXXEAAEc1V.jpg"
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
+mixcloudurl: ''
 subtitle: ''
-temporada: ''
+temporada: Recomendaciones
 draft: true
 
 ---
