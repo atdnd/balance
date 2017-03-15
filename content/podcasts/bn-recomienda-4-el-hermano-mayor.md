@@ -8,7 +8,7 @@ description: En esta ocasión, Gabriel Negativo nos habla de esta novela uruguay
 duracion: '00:08:46'
 episodio: 4
 image: "/2017/03/CuNMEgXXEAAEc1V.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-4-el-hermano-mayor/
 subtitle: ''
 temporada: Recomendaciones
 
