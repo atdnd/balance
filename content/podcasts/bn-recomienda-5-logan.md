@@ -1,14 +1,15 @@
 ---
 title: 'BN Recomienda 5: Logan'
 date: '2017-03-20T23:18:11+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-05
+description: Gabriel comenta la nueva película de Fox protagonizada por el mutante
+  con garras de adamantium.
+duracion: '00:12:26'
+episodio: 5
+image: "/2017/03/logan-824737974-large.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
