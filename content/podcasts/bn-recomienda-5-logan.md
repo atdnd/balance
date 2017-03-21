@@ -10,6 +10,5 @@ image: "/2017/03/logan-824737974-large.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
