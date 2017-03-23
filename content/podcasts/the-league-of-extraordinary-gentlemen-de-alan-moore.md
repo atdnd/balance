@@ -12,6 +12,5 @@ image: "/2017/03/maxresdefault-1-1.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
