@@ -1,14 +1,17 @@
 ---
 title: The League of Extraordinary Gentlemen de Alan Moore
 date: '2017-03-23T07:17:29+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: balance-negativo-t03-e03
+description: 'Volvemos al mundo del comic a lo grande: esta semana analizamos esta
+  divertida obra del mago de Northampton, acompañado del genio de Kevin O''neill en
+  los dibujos. Hablamos de las tres partes y hacemos una leve referencia a su versión
+  fílmica de 2003 (que es mejor olvidar del todo).'
+duracion: '1:44:28'
+episodio: 3
+image: "/2017/03/maxresdefault-1-1.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: 3
 draft: true
 
 ---
