@@ -9,7 +9,7 @@ description: 'Volvemos al mundo del comic a lo grande: esta semana analizamos es
 duracion: '1:44:28'
 episodio: 3
 image: "/2017/03/maxresdefault-1-1.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/the-league-of-extraordinary-gentlemen-de-alan-moore/
 subtitle: ''
 temporada: 3
 
