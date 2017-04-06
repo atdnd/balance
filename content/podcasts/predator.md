@@ -1,14 +1,18 @@
 ---
 title: Predator
 date: '2017-04-05T21:42:48+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: balance-negativo-t03-e04
+description: 'Comenzamos un viaje por clásicos ochentosos, y como primer destino nos
+  vamos a 1987. A 30 años de este peliculón nos encargamos de analizar todos sus aspectos
+  para darle un valor que no se quede en la mera acción, sino también ver el trasfondo
+  y las decisiones artísticas llevadas adelante por John McTiernan, un imprescindible
+  del género. '
+duracion: '0:59:03'
+episodio: 4
+image: "/2017/04/main-qimg-d57efa2c40beae1b3b8036ac8c4cfeda.png"
+mixcloudurl: ''
+subtitle: ''
+temporada: 3
 draft: true
 
 ---
