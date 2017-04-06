@@ -13,6 +13,5 @@ image: "/2017/04/main-qimg-d57efa2c40beae1b3b8036ac8c4cfeda.png"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
