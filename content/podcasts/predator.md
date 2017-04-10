@@ -10,7 +10,7 @@ description: 'Comenzamos un viaje por clásicos ochentosos, y como primer destin
 duracion: '0:59:03'
 episodio: 4
 image: "/2017/04/main-qimg-d57efa2c40beae1b3b8036ac8c4cfeda.png"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/predator/
 subtitle: ''
 temporada: 3
 
