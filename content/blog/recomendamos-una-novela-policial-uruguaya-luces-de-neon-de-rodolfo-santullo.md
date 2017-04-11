@@ -9,7 +9,6 @@ description: Luces de Neón es la séptima novela de Rodolfo Santullo dentro de 
   prolífero autor que defiende el género policial en un país donde a veces predomina
   el prejuicio y la ignorancia.
 image: "/2017/04/LUCES-DE-NEON-Tapa-logo-bien.jpg"
-draft: true
 
 ---
 
