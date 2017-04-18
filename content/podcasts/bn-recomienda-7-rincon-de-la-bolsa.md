@@ -12,6 +12,5 @@ image: "/2017/04/rinconbolsalogo.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
