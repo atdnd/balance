@@ -9,7 +9,7 @@ description: En este nuevo BN Recomienda miramos nuestro propio país; les traem
 duracion: '0:11:31'
 episodio: 7
 image: "/2017/04/rinconbolsalogo.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-7-rinc%C3%B3n-de-la-bolsa/
 subtitle: ''
 temporada: Recomendaciones
 
