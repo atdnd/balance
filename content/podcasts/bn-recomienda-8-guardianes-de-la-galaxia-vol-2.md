@@ -8,7 +8,7 @@ description: Esteban nos recomienda una de las películas del momento y de las m
 duracion: '0:17:31'
 episodio: 8
 image: "/2017/05/BN GOTG.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-8-guardianes-de-la-galaxia-vol-2/
 subtitle: ''
 temporada: Recomendaciones
 
