@@ -11,6 +11,5 @@ image: "/2017/05/BN GOTG.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
