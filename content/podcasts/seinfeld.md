@@ -11,6 +11,5 @@ image: "/2017/05/1200px-Seinfeld_logo.svg.png"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
