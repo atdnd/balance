@@ -8,7 +8,7 @@ description: En este nuevo programa central analizamos una de las comedias más 
 duracion: '02:30:53'
 episodio: 6
 image: "/2017/05/1200px-Seinfeld_logo.svg.png"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/seinfeld/
 subtitle: ''
 temporada: 3
 
