@@ -12,6 +12,5 @@ image: "/2017/05/manhattanprojects.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
