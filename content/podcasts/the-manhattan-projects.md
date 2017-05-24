@@ -1,5 +1,5 @@
 ---
-title: The Manhattan Projects
+title: The Manhattan Projects de Jonathan Hickman y Nick Pitarra
 date: '2017-05-24T10:34:29+00:00'
 audio: balance-negativo-t03-e07
 description: 'Entramos por primera vez al Hickverso analizando una de sus obras más
