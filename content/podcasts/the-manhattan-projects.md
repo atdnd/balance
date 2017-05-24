@@ -9,7 +9,7 @@ description: 'Entramos por primera vez al Hickverso analizando una de sus obras 
 duracion: '0:55:37'
 episodio: 7
 image: "/2017/05/manhattanprojects.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/the-manhattan-projects-de-jonathan-hickman-y-nick-pitarra/
 subtitle: ''
 temporada: 3
 
