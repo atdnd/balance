@@ -11,6 +11,5 @@ image: "/2017/06/BN Samurai Champloo.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
