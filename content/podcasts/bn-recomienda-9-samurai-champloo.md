@@ -1,14 +1,16 @@
 ---
 title: 'BN Recomienda 9: Samurai Champloo'
 date: '2017-06-05T21:56:43+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-09
+description: Gabriel Negativo nos recomienda un anime (en serio) sobre dos samurais
+  que acompañan a una jovencita en una búsqueda que los llevará a recorrer un montón
+  de lugares y vivir un montón de aventuras.
+duracion: '0:08:14'
+episodio: 9
+image: "/2017/06/BN Samurai Champloo.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
