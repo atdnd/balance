@@ -8,7 +8,7 @@ description: Gabriel Negativo nos recomienda un anime (en serio) sobre dos samur
 duracion: '0:08:14'
 episodio: 9
 image: "/2017/06/BN Samurai Champloo.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-9-samurai-champloo/
 subtitle: ''
 temporada: Recomendaciones
 
