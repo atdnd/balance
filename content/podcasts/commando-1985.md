@@ -9,7 +9,7 @@ description: 'Tiempo de volver a los 80 con tiros, músculos y masculinidad extr
 duracion: '1:32:03'
 episodio: 8
 image: "/2017/06/commando.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/commando-1985/
 subtitle: ''
 temporada: 3
 
