@@ -12,6 +12,5 @@ image: "/2017/06/commando.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
