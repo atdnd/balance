@@ -11,6 +11,5 @@ image: "/2017/06/Logo bolaño recomienda.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
