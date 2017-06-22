@@ -11,6 +11,5 @@ image: "/2017/06/kafka logo.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
