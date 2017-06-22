@@ -8,7 +8,7 @@ description: Analizamos una de las obras más importantes del siglo XX (no, no e
 duracion: '1:06:48'
 episodio: 9
 image: "/2017/06/kafka logo.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/la-metamorfosis-de-franz-kafka/
 subtitle: ''
 temporada: 3
 
