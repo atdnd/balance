@@ -11,6 +11,5 @@ image: "/2017/07/Logo Colossal.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
