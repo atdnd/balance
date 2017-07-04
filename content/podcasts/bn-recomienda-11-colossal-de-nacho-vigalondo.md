@@ -1,14 +1,16 @@
 ---
 title: 'BN Recomienda 11: Colossal de Nacho Vigalondo'
 date: '2017-07-03T23:48:36+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-11
+description: Gabriel Negativo nos habla de un cineasta español no muy conocido que
+  está haciendo sus primeros pinitos en Hollywood; recorre su filmografía y se detiene
+  en su última obra.
+duracion: '0:08:46'
+episodio: 11
+image: "/2017/07/Logo Colossal.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
