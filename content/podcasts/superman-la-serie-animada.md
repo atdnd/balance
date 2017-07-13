@@ -1,14 +1,18 @@
 ---
 title: Superman la serie animada
 date: '2017-07-12T22:59:57+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: balance-negativo-t03-e10
+description: 'Volvemos a la época dorada del timmverso para hablar de la serie del
+  hombre de acero; durante casi hora y media analizamos los aspectos más importantes
+  de ella: personajes, tramas,animación... Un camino hacia la nostalgia de una serie
+  que marcó a varias generaciones y demostró que se puede ser liviano y profundo a
+  la vez.'
+duracion: '1:29:36'
+episodio: 10
+image: "/2017/07/Superman TAS.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: 3
 draft: true
 
 ---
