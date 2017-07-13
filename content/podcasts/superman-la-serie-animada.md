@@ -10,7 +10,7 @@ description: 'Volvemos a la época dorada del timmverso para hablar de la serie 
 duracion: '1:29:36'
 episodio: 10
 image: "/2017/07/Superman TAS.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/superman-la-serie-animada/
 subtitle: ''
 temporada: 3
 
