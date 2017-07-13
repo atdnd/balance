@@ -10,7 +10,7 @@ description: |-
 duracion: '4:19:29'
 episodio: Especial
 image: "/2017/07/invasion-usa-674194l-576x0-w-fdfee20b.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/tortulia-negativa-4-chuck-norris/
 subtitle: ''
 temporada: 3
 title: Tortulia Negativa 4 - Chuck Norris
