@@ -13,6 +13,5 @@ image: "/2017/07/Superman TAS.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
