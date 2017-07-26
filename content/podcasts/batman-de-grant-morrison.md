@@ -13,6 +13,5 @@ image: "/2017/07/batman-enn-arr-810x400.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
