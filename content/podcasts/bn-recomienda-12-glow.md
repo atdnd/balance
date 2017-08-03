@@ -1,14 +1,15 @@
 ---
 title: 'BN Recomienda 12: GLOW'
 date: '2017-08-02T22:59:01+00:00'
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-12
+description: Gabriel Negativo nos habla de una serie de Netflix ubicada en los 80
+  sobre la lucha libre femenina.
+duracion: '0:08:48'
+episodio: 12
+image: "/2017/08/BN R Glow.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
