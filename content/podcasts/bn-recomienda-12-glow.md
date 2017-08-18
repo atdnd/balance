@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 12: GLOW'
-date: '2017-08-02T22:59:01+00:00'
+date: 2017-08-02 22:59:01 +0000
 audio: bnrecomienda-12
 description: Gabriel Negativo nos habla de una serie de Netflix ubicada en los 80
   sobre la lucha libre femenina.
