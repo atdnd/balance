@@ -10,6 +10,5 @@ image: "/2017/08/BN R Glow.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
