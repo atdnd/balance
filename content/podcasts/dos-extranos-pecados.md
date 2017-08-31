@@ -7,9 +7,8 @@ description: Un nuevo episodio dedicado al maestro del cine Woody Allen. En esta
 duracion: '1:28:29'
 episodio: 12
 image: "/2017/08/logo woody.jpg"
-mixcloudurl: https://www.mixcloud.com/balancenegativo/dos-extranos-pecados/
+mixcloudurl: https://www.mixcloud.com/balancenegativo/dos-extraños-pecados/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
