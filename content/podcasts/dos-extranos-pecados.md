@@ -1,14 +1,15 @@
 ---
 title: Dos extraños pecados
 date: 2017-08-31 05:08:50 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: balance-negativo-t03-e12
+description: Un nuevo episodio dedicado al maestro del cine Woody Allen. En esta ocasión
+  analizamos "Annie Hall" (Dos extraños amantes) y "Crímenes y Pecados".
+duracion: '1:28:29'
+episodio: 12
+image: "/2017/08/logo woody.jpg"
+mixcloudurl: https://www.mixcloud.com/balancenegativo/dos-extranos-pecados/
+subtitle: ''
+temporada: 3
 draft: true
 
 ---
