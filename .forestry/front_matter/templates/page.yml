@@ -1,0 +1,18 @@
+---
+hide_body: false
+fields:
+- name: title
+  default: title
+  label: Title
+  hidden: false
+  type: text
+- name: date
+  default: ''
+  label: Date
+  hidden: false
+  type: datetime
+- name: draft
+  default: true
+  label: Draft
+  hidden: false
+  type: boolean
