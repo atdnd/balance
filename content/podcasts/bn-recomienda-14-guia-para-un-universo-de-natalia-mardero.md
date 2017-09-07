@@ -10,6 +10,5 @@ image: "/2017/09/GUIA-PARA-UN-UNIVERSO-tapa-Mardero.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-14-gu%C3%ADa-para-un-universo-de-natalia-mardero/
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
