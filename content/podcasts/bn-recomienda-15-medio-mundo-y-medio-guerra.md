@@ -1,14 +1,15 @@
 ---
 title: 'BN Recomienda 15: Medio Mundo y Medio Guerra'
 date: 2017-09-13 20:13:33 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-15
+description: 'Esteban Balance nos recomienda fervientemente los últimos 2 libros de
+  la saga El Mar Quebrado de Joe Abercrombie. '
+duracion: '0:18:24'
+episodio: 15
+image: "/2017/09/Libros logos.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
