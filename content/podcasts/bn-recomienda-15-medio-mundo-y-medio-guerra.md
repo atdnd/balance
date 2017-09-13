@@ -7,7 +7,7 @@ description: 'Esteban Balance nos recomienda fervientemente los últimos 2 libro
 duracion: '0:18:24'
 episodio: 15
 image: "/2017/09/Libros logos.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-15-medio-mundo-y-medio-guerra/
 subtitle: ''
 temporada: Recomendaciones
 draft: true
