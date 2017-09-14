@@ -10,6 +10,5 @@ image: "/2017/09/Libros logos.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-15-medio-mundo-y-medio-guerra/
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
