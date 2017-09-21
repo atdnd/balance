@@ -12,6 +12,5 @@ image: "/2017/09/T3E13 logo.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/fahrenheit-451-de-ray-bradbury/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
