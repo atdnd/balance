@@ -9,7 +9,7 @@ description: Segunda novela distópica que tratamos esta temporada. Analizamos l
 duracion: '01:21:17'
 episodio: 13
 image: "/2017/09/T3E13 logo.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/fahrenheit-451-de-ray-bradbury/
 subtitle: ''
 temporada: 3
 draft: true
