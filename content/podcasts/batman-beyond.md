@@ -1,14 +1,16 @@
 ---
 title: Batman Beyond
 date: 2017-10-11 23:47:15 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: balance-negativo-t03-e14
+description: Seguimos nuestro recorrido por el Timmverso. Esta vez nos vamos al futuro
+  para conocer a Terry McGinnis, el sustituto de un anciano Bruce Wayne. Analizamos
+  tramas, personajes y mencionamos algunos de los capítulos que más nos gustaron.
+duracion: '1:38:23'
+episodio: 14
+image: "/2017/10/logo batman beyond.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: 3
 draft: true
 
 ---
