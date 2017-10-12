@@ -8,7 +8,7 @@ description: Seguimos nuestro recorrido por el Timmverso. Esta vez nos vamos al 
 duracion: '1:38:23'
 episodio: 14
 image: "/2017/10/logo batman beyond.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/batman-beyond/
 subtitle: ''
 temporada: 3
 draft: true
