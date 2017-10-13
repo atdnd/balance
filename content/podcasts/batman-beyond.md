@@ -11,6 +11,5 @@ image: "/2017/10/logo batman beyond.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/batman-beyond/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
