@@ -7,12 +7,12 @@ auto_deploy: true
 admin_path: "/"
 webhook_url: 
 sections:
-  blog:
-    default_front_matter_template: blog
-  acerca:
-    default_front_matter_template: acerca
-  contacto:
-    default_front_matter_template: contacto
   podcasts:
     default_front_matter_template: podcasts
+  contacto:
+    default_front_matter_template: contacto
+  acerca:
+    default_front_matter_template: acerca
+  blog:
+    default_front_matter_template: blog
 version: 0.18.1
