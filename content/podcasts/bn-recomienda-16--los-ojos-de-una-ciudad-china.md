@@ -12,6 +12,5 @@ image: "/2017/10/bnrecomienda-16.mp3"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-16-los-ojos-de-una-ciudad-china/
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
