@@ -8,7 +8,7 @@ description: En este podcast recomendamos la última novela del escritor uruguay
   página.
 duracion: '0:10:35'
 episodio: 16
-image: "/2017/10/bnrecomienda-16.mp3"
+image: "/2017/10/Logo La cuidad de los ojos chinos.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-16-los-ojos-de-una-ciudad-china/
 subtitle: ''
 temporada: Recomendaciones
