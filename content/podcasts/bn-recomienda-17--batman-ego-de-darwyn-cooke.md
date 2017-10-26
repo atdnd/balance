@@ -1,14 +1,15 @@
 ---
 title: 'BN Recomienda 17: Batman Ego de Darwyn Cooke'
 date: 2017-10-25 21:19:03 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-17
+description: Gabriel Negativo nos habla de este tomo que recopila varias historias
+  de Cooke en el universo del murciélago, destacándose la llamada "Ego".
+duracion: '0:12:21'
+episodio: 17
+image: "/2017/10/logo batman cooke.jpg"
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-17-batman-ego-de-darwyn-cooke/
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
