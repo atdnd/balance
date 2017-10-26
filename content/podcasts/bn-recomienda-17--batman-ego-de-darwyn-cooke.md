@@ -10,6 +10,5 @@ image: "/2017/10/logo batman cooke.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-17-batman-ego-de-darwyn-cooke/
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
