@@ -8,7 +8,7 @@ description: En este episodio central analizamos el trabajo que ha llevado adela
 duracion: '1:19:45'
 episodio: 15
 image: "/2017/11/logo hellboy.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/hellboy-de-mike-mignola/
 subtitle: ''
 temporada: 3
 draft: true
