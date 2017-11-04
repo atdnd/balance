@@ -1,6 +1,6 @@
 ---
 title: La Liga de la Justicia que nunca fue
-date: '2015-05-27T14:14:15-03:00'
+date: 2015-05-27 14:14:15 -0300
 author: Micaela De Armas
 categories:
 - Noticias

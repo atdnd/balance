@@ -1,6 +1,6 @@
 ---
 title: Justicia Divina - Review de Game of Thrones Temporada 5, Episodio 7
-date: '2015-05-25T18:16:14-03:00'
+date: 2015-05-25 18:16:14 -0300
 author: Micaela De Armas
 description: 'Review de Game of Thrones: The Gift, episodio 7 de la temporada 5'
 Keywords: Game of Thrones, The Gift, review, Cersei

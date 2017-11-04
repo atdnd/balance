@@ -1,6 +1,6 @@
 ---
 title: La venganza de los nerds
-date: '2015-08-24T00:00:00-03:00'
+date: 2015-08-24 00:00:00 -0300
 audio: balance-negativo-t01-e09
 description: Esta vez discutimos sobre los grupos de odio que existen entre frikis
   y no frikis, y cómo futbolizamos la cultura. Un episodio caracterizado por la polémica

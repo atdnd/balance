@@ -1,6 +1,6 @@
 ---
 title: La saga Jurassic Park
-date: '2017-02-21T23:45:05Z'
+date: 2017-02-21 23:45:05 +0000
 audio: balance-negativo-t03-e01
 description: "¡Nueva temporada! Con el crítico de cine Martín 10 de noviembre como
   invitado, analizamos las 4 películas de la saga creada por Michael Crichton en libro

@@ -1,6 +1,6 @@
 ---
 title: El Podcast que te persigue
-date: '2016-11-26T22:48:12-03:00'
+date: 2016-11-26 22:48:12 -0300
 audio: balance-negativo-t02-e19
 description: 'Penúltimo episodio de nuestra segunda temporada, en el que hablamos
   de 3 películas de terror: The Mist, It Follows, y The Witch, sin la presencia de

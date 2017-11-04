@@ -1,6 +1,6 @@
 ---
 title: Una historia de Star Wars
-date: '2016-12-22T23:06:27-03:00'
+date: 2016-12-22 23:06:27 -0300
 audio: balance-negativo-t02-es3
 description: 'La misión: reunir a un grupo improbable de héroes para comentar con
   alegría Rogue One, el primer spinoff del univero Star Wars. Lamentablemente todo

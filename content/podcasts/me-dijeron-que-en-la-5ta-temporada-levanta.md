@@ -1,6 +1,6 @@
 ---
 title: Me dijeron que en la 5ta temporada levanta
-date: '2015-06-01T00:46:17-03:00'
+date: 2015-06-01 00:46:17 -0300
 audio: balance-negativo-t01-e03
 description: En nuestro primer podcast maratónico nos encargamos de amar y destrozar
   un montón de series y películas basadas en comics. También recomendamos “Louie”

@@ -1,6 +1,6 @@
 ---
 title: Simon Pegg preocupado por el efecto de las películas de Comics en la sociedad.
-date: '2015-05-20T01:09:43-03:00'
+date: 2015-05-20 01:09:43 -0300
 author: Micaela De Armas
 categories:
 - Noticias

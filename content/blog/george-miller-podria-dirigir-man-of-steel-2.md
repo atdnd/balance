@@ -1,6 +1,6 @@
 ---
 title: George Miller podría dirigir Man of Steel 2
-date: '2015-08-22T00:56:17-03:00'
+date: 2015-08-22 00:56:17 -0300
 author: Micaela De Armas
 categories:
 - Noticias

@@ -1,6 +1,6 @@
 ---
 title: Capaz que el mayordomo no es el asesino
-date: '2015-06-28T20:51:52-03:00'
+date: 2015-06-28 20:51:52 -0300
 audio: balance-negativo-t01-e05
 description: Vamos a destripar todo discutiendo la paranoia sobre los spoilers, y
   cómo la era de internet nos ha convertido en víctimas y victimarios del tema. ¡No

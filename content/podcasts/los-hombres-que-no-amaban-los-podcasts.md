@@ -1,6 +1,6 @@
 ---
 title: los hombres que no amaban los podcasts
-date: '2015-10-05T00:06:34-03:00'
+date: 2015-10-05 00:06:34 -0300
 audio: balance-negativo-t01-e12
 description: En este programa nos detenemos a polemizar un rato (cuándo no) sobre
   la saga Millennium, tanto los libros como las películas, y la situación respecto

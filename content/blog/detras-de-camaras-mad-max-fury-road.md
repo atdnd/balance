@@ -1,6 +1,6 @@
 ---
 title: 'Detrás de cámaras de Mad Max: Fury Road'
-date: '2015-05-06T17:14:24-03:00'
+date: 2015-05-06 17:14:24 -0300
 image: 2015/05/mad-max-cover.jpg
 author: Micaela De Armas
 description: Luego de los retrasos y el cambio de locación por el clima no propicio

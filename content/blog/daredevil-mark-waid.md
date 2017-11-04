@@ -1,6 +1,6 @@
 ---
 title: El Daredevil de Mark Waid
-date: '2015-05-10T18:20:52-03:00'
+date: 2015-05-10 18:20:52 -0300
 author: Gabriel Llagostera
 categories:
 - Reviews

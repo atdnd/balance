@@ -1,6 +1,6 @@
 ---
 title: El sexo fuerte
-date: '2015-07-27T18:37:26-03:00'
+date: 2015-07-27 18:37:26 -0300
 audio: balance-negativo-t01-e07
 description: Esta semana analizamos el rol de la mujer en el comic de superhéroes
   desde sus orígenes hasta el presente; cómo el medio refleja una visión de la sociedad

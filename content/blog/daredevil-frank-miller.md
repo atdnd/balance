@@ -1,6 +1,6 @@
 ---
 title: El Daredevil de Frank Miller
-date: '2015-05-20T00:56:17-03:00'
+date: 2015-05-20 00:56:17 -0300
 author: Gabriel Llagostera
 description: 'Review del comic de Daredevil de Frank Miller: la etapa mejor considerada
   por público y crítica, una época seminal en el personaje'

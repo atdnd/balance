@@ -1,6 +1,6 @@
 ---
 title: 'Terminator: Genisys tiene nuevo afiche oficial'
-date: '2015-05-18T01:24:13-03:00'
+date: 2015-05-18 01:24:13 -0300
 author: Micaela De Armas
 description: 'Afiche de Terminator: Genisys'
 Keywords: 'Terminator: Genisys, Sarah Connor, T-800, Arnold Schwarzenegger'

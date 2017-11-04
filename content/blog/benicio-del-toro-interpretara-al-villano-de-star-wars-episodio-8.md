@@ -1,6 +1,6 @@
 ---
 title: 'Benicio del Toro interpretará al villano de Star Wars: Episode VIII'
-date: '2015-09-08T11:35:52-03:00'
+date: 2015-09-08 11:35:52 -0300
 author: Micaela De Armas
 categories:
 - Noticias

@@ -1,6 +1,6 @@
 ---
 title: Más imágenes de Suicide Squad
-date: '2015-05-06T02:32:11-03:00'
+date: 2015-05-06 02:32:11 -0300
 image: 2015/05/suicide-squad-cast.jpg
 author: Micaela De Armas
 description: 'Mientras que Marvel sigue embolsando plata con Avengers: Age of Ultron,

@@ -1,6 +1,6 @@
 ---
 title: 'Martin Freeman se incorpora al reparto de Captain America: Civil War'
-date: '2015-05-05T18:16:13-03:00'
+date: 2015-05-05 18:16:13 -0300
 image: 2015/05/Martin-Freeman-cover.jpg
 author: Micaela De Armas
 description: 'Martin Freeman se une a Chris Evans, Robert Downey Jr., Chadwick Boseman

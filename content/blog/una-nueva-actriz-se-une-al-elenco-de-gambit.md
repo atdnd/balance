@@ -1,6 +1,6 @@
 ---
 title: Una nueva actríz se une al elenco de Gambit
-date: '2015-08-26T12:05:19-03:00'
+date: 2015-08-26 12:05:19 -0300
 author: Micaela De Armas
 categories:
 - Noticias

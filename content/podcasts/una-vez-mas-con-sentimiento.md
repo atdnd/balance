@@ -1,6 +1,6 @@
 ---
 title: Una vez más, con sentimiento
-date: '2015-08-12T22:30:52-03:00'
+date: 2015-08-12 22:30:52 -0300
 audio: balance-negativo-t01-e08
 description: Veneramos la figura creativa de Joss Whedon a través de toda su obra,
   donde marcamos sus luces y sombras. Un podcast maratónico para que quede en el mejor

@@ -1,6 +1,6 @@
 ---
 title: Habemus Podcast
-date: '2015-05-05T15:01:45-03:00'
+date: 2015-05-05 15:01:45 -0300
 subtitle: El Podcast que nadie pidió
 temporada: 1
 episodio: 1

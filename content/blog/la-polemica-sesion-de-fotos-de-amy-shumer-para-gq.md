@@ -1,6 +1,6 @@
 ---
 title: La polémica sesión de fotos de Amy Schumer para GQ
-date: '2015-07-16T13:29:50-03:00'
+date: 2015-07-16 13:29:50 -0300
 author: Micaela De Armas
 categories:
 - Noticias

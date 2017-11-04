@@ -1,6 +1,6 @@
 ---
 title: El lado luminoso del podcast
-date: '2015-12-14T01:51:29-03:00'
+date: 2015-12-14 01:51:29 -0300
 audio: balance-negativo-t01-e17
 description: Cerramos la primera temporada hablando de las 6 películas de Star Wars
   en un especial de 2 partes, empezando con la trilogía original; ¿son tan buenas

@@ -1,6 +1,6 @@
 ---
 title: Jugando con fuego - Review de Game of Thrones Temporada 5, Episodio 9
-date: '2015-06-08T19:01:47-03:00'
+date: 2015-06-08 19:01:47 -0300
 author: Micaela De Armas
 categories:
 - Reviews

@@ -1,6 +1,6 @@
 ---
 title: La verdad aún esta en el podcast
-date: '2016-03-04T04:46:21-03:00'
+date: 2016-03-04 04:46:21 -0300
 audio: balance-negativo-t02-e01
 description: "¡Primer podcast del 2016! Una reseña de la nueva temporada de los X
   Files, y recomendaciones varias, todo con la seriedad que nos caracteriza."

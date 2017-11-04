@@ -1,6 +1,6 @@
 ---
 title: Fantastic Fail
-date: '2015-09-17T16:03:20-03:00'
+date: 2015-09-17 16:03:20 -0300
 author: Micaela De Armas
 categories:
 - Noticias

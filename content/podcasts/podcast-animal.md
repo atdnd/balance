@@ -1,6 +1,6 @@
 ---
 title: Podcast Animal
-date: '2016-03-18T11:33:20-03:00'
+date: 2016-03-18 11:33:20 -0300
 audio: balance-negativo-t02-e02
 description: No podíamos esperar mucho para volver sobre otra obra de Grant Morrison;
   esta vez nos detenemos en su etapa al frente de Animal Man. También hablamos de

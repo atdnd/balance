@@ -1,6 +1,6 @@
 ---
 title: "¡Truco o Podcast!"
-date: '2015-10-31T19:54:45-03:00'
+date: 2015-10-31 19:54:45 -0300
 audio: balance-negativo-t01-e14
 description: Con la poca originalidad que nos caracteriza, le dedicamos un episodio
   a hablar de Halloween; repasamos su historia, influencia, y recomendamos algunas

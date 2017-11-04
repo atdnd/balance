@@ -1,6 +1,6 @@
 ---
 title: La verdad está en el podcast
-date: '2015-11-30T01:00:00-03:00'
+date: 2015-11-30 01:00:00 -0300
 audio: balance-negativo-t01-e16
 description: 'Nos preparamos para el gran regreso de los X Files con un especial dedicado
   a nuestros agentes del FBI favoritos: origen, análisis y destacamos algunos capítulos.

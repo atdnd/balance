@@ -1,6 +1,6 @@
 ---
 title: Joseph Gordon-Levitt abandona la adaptación cinematográfica de Sandman
-date: '2016-03-07T21:35:15-03:00'
+date: 2016-03-07 21:35:15 -0300
 author: Micaela De Armas
 categories:
 - Noticias

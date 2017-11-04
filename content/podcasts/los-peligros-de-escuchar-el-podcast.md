@@ -1,6 +1,6 @@
 ---
 title: Los peligros de escuchar el podcast
-date: '2016-12-11T16:15:20-03:00'
+date: 2016-12-11 16:15:20 -0300
 audio: balance-negativo-t02-e20
 description: En el cierre de esta 2da temporada nos ponemos a analizar el libro de
   cuentos Los Peligros de Fumar en la Cama, de la argentina Mariana Enríquez; historias

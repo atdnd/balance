@@ -1,6 +1,6 @@
 ---
 title: Una Boda de Invierno - Review de Game of Thrones Temporada 5, Episodio 6
-date: '2015-05-19T00:36:25-03:00'
+date: 2015-05-19 00:36:25 -0300
 author: Micaela De Armas
 description: Reseña de Game of Thrones. Temporada 5 Episodio 6. Unbowed, Unbent, Unbroken
 Keywords: Game of Thrones, Unbowed, Unbent, Unbroken, Sansa Stark

@@ -1,6 +1,6 @@
 ---
 title: No tan verdaderamente fantástico… el polémico trailer de Jem and the Holograms
-date: '2015-05-14T12:00:32-03:00'
+date: 2015-05-14 12:00:32 -0300
 author: Micaela De Armas
 description: Polémica por el trailer de Jem and the Holograms, adaptación de la serie
   animada de los 80s.

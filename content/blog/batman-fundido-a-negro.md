@@ -1,7 +1,7 @@
 ---
 title: 'Grandes Autores de Batman: Doug Moench y Kelley Jones Volumen 1: Fundido en
   Negro'
-date: '2015-05-26T16:29:39-03:00'
+date: 2015-05-26 16:29:39 -0300
 author: Gabriel Llagostera
 description: Review de Grandes Autores de Batman Volumen 1 editado por ECC
 Keywords: Batman, ECC, Doug Moench, Kelley Jones, Volumen 1, Fundido en Negro

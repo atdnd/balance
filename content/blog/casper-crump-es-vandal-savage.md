@@ -1,6 +1,6 @@
 ---
 title: Casper Crump es Vandal Savage en DC's Legends of Tomorrow
-date: '2015-08-05T16:45:16-03:00'
+date: 2015-08-05 16:45:16 -0300
 author: Micaela De Armas
 categories:
 - Noticias

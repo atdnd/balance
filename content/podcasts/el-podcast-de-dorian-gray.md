@@ -1,6 +1,6 @@
 ---
 title: El Podcast de Dorian Gray
-date: '2016-06-10T16:43:13-03:00'
+date: 2016-06-10 16:43:13 -0300
 audio: balance-negativo-t02-e08
 description: Analizamos una de las obras más representativas de Oscar Wilde y cómo
   sus temáticas se mantienen actuales. Para aprovechar el repaso de una gran novela

@@ -1,6 +1,6 @@
 ---
 title: Entrevista a Nicolás Peruzzo
-date: '2015-05-21T18:34:43-03:00'
+date: 2015-05-21 18:34:43 -0300
 author: Andrés Techera
 categories:
 - Noticias

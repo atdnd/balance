@@ -1,6 +1,6 @@
 ---
 title: Hablando de Dios. Episodio II
-date: '2015-11-16T01:00:00-03:00'
+date: 2015-11-16 01:00:00 -0300
 audio: balance-negativo-t01-e15
 description: Volvemos a la palabra de nuestro principal referente en la que se considera
   una de las mejores etapas de los X-Men. También recomendamos el Moon Knight de Warren

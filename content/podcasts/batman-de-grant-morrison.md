@@ -1,6 +1,6 @@
 ---
 audio: balance-negativo-t03-e11
-date: '2017-07-26T20:12:29+00:00'
+date: 2017-07-26 20:12:29 +0000
 description: Volvemos a analizar una obra de DC, esta vez en el comic. Recorremos
   la larga etapa que el guionista escocés escribió para el personaje (una de las mejores)
   desde 2006 hasta 2013, analizando aspectos argumentales, referencias, desarrollo

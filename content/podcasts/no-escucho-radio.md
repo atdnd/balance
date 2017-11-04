@@ -1,6 +1,6 @@
 ---
 title: No escucho... radio...
-date: '2016-08-19T03:47:04-03:00'
+date: 2016-08-19 03:47:04 -0300
 audio: balance-negativo-t02-e12
 description: En este nuevo episodio hablamos de Dracula, desde la inspiración original
   histórica, la novela de Bram Stoker, y algunas películas fundacionales para el personaje.

@@ -1,6 +1,6 @@
 ---
 title: DC's Legends of Tomorrow ya tiene su Hawkman.
-date: '2015-08-04T11:14:23-03:00'
+date: 2015-08-04 11:14:23 -0300
 author: Micaela De Armas
 categories:
 - Noticias

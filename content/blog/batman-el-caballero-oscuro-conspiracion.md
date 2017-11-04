@@ -1,6 +1,6 @@
 ---
 title: 'Batman El Caballero Oscuro: Conspiración'
-date: '2015-06-22T12:30:18-03:00'
+date: 2015-06-22 12:30:18 -0300
 author: Gabriel Llagostera
 categories:
 - Reviews

@@ -1,6 +1,6 @@
 ---
 title: Channing Tatum cierra acuerdo con Fox para Gambit.
-date: '2015-08-03T14:39:29-03:00'
+date: 2015-08-03 14:39:29 -0300
 author: Micaela De Armas
 categories:
 - Noticias

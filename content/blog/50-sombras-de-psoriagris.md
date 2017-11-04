@@ -1,7 +1,7 @@
 ---
 title: 50 Sombras de Psoriagrís - Review del 5to episodio de la 5ta temporada de Game
   of Thrones
-date: '2015-05-13T00:46:06-03:00'
+date: 2015-05-13 00:46:06 -0300
 author: Micaela De Armas
 Keywords: game of thrones, juego de tronos, psoriagris, quinta temporada, spoilers,
   hbo, jorah, tyrion, daenerys, jon snow, barristan selmi

@@ -1,7 +1,7 @@
 ---
 title: 'Captain America: Civil War retoma Avengers: Age of Ultron. Sinópsis oficial
   y lista de actores confirmados'
-date: '2015-05-07T14:31:03-03:00'
+date: 2015-05-07 14:31:03 -0300
 image: 2015/05/civil-war-cover.jpg
 author: Micaela De Armas
 description: 'Captain America: Civil War retoma desde el final de Avengers: Age of

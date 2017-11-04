@@ -1,6 +1,6 @@
 ---
 title: Harley Quinn y Deadshot, fotos desde el set de Suicide Squad
-date: '2015-05-12T22:25:46-03:00'
+date: 2015-05-12 22:25:46 -0300
 author: Andrés Techera
 categories:
 - Noticias

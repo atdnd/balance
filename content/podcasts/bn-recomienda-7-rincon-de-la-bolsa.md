@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 7: Rincón de la Bolsa'
-date: '2017-04-18T00:24:01+00:00'
+date: 2017-04-18 00:24:01 +0000
 audio: bnrecomienda-07
 description: En este nuevo BN Recomienda miramos nuestro propio país; les traemos
   el comentario de esta historieta escrita por Nicolás Peruzzo y dibujada por Gabriel

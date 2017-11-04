@@ -1,6 +1,6 @@
 ---
 audio: tortulia-negativa-4
-date: '2017-07-09T23:31:43+00:00'
+date: 2017-07-09 23:31:43 +0000
 description: |-
   Vuelve el crossover más esperado del podcast uruguayo: ¡La Tortulia Negativa! Una vez más, unimos fuerzas con nuestro podcast hermano, La Tortulia, para traer las opiniones que nadie pidió sobre el mundo del cine.
 

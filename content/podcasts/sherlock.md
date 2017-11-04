@@ -1,6 +1,6 @@
 ---
 title: Sherlock
-date: '2017-03-05T01:15:37+00:00'
+date: 2017-03-05 01:15:37 +0000
 audio: balance-negativo-t03-e02
 description: 'En este segundo episodio de la temporada analizamos la serie británica
   SHERLOCK, protagonizada por Benedict Cumberbatch en el rol del popular detective

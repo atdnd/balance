@@ -1,6 +1,6 @@
 ---
 title: Es por la implicación
-date: '2016-10-28T19:52:10-03:00'
+date: 2016-10-28 19:52:10 -0300
 audio: balance-negativo-t02-e17
 description: 'En este nuevo podcast nos detenemos en una comedia no muy conocida,
   y por eso decidimos analizarla: It''s Always Sunny in Philadelphia. También recomendaciones

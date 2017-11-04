@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 9: Samurai Champloo'
-date: '2017-06-05T21:56:43+00:00'
+date: 2017-06-05 21:56:43 +0000
 audio: bnrecomienda-09
 description: Gabriel Negativo nos recomienda un anime (en serio) sobre dos samurais
   que acompañan a una jovencita en una búsqueda que los llevará a recorrer un montón

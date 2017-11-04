@@ -1,6 +1,6 @@
 ---
 title: 'Los malos como protagonistas - Batman: Assault on Arkham'
-date: '2015-05-14T23:05:32-03:00'
+date: 2015-05-14 23:05:32 -0300
 author: Andrés Techera
 categories:
 - Reviews

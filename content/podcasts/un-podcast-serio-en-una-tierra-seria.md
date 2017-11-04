@@ -1,6 +1,6 @@
 ---
 title: Hablando de Dios. Episodio I
-date: '2015-10-19T02:02:20-03:00'
+date: 2015-10-19 02:02:20 -0300
 audio: balance-negativo-t01-e13
 description: 'Primer podcast dedicado a ese ser que tanto amamos: Grant Morrison.
   Hablamos de su vida, sus creencias, nuestra relación con Él, y hacemos un análisis
