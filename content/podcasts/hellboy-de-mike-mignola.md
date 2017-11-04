@@ -11,6 +11,5 @@ image: "/2017/11/logo hellboy.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/hellboy-de-mike-mignola/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
