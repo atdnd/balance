@@ -1,6 +1,6 @@
 ---
 title: Feliz Cumple Sir Arthur Conan Doyle!
-date: '2015-05-22T15:00:00-03:00'
+date: 2015-05-22 15:00:00 -0300
 author: Micaela De Armas
 categories:
 - Noticias

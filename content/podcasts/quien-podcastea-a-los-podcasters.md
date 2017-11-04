@@ -1,6 +1,6 @@
 ---
 title: Hablando del Diablo. Episodio I
-date: '2016-05-27T11:04:35-03:00'
+date: 2016-05-27 11:04:35 -0300
 audio: balance-negativo-t02-e07
 description: En esta primera parte del recorrido a la obra de Alan Moore, hablamos
   de Watchmen en su aniversario número 30; analizamos personajes, trama, estructura,

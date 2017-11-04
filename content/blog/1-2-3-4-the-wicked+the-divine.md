@@ -1,6 +1,6 @@
 ---
 title: Quiero todo lo que tienes - The Wicked + The Divine
-date: '2015-06-20T00:10:00-03:00'
+date: 2015-06-20 00:10:00 -0300
 author: Andrés Techera
 categories:
 - Reviews

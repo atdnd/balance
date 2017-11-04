@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 6: Medio Rey'
-date: '2017-03-29T20:29:05+00:00'
+date: 2017-03-29 20:29:05 +0000
 audio: bnrecomienda-06
 description: Esteban nos comenta la primera parte de esta saga de fantasía escrita
   por Joe Abercrombie.

@@ -1,6 +1,6 @@
 ---
 title: Escape del podcast
-date: '2016-07-08T15:44:59-03:00'
+date: 2016-07-08 15:44:59 -0300
 audio: balance-negativo-t02-tortulia-negativa-2
 description: "¡Vuelve la Tortulia Negativa! Dos podcasts, Balance Negativo y La Tortulia
   se unen nuevamente para analizar en profundidad dos obras del maestro John Carpenter.

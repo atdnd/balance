@@ -1,6 +1,6 @@
 ---
 title: Jocaish, el Ojo de Halcón
-date: '2016-11-11T02:37:58-03:00'
+date: 2016-11-11 02:37:58 -0300
 audio: balance-negativo-t02-e18
 description: Clint Barton protagonizó un excelente run escrito por Matt Fraction y
   dibujado por David Aja (entre otros); una serie independiente, adulta, con varias

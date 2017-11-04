@@ -1,6 +1,6 @@
 ---
 title: De modelos a tu mujer
-date: '2016-08-06T00:58:57-03:00'
+date: 2016-08-06 00:58:57 -0300
 audio: balance-negativo-t02-e11
 description: En este episodio recorremos la filmografía de Guillermo del Toro, desde
   Cronos hasta Crimson Peak; obras buenas y de las otras. Además del clásico bloque

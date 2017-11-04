@@ -1,6 +1,6 @@
 ---
 title: Ciencia, ética y monstruos
-date: '2016-10-14T11:59:53-03:00'
+date: 2016-10-14 11:59:53 -0300
 audio: balance-negativo-t02-e16
 description: Esta vez analizamos en profundidad FRANKENSTEIN, la icónica novela de
   Mary Shelley; personaje que todos conocen, pero no de la manera en que aparece en

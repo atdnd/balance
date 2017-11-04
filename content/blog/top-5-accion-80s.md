@@ -1,6 +1,6 @@
 ---
 title: Top 5 de acción de los 80s
-date: '2015-05-23T09:00:00-03:00'
+date: 2015-05-23 09:00:00 -0300
 author: Andrés Techera
 categories:
 - Reviews

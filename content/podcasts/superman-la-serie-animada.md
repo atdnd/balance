@@ -1,6 +1,6 @@
 ---
 title: Superman la serie animada
-date: '2017-07-12T22:59:57+00:00'
+date: 2017-07-12 22:59:57 +0000
 audio: balance-negativo-t03-e10
 description: 'Volvemos a la época dorada del timmverso para hablar de la serie del
   hombre de acero; durante casi hora y media analizamos los aspectos más importantes

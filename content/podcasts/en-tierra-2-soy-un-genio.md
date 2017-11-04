@@ -1,6 +1,6 @@
 ---
 title: En Tierra 2 soy un genio
-date: '2015-06-15T18:25:31-03:00'
+date: 2015-06-15 18:25:31 -0300
 audio: balance-negativo-t01-e04
 description: En este episodio analizamos la importancia de la continuidad en los comics,
   los reinicios y el fanatismo por la coherencia. Hablamos de cómo las grandes editoriales

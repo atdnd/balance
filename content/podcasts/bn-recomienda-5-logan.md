@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 5: Logan'
-date: '2017-03-20T23:18:11+00:00'
+date: 2017-03-20 23:18:11 +0000
 audio: bnrecomienda-05
 description: Gabriel comenta la nueva película de Fox protagonizada por el mutante
   con garras de adamantium.

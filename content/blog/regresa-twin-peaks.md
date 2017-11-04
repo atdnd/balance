@@ -1,6 +1,6 @@
 ---
 title: David Lynch confirma reboot de Twin Peaks
-date: '2015-05-16T08:00:00-03:00'
+date: 2015-05-16 08:00:00 -0300
 author: Autor
 description: Anuncio de David Lynch en su cuenta de twitter confirmando el reboot
   de Twin Peaks

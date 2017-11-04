@@ -1,6 +1,6 @@
 ---
 audio: bnrecomienda-11
-date: '2017-07-03T23:48:36+00:00'
+date: 2017-07-03 23:48:36 +0000
 description: Gabriel Negativo nos habla de un cineasta español no muy conocido que
   está haciendo sus primeros pinitos en Hollywood; recorre su filmografía y se detiene
   en su última obra.

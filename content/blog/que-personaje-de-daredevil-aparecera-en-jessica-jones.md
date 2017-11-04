@@ -1,6 +1,6 @@
 ---
 title: "¿Qué personaje de Daredevil aparecerá en Jessica Jones?"
-date: '2015-08-03T14:55:59-03:00'
+date: 2015-08-03 14:55:59 -0300
 author: Micaela De Armas
 categories:
 - Noticias

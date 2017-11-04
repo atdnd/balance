@@ -1,6 +1,6 @@
 ---
 title: El Podcast Sin Miedo
-date: '2016-04-29T23:35:04-03:00'
+date: 2016-04-29 23:35:04 -0300
 audio: balance-negativo-t02-e05
 description: En este podcast analizamos la 2da temporada de la serie de Netflix Daredevil
   (Dan Defensor para los más veteranos), con pinceladas de la 1ra y de Jessica Jones;

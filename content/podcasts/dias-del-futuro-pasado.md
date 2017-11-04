@@ -1,6 +1,6 @@
 ---
 title: Días del futuro pasado
-date: '2015-09-07T11:56:16-03:00'
+date: 2015-09-07 11:56:16 -0300
 audio: balance-negativo-t01-e10
 description: En un hecho sin precedentes, recibimos una grabación proveniente del
   futuro en el que se analizan algunas superproducciones que se estrenarán en 2016.

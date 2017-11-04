@@ -1,6 +1,6 @@
 ---
 title: Nos ponemos hipsters
-date: '2015-09-21T00:10:39-03:00'
+date: 2015-09-21 00:10:39 -0300
 audio: balance-negativo-t01-e11
 description: Esta semana recomendamos cuatro películas de sci fi indie recientes,
   para poder compartir buenas historias de género. Sin orden de calidad, sin spoilers

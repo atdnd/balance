@@ -1,6 +1,6 @@
 ---
 title: 'Recomendamos una novela policial uruguaya: Luces de Neón de Rodolfo Santullo'
-date: '2017-04-11T00:59:00+00:00'
+date: 2017-04-11 00:59:00 +0000
 author: Micaela De Armas
 categories:
 - Reviews
@@ -11,8 +11,6 @@ description: Luces de Neón es la séptima novela de Rodolfo Santullo dentro de 
 image: "/2017/04/LUCES-DE-NEON-Tapa-logo-bien.jpg"
 
 ---
-
-
 *Luces de Neón* es la séptima novela de Rodolfo Santullo dentro de la colección Cosecha Roja. Periodista, escritor, guionista y editor de cómics, Santullo es un prolífero autor que defiende el género policial en un país donde a veces predomina el prejuicio y la ignorancia.
 
 En* Luces de Neón *Santullo narra dos historias que se vinculan entre sí: un robo que ocurre en el casino de un hotel en Atlántida en 1986 y la golpiza de un empresario argentino que intenta reconstruir el hotel en el presente. Desde el principio de la novela Santullo nos deja claras pistas de cómo va a ser el final de la historia, poniendo al lector como cómplice de los hechos y revelando lo justo y suficiente para poder unir las historias. El lector puede deducir hacia dónde van los personajes, ahora lo que realmente importa es el cómo.

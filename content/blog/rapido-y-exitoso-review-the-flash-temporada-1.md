@@ -1,6 +1,6 @@
 ---
 title: 'Rápido y exitoso: Review de The Flash Temporada 1'
-date: '2015-06-16T22:00:53-03:00'
+date: 2015-06-16 22:00:53 -0300
 author: Gabriel Llagostera
 categories:
 - Reviews

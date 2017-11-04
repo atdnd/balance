@@ -1,6 +1,6 @@
 ---
 title: Vecinos Invasores
-date: '2016-09-02T02:03:21-03:00'
+date: 2016-09-02 02:03:21 -0300
 audio: balance-negativo-t02-e13
 description: Esta vez nos dedicamos al análisis de The Americans, excelente serie
   del canal FX que recorre el día a día de dos espías soviéticos en Estados Unidos,

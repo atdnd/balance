@@ -1,6 +1,6 @@
 ---
 title: El tamaño no importa. Review de Ant-Man (2015)
-date: '2015-07-21T11:36:26-03:00'
+date: 2015-07-21 11:36:26 -0300
 author: Micaela De Armas
 categories:
 - Reviews

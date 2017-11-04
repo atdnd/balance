@@ -1,6 +1,6 @@
 ---
 title: De Trailers y de Arte
-date: '2016-12-22T22:16:17-03:00'
+date: 2016-12-22 22:16:17 -0300
 audio: balance-negativo-t02-es2
 description: Nos juntamos con nuestros amigos Diego Soler (La Tortulia Podcast) y
   Manuel Galíndez (FM Multiplayer) para una charla distendida que empezó analizando

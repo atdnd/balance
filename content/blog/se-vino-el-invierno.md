@@ -1,6 +1,6 @@
 ---
 title: Se vino el invierno - Review de Game of Thrones Temporada 5, Episodio 8
-date: '2015-06-01T15:29:28-03:00'
+date: 2015-06-01 15:29:28 -0300
 author: Micaela De Armas
 categories:
 - Reviews

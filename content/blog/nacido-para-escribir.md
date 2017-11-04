@@ -1,6 +1,6 @@
 ---
 title: "¿Nacido para escribir?"
-date: '2017-02-25T16:57:45+00:00'
+date: 2017-02-25 16:57:45 +0000
 author: Gabriel Llagostera
 categories:
 - Reviews

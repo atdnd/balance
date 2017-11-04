@@ -1,6 +1,6 @@
 ---
 title: El Podcast Delator
-date: '2016-04-15T00:00:01-03:00'
+date: 2016-04-15 00:00:01 -0300
 audio: balance-negativo-t02-e04
 description: Probablemente uno de los cuentistas más importantes de la historia, maestro
   del terror psicológico, creador del relato policial... Edgar Allan Poe es todo eso

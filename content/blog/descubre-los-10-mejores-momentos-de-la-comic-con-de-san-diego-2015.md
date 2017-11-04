@@ -1,6 +1,6 @@
 ---
 title: Descubre los 10 mejores momentos de la Comic-Con de San Diego 2015
-date: '2015-07-13T16:03:40-03:00'
+date: 2015-07-13 16:03:40 -0300
 author: Micaela De Armas
 categories:
 - Noticias

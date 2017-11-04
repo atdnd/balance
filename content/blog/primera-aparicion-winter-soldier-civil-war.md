@@ -1,6 +1,6 @@
 ---
 title: 'La primera aparición de Winter Soldier en Captain America: Civil War'
-date: '2015-05-09T17:31:12-03:00'
+date: 2015-05-09 17:31:12 -0300
 author: Andrés Techera
 categories:
 - Noticias

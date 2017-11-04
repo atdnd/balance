@@ -1,6 +1,6 @@
 ---
 title: Quien pierde paga, segunda parte de la trilogía de Bill Hodges de Stephen King
-date: '2017-03-02T09:27:54+00:00'
+date: 2017-03-02 09:27:54 +0000
 author: Micaela De Armas
 categories:
 - Reviews

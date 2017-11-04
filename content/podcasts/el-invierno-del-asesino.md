@@ -1,6 +1,6 @@
 ---
 title: El invierno del asesino
-date: '2016-07-22T12:34:04-03:00'
+date: 2016-07-22 12:34:04 -0300
 audio: balance-negativo-t02-e10
 description: 'En este nuevo episodio nos metemos con la historieta europea, y especialmente
   con la española; analizamos dos obras totalmente diferentes pero maravillosas por

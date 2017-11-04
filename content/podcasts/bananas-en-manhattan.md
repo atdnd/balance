@@ -1,6 +1,6 @@
 ---
 title: "“Bananas en Manhattan”"
-date: '2016-09-30T11:54:52-03:00'
+date: 2016-09-30 11:54:52 -0300
 audio: balance-negativo-t02-e15
 description: Seguimos recorriendo la filmografía de Woody Allen, esta vez con Bananas
   y la multipremiada Manhattan. Las analizamos en profundidad, aunque sin spoilers.

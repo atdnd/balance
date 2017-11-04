@@ -1,6 +1,6 @@
 ---
 title: The League of Extraordinary Gentlemen de Alan Moore
-date: '2017-03-23T07:17:29+00:00'
+date: 2017-03-23 07:17:29 +0000
 audio: balance-negativo-t03-e03
 description: 'Volvemos al mundo del comic a lo grande: esta semana analizamos esta
   divertida obra del mago de Northampton, acompañado del genio de Kevin O''neill en

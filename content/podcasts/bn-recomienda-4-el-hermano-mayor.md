@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 4: El Hermano Mayor'
-date: '2017-03-04T22:01:43+00:00'
+date: 2017-03-04 22:01:43 +0000
 audio: bnrecomienda-04
 description: En esta ocasión, Gabriel Negativo nos habla de esta novela uruguaya escrita
   por Daniel Mella y considerada una de las mejores publicadas en nuestro país durante

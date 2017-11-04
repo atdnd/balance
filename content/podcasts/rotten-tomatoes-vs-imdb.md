@@ -1,6 +1,6 @@
 ---
 title: Rotten Tomatoes vs IMDb
-date: '2016-05-13T12:15:13-03:00'
+date: 2016-05-13 12:15:13 -0300
 audio: balance-negativo-t02-e06
 description: Particular podcast en el que tratamos de echar luz en esta guerra que
   han desatado los fanboys de los comics contra los críticos de cine. Particularidad

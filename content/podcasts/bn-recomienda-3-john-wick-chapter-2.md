@@ -1,6 +1,6 @@
 ---
 title: 'BN Recomienda 3: John Wick Chapter 2'
-date: '2017-03-04T21:45:36+00:00'
+date: 2017-03-04 21:45:36 +0000
 audio: bnrecomienda-03
 description: Esteban Balance se mete en el medio de un tiroteo para hablarnos de esta
   nueva entrega de la saga de acción con Keanu Reeves como protagonista. Una gran

@@ -1,6 +1,6 @@
 ---
 title: Batman en el set de Suicide Squad
-date: '2015-05-28T17:10:49-03:00'
+date: 2015-05-28 17:10:49 -0300
 author: Andrés Techera
 categories:
 - Noticias

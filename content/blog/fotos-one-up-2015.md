@@ -1,6 +1,6 @@
 ---
 title: Fotos de la ONEUP 2015
-date: '2015-05-18T14:48:17-03:00'
+date: 2015-05-18 14:48:17 -0300
 author: Andrés Techera
 categories:
 - Noticias

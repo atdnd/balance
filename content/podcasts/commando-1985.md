@@ -1,6 +1,6 @@
 ---
 title: Commando (1985)
-date: '2017-06-08T06:50:16+00:00'
+date: 2017-06-08 06:50:16 +0000
 audio: balance-negativo-t03-e08
 description: 'Tiempo de volver a los 80 con tiros, músculos y masculinidad extrema.
   También volvemos con Arnie pero esta vez para enfrentar a un enemigo más poderoso

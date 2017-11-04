@@ -1,6 +1,6 @@
 ---
 title: Chris Pine confirmó qué personaje de DC interpretará.
-date: '2015-07-31T11:40:07-03:00'
+date: 2015-07-31 11:40:07 -0300
 author: Micaela De Armas
 categories:
 - Noticias

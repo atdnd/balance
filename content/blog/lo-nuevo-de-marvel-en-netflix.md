@@ -1,6 +1,6 @@
 ---
 title: Lo nuevo de Marvel en Netflix
-date: '2015-07-28T21:43:41-03:00'
+date: 2015-07-28 21:43:41 -0300
 author: Micaela De Armas
 categories:
 - Noticias

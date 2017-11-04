@@ -1,6 +1,6 @@
 ---
 title: Misericordia. Review de Game of Thrones Temporada 5, Episodio 10
-date: '2015-06-16T20:39:06-03:00'
+date: 2015-06-16 20:39:06 -0300
 author: Micaela De Armas
 categories:
 - Reviews

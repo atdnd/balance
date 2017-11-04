@@ -1,6 +1,6 @@
 ---
 title: "¿Channing Tatum se bajó de Gambit?"
-date: '2015-07-29T12:10:22-03:00'
+date: 2015-07-29 12:10:22 -0300
 author: Micaela De Armas
 categories:
 - Noticias

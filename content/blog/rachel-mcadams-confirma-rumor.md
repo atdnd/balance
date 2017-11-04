@@ -1,6 +1,6 @@
 ---
 title: Rachel McAdams confirma el rumor
-date: '2015-07-25T17:30:57-03:00'
+date: 2015-07-25 17:30:57 -0300
 author: Micaela De Armas
 categories:
 - Noticias

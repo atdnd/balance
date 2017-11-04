@@ -1,6 +1,6 @@
 ---
 title: Blue Money
-date: '2016-04-01T11:37:04-03:00'
+date: 2016-04-01 11:37:04 -0300
 audio: balance-negativo-t02-e03
 description: En esta primera parte analizamos Take the Money and Run y Blue Jasmine,
   dos películas que demuestran el talento del gran Woody en diferentes géneros. También

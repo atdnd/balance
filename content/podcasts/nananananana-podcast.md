@@ -1,6 +1,6 @@
 ---
 title: Nananananana, ¡podcast!
-date: '2015-07-13T09:00:00-03:00'
+date: 2015-07-13 09:00:00 -0300
 audio: balance-negativo-t01-e06
 description: Amamos a Batman y en este episodio lo probamos hablando de sus mejores
   comics y de sus destacadas intervenciones en otros medios; para repasar si ya conocés

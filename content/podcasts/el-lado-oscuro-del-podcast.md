@@ -1,6 +1,6 @@
 ---
 title: El lado oscuro del podcast
-date: '2015-12-15T13:01:09-03:00'
+date: 2015-12-15 13:01:09 -0300
 audio: balance-negativo-t01-e18
 description: "¡Ahora sí se termina lo que se daba! Segunda parte del especial Star
   Wars con el análisis de las precuelas, y cierre de la primera temporada del podcast.

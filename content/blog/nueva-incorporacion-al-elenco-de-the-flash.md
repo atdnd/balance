@@ -1,6 +1,6 @@
 ---
 title: Nueva incorporacion al elenco de The Flash
-date: '2015-07-16T12:27:21-03:00'
+date: 2015-07-16 12:27:21 -0300
 author: Micaela De Armas
 categories:
 - Noticias
