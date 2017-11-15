@@ -9,7 +9,7 @@ description: Nos metemos en este episodio con uno de los monstruos clásicos de 
 duracion: '1:56:20'
 episodio: 16
 image: "/2017/11/logo frankenstein.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/frankenstein-1931-y-bride-of-frankenstein-1935-de-james-whale/
 subtitle: ''
 temporada: 3
 draft: true
