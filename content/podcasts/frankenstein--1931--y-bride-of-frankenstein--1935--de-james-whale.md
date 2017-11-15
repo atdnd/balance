@@ -1,14 +1,17 @@
 ---
 title: Frankenstein (1931) y Bride of Frankenstein (1935) de James Whale
 date: 2017-11-15 20:05:54 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: balance-negativo-t03-e16
+description: Nos metemos en este episodio con uno de los monstruos clásicos de la
+  Universal. Analizamos el díptico dirigido por James Whale y protagonizado por Boris
+  Karloff. Dos excelentes películas que atravesaron el ojo crítico de los prestigiosos
+  integrantes de este podcast.
+duracion: '1:56:20'
+episodio: 16
+image: "/2017/11/logo frankenstein.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: 3
 draft: true
 
 ---
