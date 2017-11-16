@@ -12,6 +12,5 @@ image: "/2017/11/logo frankenstein.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/frankenstein-1931-y-bride-of-frankenstein-1935-de-james-whale/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
