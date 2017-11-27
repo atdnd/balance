@@ -1,14 +1,15 @@
 ---
 title: 'BN Recomienda 18: Entusiasmo Sublime de Juan Estévez'
 date: 2017-11-26 22:53:55 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+audio: bnrecomienda-18
+description: Gabriel nos habla de esta novela debut de Juan Estévez que trata de personajes
+  marginados intentando sobrevivir en la época de la dictadura.
+duracion: '0:13:42'
+episodio: 18
+image: "/2017/11/entusiasmo sublime.jpg"
+mixcloudurl: ''
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
