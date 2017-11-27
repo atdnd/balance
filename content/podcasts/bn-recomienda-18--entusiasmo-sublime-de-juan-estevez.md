@@ -10,6 +10,5 @@ image: "/2017/11/entusiasmo sublime.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-18-entusiasmo-sublime-de-juan-est%C3%A9vez/
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
