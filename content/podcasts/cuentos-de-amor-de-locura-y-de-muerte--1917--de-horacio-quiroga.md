@@ -12,6 +12,5 @@ image: "/2017/11/Quiroga logo.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/cuentos-de-amor-de-locura-y-de-muerte-1917-de-horacio-quiroga/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
