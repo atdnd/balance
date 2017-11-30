@@ -9,7 +9,7 @@ description: 'A 100 años de su publicación, analizamos esta obra fundamental d
 duracion: '2:14:49'
 episodio: 17
 image: "/2017/11/Quiroga logo.jpg"
-mixcloudurl: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/cuentos-de-amor-de-locura-y-de-muerte-1917-de-horacio-quiroga/
 subtitle: ''
 temporada: 3
 draft: true
