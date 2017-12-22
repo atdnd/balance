@@ -12,6 +12,5 @@ image: "/2017/12/logo JL.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/justice-league-serie-animada-pel%C3%ADcula-del-dceu/
 subtitle: ''
 temporada: 3
-draft: true
 
 ---
