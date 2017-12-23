@@ -1,7 +1,7 @@
 ---
 title: Justice League (serie animada + película del DCEU)
 date: 2017-12-21 20:45:41 +0000
-audio: balance-negativo-t03-e18
+audio: balance-negativo-18
 description: "¡Final de temporada! Analizamos la serie animada de Justice League en
   sus dos etapas: la tradicional y la Ilimitada. Como no podemos con nuestro genio,
   terminamos mezclándolo con el comentario de la película del DCEU. Nos vamos por
