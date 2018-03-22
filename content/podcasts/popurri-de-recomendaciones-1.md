@@ -12,6 +12,5 @@ image: "/2018/03/popurri-1.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/popurrí-de-recomendaciones/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
