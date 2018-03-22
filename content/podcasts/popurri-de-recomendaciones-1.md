@@ -1,7 +1,7 @@
 ---
 title: Popurrí de recomendaciones
 date: 2018-03-22 03:04:10 +0000
-audio: balance-negativo-t04-e10
+audio: balance-negativo-t04-e01
 description: Comenzamos la nueva temporada hablando (y destruyendo) las películas
   y series que vimos durante el período que no estuvimos saliendo. Con nuevas incorporaciones
   al staff permanente (que ya están aportando más que los conductores de siempre)
