@@ -8,7 +8,7 @@ description: Comenzamos la nueva temporada hablando (y destruyendo) las películ
   nos reímos de todo lo que podemos. No nos odien.
 duracion: '1:20:00'
 episodio: 1
-image: "/2018/03/VHS_Tapes_on_Library_Shelves.JPG"
+image: "/2018/03/popurri.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/t04-e01/
 subtitle: ''
 temporada: 4
