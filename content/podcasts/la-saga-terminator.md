@@ -8,10 +8,9 @@ description: 'En este episodio nos metemos con un personaje muy querido y analiz
   Gonzalo Chocca del podcast Like a Voz.'
 duracion: '4:08:00'
 episodio: 2
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo
+image: "/2018/04/logo-cuadrado.jpg"
+mixcloudurl: https://www.mixcloud.com/balancenegativo/la-saga-terminator/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
