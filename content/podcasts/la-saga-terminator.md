@@ -1,14 +1,17 @@
 ---
 title: La saga Terminator
 date: 2018-04-04 23:27:56 +0000
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
+audio: balance-negativo-t04-e02
+description: 'En este episodio nos metemos con un personaje muy querido y analizamos
+  las cinco películas que han salido. Lo bueno, lo malo y lo muy malo se hacen presente
+  en este largo podcast. Además contamos con la presencia de un invitado especial:
+  Gonzalo Chocca del podcast Like a Voz.'
+duracion: '4:08:00'
+episodio: 2
 image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+mixcloudurl: https://www.mixcloud.com/balancenegativo
+subtitle: ''
+temporada: 4
 draft: true
 
 ---
