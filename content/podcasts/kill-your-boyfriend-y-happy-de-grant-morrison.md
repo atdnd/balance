@@ -8,10 +8,9 @@ description: Volvemos con nuestros dios particular, esta vez para hablar de dos 
   del podcast.
 duracion: '1:00:00'
 episodio: 3
-image: ''
+image: "/2018/04/killyourboyfriend.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
