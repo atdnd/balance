@@ -8,9 +8,10 @@ description: Volvemos con nuestros dios particular, esta vez para hablar de dos 
   del podcast.
 duracion: '1:00:00'
 episodio: 3
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
+image: ''
+mixcloudurl: https://www.mixcloud.com/balancenegativo/
 subtitle: ''
 temporada: 4
+draft: true
 
 ---
