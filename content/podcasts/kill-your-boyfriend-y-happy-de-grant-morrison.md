@@ -9,7 +9,7 @@ description: Volvemos con nuestros dios particular, esta vez para hablar de dos 
 duracion: '1:28:38'
 episodio: 3
 image: "/2018/04/killyourboyfriend.jpg"
-mixcloudurl: https://www.mixcloud.com/balancenegativo/
+mixcloudurl: https://www.mixcloud.com/balancenegativo/kill-your-boyfriend-y-happy-de-grant-morrison/
 subtitle: ''
 temporada: 4
 
