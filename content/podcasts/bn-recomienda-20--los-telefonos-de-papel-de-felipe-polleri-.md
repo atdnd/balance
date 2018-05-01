@@ -1,14 +1,16 @@
 ---
-title: 'BN Recomienda 20: Los teléfonos de papel de Felipe Polleri '
-date: 2018-05-01 14:03:17 -0300
-audio: balance-negativo-t01-e07
-description: Descripcion
-duracion: '1:00:00'
-episodio: 7
-image: bn_herotest.jpg
-mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
-subtitle: SubTitle
-temporada: 1
+title: 'BN Recomienda 20: Los teléfonos de papel de Felipe Polleri'
+date: 2018-05-01 13:00:00 -0300
+audio: bnrecomienda-20
+description: Gabriel Negativo nos trae la nueva novela de este fantástico narrador
+  uruguayo. Un estilo fragmentado, difuso, complejo y divertido. Un universo particular
+  que atrapa enseguida.
+duracion: '08:56'
+episodio: 20
+image: "/2018/05/telefonos-de-papel.jpg"
+mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-20-los-tel%C3%A9fonos-de-papel-de-felipe-polleri/
+subtitle: ''
+temporada: Recomendaciones
 draft: true
 
 ---
