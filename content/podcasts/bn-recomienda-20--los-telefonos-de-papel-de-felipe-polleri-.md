@@ -11,6 +11,5 @@ image: "/2018/05/telefonos-de-papel.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/bn-recomienda-20-los-tel%C3%A9fonos-de-papel-de-felipe-polleri/
 subtitle: ''
 temporada: Recomendaciones
-draft: true
 
 ---
