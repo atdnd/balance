@@ -7,7 +7,7 @@ description: En este episodio analizamos esta excelente serie animada injustamen
   principales, las distintas tramas y las vueltas de tuerca que tiene. Todo sazonado
   con comentarios políticamente incorrectos que ya son la marca de la casa.
 duracion: '1:28:38'
-episodio: 4
+episodio: 5
 image: "/2018/05/young-justice.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/young-justice-la-serie-animada/
 subtitle: ''
