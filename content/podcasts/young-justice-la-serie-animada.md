@@ -12,6 +12,5 @@ image: "/2018/05/young-justice.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/young-justice-la-serie-animada/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
