@@ -11,6 +11,5 @@ image: "/2018/05/un-mundo-feliz.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/t01-e06/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
