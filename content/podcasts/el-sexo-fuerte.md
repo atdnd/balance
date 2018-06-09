@@ -1,5 +1,5 @@
 ---
-title: El sexo fuerte
+title: El Sexo Fuerte
 date: 2015-07-27 18:37:26 -0300
 audio: balance-negativo-t01-e07
 description: Esta semana analizamos el rol de la mujer en el comic de superhéroes
@@ -19,5 +19,7 @@ keywords:
 - Películas
 - libros
 - podcast
+draft: false
+subtitle: ''
 
 ---
