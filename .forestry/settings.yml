@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: "/"
 webhook_url: 
 sections:
-  podcasts:
+  content/podcasts:
     default_front_matter_template: podcasts
-  contacto:
+  content/contacto:
     default_front_matter_template: contacto
-  acerca:
+  content/acerca:
     default_front_matter_template: acerca
-  blog:
+  content/blog:
     default_front_matter_template: blog
 upload_dir: static/img
 public_path: "/img"
