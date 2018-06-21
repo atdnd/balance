@@ -13,6 +13,6 @@ image: "/2018/06/xfiles11.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/the-x-files-temporada-11/
 subtitle: ''
 temporada: 4
-draft: true
+draft: false
 
 ---
