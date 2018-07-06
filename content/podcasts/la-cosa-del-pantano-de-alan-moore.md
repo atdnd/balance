@@ -12,6 +12,5 @@ image: "/2018/07/swampthing.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/la-cosa-del-pantano-de-alan-moore/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
