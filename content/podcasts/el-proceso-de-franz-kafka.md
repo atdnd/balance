@@ -11,6 +11,5 @@ image: "/2018/07/el-proceso-franz-kafka-debolsillo.jpg"
 mixcloudurl: https://www.mixcloud.com/balancenegativo/El-Proceso-de-Franz-Kafka/
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
