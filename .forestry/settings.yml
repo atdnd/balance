@@ -4,26 +4,31 @@ auto_deploy: false
 admin_path: "/"
 webhook_url: 
 sections:
-- path: content/blog
-  label: Blog
-  create: all
-  default_front_matter_template: blog
-- path: content/acerca
-  label: Acerca
-  create: all
-  default_front_matter_template: acerca
-- path: content
-  label: Pages
-  create: all
-  default_front_matter_template: page
-- path: content/contacto
-  label: Contacto
-  create: all
-  default_front_matter_template: contacto
-- path: content/podcasts
+- type: directory
+  path: content/podcasts
   label: Podcasts
   create: all
-  default_front_matter_template: podcasts
+  match: "**/*"
+- type: directory
+  path: content/contacto
+  label: Contacto
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/acerca
+  label: Acerca
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blog
+  label: Blog
+  create: all
+  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''

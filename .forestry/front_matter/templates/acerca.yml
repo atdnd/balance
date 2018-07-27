@@ -1,4 +1,5 @@
 ---
+label: acerca
 hide_body: false
 is_partial: false
 fields:
@@ -17,3 +18,5 @@ fields:
   label: Draft
   hidden: false
   type: boolean
+pages:
+- content/acerca/index.html
