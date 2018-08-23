@@ -1,5 +1,5 @@
 ---
-title: 'BN Recomienda 21: Fractura de Andrés Neumann'
+title: 'BN Recomienda 21: Fractura de Andrés Neuman'
 date: 2018-08-23 15:18:45 -0300
 audio: bnrecomienda-21
 description: Gabriel Negativo nos habla esta vez de una novela argentina de reciente
