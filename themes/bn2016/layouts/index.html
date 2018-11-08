@@ -69,7 +69,7 @@
 
 <div role="main">
 	{{ range first 1 (where .Site.Pages "Section" "podcasts") }}
-		<section class="hero" style="background-image: url(/img/{{ .Params.image }})">
+		<section class="hero" style="background-image: url(/img{{ .Params.image }})">
 			<div class="hero__wrp">
 				<div class="hero__wrp-cnt">
 					<span class="hero__meta">Temporada {{ .Params.temporada }}: Episodio {{ .Params.episodio }}</span>
