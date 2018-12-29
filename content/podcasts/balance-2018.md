@@ -1,6 +1,6 @@
 ---
 title: Balance 2018
-date: ''
+date: 2018-12-29 00:00:00 -0300
 audio: balancenegativo-t04-e12
 description: 'Volvimos con el clásico balance de fin de año; hablamos de películas,
   series, y hasta un disco musical. Después debatimos sobre el futuro del streaming.
