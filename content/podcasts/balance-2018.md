@@ -16,6 +16,5 @@ image: "/2018/12/63201571-me-encantan-las-películas-de-rollo-de-película.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 4
-draft: true
 
 ---
