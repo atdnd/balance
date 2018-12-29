@@ -12,7 +12,7 @@ description: 'Volvimos con el clásico balance de fin de año; hablamos de pelí
   como ya es característico en nosotros. '
 duracion: ''
 episodio: 12
-image: ''
+image: "/2018/12/63201571-me-encantan-las-películas-de-rollo-de-película.jpg"
 mixcloudurl: ''
 subtitle: ''
 temporada: 4
