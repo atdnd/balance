@@ -10,7 +10,7 @@ description: 'Volvimos con el clásico balance de fin de año; hablamos de pelí
   Objects, Sirius the Jaeger, The Dragon Prince, The Haunting of Hill House y Voltron.
   El disco Stranger Fruit de la banda Zeal & Ardor. 2 horas 30 de polémica y discusión,
   como ya es característico en nosotros. '
-duracion: ''
+duracion: '02:35:02'
 episodio: 12
 image: "/2018/12/63201571-me-encantan-las-películas-de-rollo-de-película.jpg"
 mixcloudurl: ''
