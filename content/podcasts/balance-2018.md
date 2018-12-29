@@ -1,7 +1,7 @@
 ---
 title: Balance 2018
 date: ''
-audio: ''
+audio: balancenegativo-t04-e12
 description: 'Volvimos con el clásico balance de fin de año; hablamos de películas,
   series, y hasta un disco musical. Después debatimos sobre el futuro del streaming.
   Analizamos las siguientes películas: Mission Impossible Fallout, Phantom Thread,
